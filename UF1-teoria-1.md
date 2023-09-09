@@ -41,4 +41,23 @@ Windows 98
 ![image](https://github.com/XaSaFa/MP04/assets/110727546/3efc4806-2c66-4119-af16-1d481fc5d891)
 Mac OS X
 
+### Què és un sistema operatiu en xarxa (NOS - Network Operating System):
+
+- Un S.O. s'encarrega de coordinar l'interacció entre el hardware (CPU, memòria, perifèrics) i el software (programes, aplicacions).
+
+- Un S.O. en xarxa coordina l'interacció entre els recursos de la xarxa i els equips de la mateixa, de forma centralitzada mitjançant un ordinador principal.
+
+- El S.O. en xarxa manté dos o més equips units mitjançant un mitjà de comunicació (Wifi, cable) amb l'objectiu de compartir recursos hardware i software.
+
+- Els S.O. en xarxa més utilitzats són: Windows server, Unix i Linux.
+
+- D'altres com Novell Netware o LAN Manager van ser NOS que ja no s'utilitzen.
+
+- A una xarxa amb NOS hi ha dos tipus de rols diferenciats:
+  - Servidors: Equipats amb un NOS. S'encarreguen de proporcionar recursos als clients.
+  - Clients: Equipats amb S.O. monolloc. Es connecten i validen al servidor per poder treballar.
+
+ Si no existeix un NOS tots els equips tenen la mateixa consideració (d'igual a igual).
+
+ 
 
