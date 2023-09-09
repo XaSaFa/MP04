@@ -59,5 +59,71 @@ Mac OS X
 
  Si no existeix un NOS tots els equips tenen la mateixa consideració (d'igual a igual).
 
- 
+### Software i hardware d'un NOS:
+
+- Software als clients: Disposen de software per connectar amb els servidors.
+- Software als servidors: Tenen tota mena de software específic per subministrar serveis als clients.
+
+![image](https://github.com/XaSaFa/MP04/assets/110727546/3b1c2419-bee8-4934-ba9c-e07854585d5a)
+
+- Els NOS actuals són multitasca (poden executar més d'una tasca a la vegada) i multiprocés (poden distribuir l'execució de programes en més d'un processador).
+
+### Característiques d'un NOS:
+
+- La gestió centralitzada de recursos i equips de la xarxa és realitzada per un servidor amb S.O. en xarxa.
+
+- Apareix la figura de l'administrador de xarxa, que gestiona la
+infraestructura de la xarxa.
+
+- Connecta tots els equips i recursos de la xarxa.
+  
+- Coordina les funcions dels perifèrics i recursos.
+
+- Proporciona seguretat controlant l'accés a les dades i recursos.
+
+- Optimitza la utilització dels recursos.
+
+### Funcionalitats d'un NOS:
+
+- Compartir recursos:
+  - Permetre diferents usuaris amb nivells d'accés diferents als recursos (privilegis)
+  - Coordinació a l'accés als recursos.
+
+- Gestió d'usuaris o grups d'usuaris que poden accedir als recursos de la xarxa:
+  - Crear, esborrar, modificar usuaris o grups usuaris.
+  - Atorgar permisos d'usuari a recursos de xarxa.
+  - Assignar o denegar permisos d'usuari a la xarxa.
+
+- Gestió xarxa:
+  - Monitorització (congestió, fallades).
+  - Seguretat.
+
+### Serveis de xarxa d'un NOS:
+
+Els serveis de xarxa són programes que s'executen de manera permanent als S.O. i que determinen què és el que es pot fer sobre el sistema.
+
+- Seguretat. Polítiques de seguretat.
+- Ús compartit de fitxers.
+- Impressió.
+- Correu electrònic i missatgeria.
+- Web.
+- Suports d'interoperabilitat per a connexions amb altres sistemes operatius.
+- Serveis d'automatització de processos.
+
+### Windows Server:
+
+![image](https://github.com/XaSaFa/MP04/assets/110727546/40c274e7-8c18-4c6b-92ed-92bdf67d6c3b)
+
+🕵🏼‍♂️🕵🏼‍♂️🕵🏼‍♂️🕵🏼‍♂️🕵🏼‍♂️🕵🏼‍♂️🕵🏼‍♂️🕵🏼‍♂️🕵🏼‍♂️🕵🏼‍♂️🕵🏼‍♂️🕵🏼‍♂️🕵🏼‍♂️🕵🏼‍♂️🕵🏼‍♂️🕵🏼‍♂️🕵🏼‍♂️🕵🏼‍♂️🕵🏼‍♂️🕵🏼‍♂️🕵🏼‍♂️🕵🏼‍♂️🕵🏼‍♂️🕵🏼‍♂️🕵🏼‍♂️🕵🏼‍♂️🕵🏼‍♂️
+**Activitat: **
+
+1.- Quines versions de Windows Server tenen suport actualment i quan acaben el seu suport.
+
+2.- Característiques mínimes per utilitzar Windows Server 2016.
+
+3.-Què significa Powershell?
+
+4.- Quines versions de Windows Server 2016 existeixen? Explica les seves característiques.
+
+🕵🏼‍♂️🕵🏼‍♂️🕵🏼‍♂️🕵🏼‍♂️🕵🏼‍♂️🕵🏼‍♂️🕵🏼‍♂️🕵🏼‍♂️🕵🏼‍♂️🕵🏼‍♂️🕵🏼‍♂️🕵🏼‍♂️🕵🏼‍♂️🕵🏼‍♂️🕵🏼‍♂️🕵🏼‍♂️🕵🏼‍♂️🕵🏼‍♂️🕵🏼‍♂️🕵🏼‍♂️🕵🏼‍♂️🕵🏼‍♂️🕵🏼‍♂️🕵🏼‍♂️🕵🏼‍♂️🕵🏼‍♂️🕵🏼‍♂️
 
