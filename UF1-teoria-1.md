@@ -30,4 +30,15 @@ CP/M - Digital Research
 ![image](https://github.com/XaSaFa/MP04/assets/110727546/bf0688fc-2379-4e38-b2aa-68f081a33b0f)
 MS-DOS - Microsoft
 
+Més endavant aparèixen els sistemes domèstics amb interfícies gràfiques com MacOS, Windows o Linux que adapta un sistema operatiu anterior anomenat Unix.
+
+![image](https://github.com/XaSaFa/MP04/assets/110727546/563ff35d-ea5f-43fc-b461-92ce674e0360)
+Windows 3.11
+
+![image](https://github.com/XaSaFa/MP04/assets/110727546/8edd95dd-1932-42b2-ab7b-5b92e81ae146)
+Windows 98
+
+![image](https://github.com/XaSaFa/MP04/assets/110727546/3efc4806-2c66-4119-af16-1d481fc5d891)
+Mac OS X
+
 
