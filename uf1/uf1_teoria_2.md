@@ -1,6 +1,6 @@
 # UF1 - Sistemes operatius propietaris en xarxa.
 
-## Sistemes de fitxers a Windows:
+# Sistemes de fitxers a Windows:
 
 Farem un repàs als principals sistemes de fitxers de Windows.
 
@@ -31,7 +31,13 @@ La grandària màxima d’un fitxer en FAT32 segueix resultant insuficient avui 
 
 Si passem de FAT 32 a NTFS, el procés no es pot tornar a invertir.
 
-## Sistemes de fitxers a Linux:
+### ExFAT (Extensible File Allocation Table)
+
+Un sistema de fitxers que permet manipular fitxers molt grans i incrementar la velocitat d'escriptura i lectura.
+
+Son utilitzar-se en unitats flash con discos externs o pendrives.  
+
+# Sistemes de fitxers a Linux:
 
 ![image](https://github.com/XaSaFa/MP04/assets/110727546/5e864f1b-48d3-4857-ac51-e2891cb99565)
 
@@ -41,7 +47,7 @@ Si passem de FAT 32 a NTFS, el procés no es pot tornar a invertir.
 
 Aquest sistema d'arxius el trobarem a estacions amb sistemes operatius Linux (Red Hat, Fedora, Debian), o Unix en general.
 
-### EXT 3
+### EXT 3 i EXT 4
 
 Sistema de fitxers amb un registre diari (bitàcora) dels arxius del sistema (journaling filesystem).
 
@@ -51,4 +57,20 @@ Molt eficaç a l'hora de treballar amb grans quantitats d'arxius petits.
 
 Igual que EXT2 trobarem aquest sistema d'arxius en equips amb sistemes operatius Linux o Unix.
 
+### Altres
 
+Existeixen altres sistemes fitxers per a Linux com ReiserFS, XFS, JFS i d'altres però són menys utilitzats.
+
+# Journaling file system
+
+El Journaling és una tècnica per la qual el sistema, quan ha de modificar fitxers (fer una transacció), guarda certa informació sobre els canvis a efectuar en un "journal", un diari i es bloquegen les estructures afectades.
+
+En cas d'haver una fallada del sistema que impedeix finalitzar la transacció el sistema operatiu utilitza el journal per restablir els fitxers a l'estat anterior a la mateixa (desfer els canvis).
+
+Quan ha acabat una transacció s'esborra el journal i es desbloquegen les estructures de dades afectades.
+
+
+
+
+
+Així s'eviten fer moltes comprovacions sobre el sistema de fitxers i colapsar-lo.
