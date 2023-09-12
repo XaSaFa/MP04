@@ -129,10 +129,29 @@ Els serveis de xarxa són programes que s'executen de manera permanent als S.O. 
 
 1.- Quines versions de Windows Server tenen suport actualment i quan acaben el seu suport.
 
+[Link](https://learn.microsoft.com/es-es/deployoffice/endofsupport/windows-server-support#windows-server-2008-r2) 
+
+Windows Server 2022 - 
+Windows Server 2019 - 
+Windows Server 2016 - 
+Windows Server 2012 R2 - 
+Windows Server 2012 - 13/10/2026
+Windows Server 2008 R2 (Extended Security Update Year 4 (Azure only)) - 09/01/24
+
+
 2.- Característiques mínimes per utilitzar Windows Server 2016.
+
+CPU: 64 bits 1,4GHz.
+RAM: 512 MB. (sense interfície gràfica) 2 GB (amb interfície gràfica).
+Disc dur: 32GB.
+Network.
 
 3.-Què significa Powershell?
 
+[Link a Microsoft](https://learn.microsoft.com/es-es/powershell/scripting/overview?view=powershell-7.3#command-line-shell)
+
 4.- Quines versions de Windows Server 2016 existeixen? Explica les seves característiques.
+
+Datacenter, Standard i Essentials.
 
 🕵🏼‍♂️🕵🏼‍♂️🕵🏼‍♂️🕵🏼‍♂️🕵🏼‍♂️🕵🏼‍♂️🕵🏼‍♂️🕵🏼‍♂️🕵🏼‍♂️🕵🏼‍♂️🕵🏼‍♂️🕵🏼‍♂️🕵🏼‍♂️🕵🏼‍♂️🕵🏼‍♂️🕵🏼‍♂️🕵🏼‍♂️🕵🏼‍♂️🕵🏼‍♂️🕵🏼‍♂️🕵🏼‍♂️🕵🏼‍♂️🕵🏼‍♂️🕵🏼‍♂️🕵🏼‍♂️🕵🏼‍♂️🕵🏼‍♂️
