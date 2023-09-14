@@ -87,15 +87,19 @@ c.- El tamany màxim de nom de fitxer.
 d.- Sistema operatiu que el soporta.
 
 e.- Si el sistema de fitxers suporta Journaling o no.
+FAT16- 2GB, 4GB, 8.3caràcters, DOS W9x i WMe, No.
+FAT32- 4GB, 2TB, 8.3car, W9X,OS/2, Linux. No.
+NTFS- 16TB, 16TB, 255car, W NT i posteriors. Sí
+
 
 2.- Quin sistema de fitxers ha de tenir un disc per instal·lar els següents sistemes operatius?
 
-a.- Windows 10.
+a.- Windows 10. NTFS.
 
-b.- Windows 2016 Server.
+b.- Windows 2016 Server. NTFS.
 
-c.- Ubuntu 22 Desktop.
+c.- Ubuntu 22 Desktop. Ext4.
 
-d.- Ubuntu 22 Server.
+d.- Ubuntu 22 Server. Ext4.
 
 🕵🏼‍♂️🕵🏼‍♂️🕵🏼‍♂️🕵🏼‍♂️🕵🏼‍♂️🕵🏼‍♂️🕵🏼‍♂️🕵🏼‍♂️🕵🏼‍♂️🕵🏼‍♂️🕵🏼‍♂️🕵🏼‍♂️🕵🏼‍♂️🕵🏼‍♂️🕵🏼‍♂️🕵🏼‍♂️🕵🏼‍♂️🕵🏼‍♂️🕵🏼‍♂️🕵🏼‍♂️🕵🏼‍♂️🕵🏼‍♂️🕵🏼‍♂️🕵🏼‍♂️🕵🏼‍♂️🕵🏼‍♂️🕵🏼‍♂️
