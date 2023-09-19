@@ -36,7 +36,7 @@ grup següent: IABSMX2.
 Paràmetres de la xarxa interna (intnet):
 IP: 192.168.XX.10/24 on XX és el teu número d'ordre al llistat d'alumnes.
 DNS: 192.168.XX.10
-Porta d'enllaç: 192.168.XX.10
+Porta d'enllaç: 192.168.XX.1
 Paràmetres de la xarxa NAT
 Fer servir DHCP.
 
