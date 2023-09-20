@@ -20,6 +20,15 @@ Aquí veiem que tenim el disc nou assignat al PC amb el codi Disco 1:
 
 ![image](https://github.com/XaSaFa/MP04/assets/110727546/86228d3e-5a7d-4646-99ed-cce0da3ff5db)
 
+
+Una alra manera de veure els discos d'un equip és mitjançant el panell d'administrador del servidor:
+
+![image](https://github.com/XaSaFa/MP04/assets/110727546/330c1029-912e-4ae9-8420-abb244b0f22a)
+
+I seleccionem "Discos" per veure'ls:
+
+![image](https://github.com/XaSaFa/MP04/assets/110727546/8403c78f-f6bd-4010-ab7e-edcd4203dc2f)
+
 # Utilització del símbol de sistema:
 
 A vegades, durant el procés d’instal·lació us manquen dades que necessiteu per continuar la instal·lació. En el moment en què l’assistent de la instal·lació us pregunta ¿Dónde desea instalar Windows?.
