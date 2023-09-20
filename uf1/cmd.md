@@ -54,6 +54,10 @@ Per veure les comandes disponibles escrivim a dins de diskpart **help**
 
 ![image](https://github.com/XaSaFa/MP04/assets/110727546/38fabf2c-77e7-428e-99fb-ecb00f67c05f)
 
+### Disc, Volum, partició seleccionat:
+
+**Quan escrivim ordres de diskpart em d'estar segurs que ho fem al disc, partició o volum que toca, quan fem un list disk, list volume o list partition el que està seleccionat tindrà un * davant.
+**
 ### Crear una partició:
 
 Es fa servir la comanda **create partition tipus size=X** on X és el tamany en MB de la partició i tipus indica si la partició serà:
@@ -65,6 +69,8 @@ Es fa servir la comanda **create partition tipus size=X** on X és el tamany en 
  En aquest exemple estem creant una partició primària de 5GB (5120MB):
 
 ![image](https://github.com/XaSaFa/MP04/assets/110727546/da712de6-74bc-46f5-a07f-8d4c197d79fb)
+
+**Important:** Recordeu que per crear particions lògiques primer heu de crear una partició estesa.
 
 ### Assignar lletra a una partició:
 
@@ -88,6 +94,43 @@ I aquí els detalls de la partició:
 
 ![image](https://github.com/XaSaFa/MP04/assets/110727546/421fde10-998e-4c30-a3a0-a1be23753e27)
 
+Quan el disc estigui formatejat ens sortirà a l'explorador de fitxers de Windows:
+
+![image](https://github.com/XaSaFa/MP04/assets/110727546/07b3ff97-ef8f-4499-8e32-c86744bcf146)
+
+I, després d'actualitzar, també al Panell d'administració de Windows:
+
+![image](https://github.com/XaSaFa/MP04/assets/110727546/6b4b0885-54d4-4646-bf8b-09f753ab948c)
+
+### Ampliar el tamany d'una partició:
+
+Per a ampliar el tamany d'una partició utilitzem la comanda extend seguida del tamany a ampliar, per exemple si volem ampliar 1GB la partició fem:
+
+![image](https://github.com/XaSaFa/MP04/assets/110727546/d92cd18c-a041-40b1-86a2-28c8372e39d2)
+
+### Reduir el tamany d'una partició:
+
+Per a reduir el tamany d'una partició utilitzem la comanda shrink seguida del tamany que volem treure (restar) a la partició, per exemple si volem treure 4GB de la partició fem:
+
+![image](https://github.com/XaSaFa/MP04/assets/110727546/ed10e250-c345-487a-bd43-e73732d1e527)
+
+### Eliminar partició/volum:
+
+Per eliminar una partició es fa servir la comanda delete.
+
+Primer ens assegurem que tenim seleccionada la partició que volem esborrar.
+
+A l'exemple següent esborrem el volum 4:
+
+![image](https://github.com/XaSaFa/MP04/assets/110727546/ee35864a-c7ba-4a51-b8ff-f3693cbece8d)
+
+### Esborrar disc:
+
+**PRECAUCIÓ** aquesta comanda elimina tots els volums i particions d'un disc, assegureu-vos d'haver seleccionat el disc correcte.
+
+La comanda és **clean all**, al següent exemple esborrem un disc que tenia una partició.
+
+![image](https://github.com/XaSaFa/MP04/assets/110727546/b7a94065-33ff-4d07-bfa5-4432032aee0d)
 
 
 
