@@ -74,6 +74,20 @@ S'utilitza la comanda **assign leter=X** on X és la lletra d'unitat.
 
 ![image](https://github.com/XaSaFa/MP04/assets/110727546/6a56c7da-cd6e-47b5-86fd-0e012270058a)
 
+### Formatejar partició:
+
+Formatejar una partició li assigna un format, un tipus de sistema de fitxers: FAT, FAT32, exFAT, NTFS, UDF o ReFS.
+
+Durant el formatejat es pot assignar una etiqueta a la partició. 
+
+El següent exemple formateja la partició a format NTFS, li assigna l'etiqueta "PartyZ" i fa el format ràpid.
+
+![image](https://github.com/XaSaFa/MP04/assets/110727546/7b895a94-916e-4af6-8372-09cbd2a26c0d)
+
+I aquí els detalls de la partició:
+
+![image](https://github.com/XaSaFa/MP04/assets/110727546/421fde10-998e-4c30-a3a0-a1be23753e27)
+
 
 
 
