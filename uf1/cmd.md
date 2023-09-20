@@ -41,6 +41,11 @@ Si es denega el permís per executar una comanda hem d'iniciar el símbol del si
 
 El gestor de línia de comandes de discs i particions es diu **diskpart**.
 
+Per veure les comandes disponibles escrivim a dins de diskpart **help**
+
+![image](https://github.com/XaSaFa/MP04/assets/110727546/56568931-f654-4acf-bc33-e723de0a6230)
+![image](https://github.com/XaSaFa/MP04/assets/110727546/d3eb0cd1-2349-4583-8fb9-bc6bb1be0f0d)
+
 ### Mostrar els discos de l'equip (list disk):
 
 ![image](https://github.com/XaSaFa/MP04/assets/110727546/6060997c-26e3-48b8-b255-1b9320d818e9)
@@ -48,6 +53,30 @@ El gestor de línia de comandes de discs i particions es diu **diskpart**.
 ### Seleccionar un disc (select disk #):
 
 ![image](https://github.com/XaSaFa/MP04/assets/110727546/38fabf2c-77e7-428e-99fb-ecb00f67c05f)
+
+### Crear una partició:
+
+Es fa servir la comanda **create partition tipus size=X** on X és el tamany en MB de la partició i tipus indica si la partició serà:
+
+- primària: primary
+- estesa: extended
+- lògica: logical
+
+ En aquest exemple estem creant una partició primària de 5GB (5120MB):
+
+![image](https://github.com/XaSaFa/MP04/assets/110727546/da712de6-74bc-46f5-a07f-8d4c197d79fb)
+
+### Assignar lletra a una partició:
+
+La lletra d'unitat serveix per identificar la ruta a la partició des del S.O.
+
+S'utilitza la comanda **assign leter=X** on X és la lletra d'unitat.
+
+![image](https://github.com/XaSaFa/MP04/assets/110727546/6a56c7da-cd6e-47b5-86fd-0e012270058a)
+
+
+
+
 
 
 
