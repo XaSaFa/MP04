@@ -8,9 +8,9 @@
   
 - [Instal·lació de Windows Server](instalacio.md)
 
-- [Taules de particions](instalacio.md)
+- [Taules de particions](emmagatzematge.md)
 
-- [Gestió de discos i Diskpart](instalacio.md)
+- [Gestió de discos i Diskpart](cmd.md)
   
 ## Activitats:
 
