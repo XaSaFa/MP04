@@ -18,7 +18,7 @@ El nom de l'equip ha de ser un que ens serveixi per identificar l'ordinador fàc
 
 ![image](https://github.com/XaSaFa/MP04/assets/110727546/484cc9a0-b70e-4afe-b876-8176bde96d3f)
 
-Des de la mateixa finestra podem modificar la configuració de xarxa.
+Des de la mateixa finestra podem modificar la configuració de xarxa, per defecte té configuració de IP dinàmica.
 
 ## Versió de Sistema Operatiu
 
@@ -32,4 +32,8 @@ Des de la mateixa finestra podem modificar la configuració de xarxa.
 
 ![image](https://github.com/XaSaFa/MP04/assets/110727546/a4d96fbc-345c-45ba-a50e-847ca766f7f8)
 
+Per defecte descarrega les actualitzacions però no les instal·la.
 
+## Antivirus i Firewall
+
+Per defecte l'antivirus Windows Defender està funcionant i el tallafoc també està habilitat.
