@@ -37,3 +37,17 @@ Per defecte descarrega les actualitzacions però no les instal·la.
 ## Antivirus i Firewall
 
 Per defecte l'antivirus Windows Defender està funcionant i el tallafoc també està habilitat.
+
+# Informació del sistema
+
+Si voleu fer un cop d'ull ràpid a la informació del servidor podeu fer click dret al botó d'inici de Windows-> Sistema.
+
+![image](https://github.com/XaSaFa/MP04/assets/110727546/87c9271e-b081-4f99-987b-7ae72453e140)
+
+Aquí veureu informació de Windows i de l'equip:
+
+![image](https://github.com/XaSaFa/MP04/assets/110727546/e0efcf69-1b62-4ebf-bf49-95dd4ffff48a)
+
+
+
+
