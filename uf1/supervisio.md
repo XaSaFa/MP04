@@ -81,7 +81,26 @@ Podem desconnectar un usuari del server des d'aquí.
 
 ![image](https://github.com/XaSaFa/MP04/assets/110727546/4373a93d-e810-465e-9254-f81aea9156ba)
 
-Aquesta pestanya és una continuació de la pestanya de processos.
+Aquesta pestanya és una continuació de la pestanya de processos amb més informació, com per exemple quin usuari està executant una tasca o el seu **PID** (Process IDentifier).
+
+![image](https://github.com/XaSaFa/MP04/assets/110727546/108f6894-4073-4961-9cfc-a3268ad1aa69)
+
+Sempre que volguem parar l'execució d'una tasca ho podem fer amb el botó dret del ratolí a sobre seu.
+
+#### SERVEIS
+
+![image](https://github.com/XaSaFa/MP04/assets/110727546/c777fa79-82f7-4f80-959b-c49531a37f1d)
+
+Aquí podem veure informació dels serveis que executa l'ordinador, com el nom PID, descripció breu i estat.
+
+Des d'aquí podem parar o pasar en marxa un servei, identificar el procés que té associat o obrir l'administrador de serveis.
+
+#### Administrador de serveis
+
+![image](https://github.com/XaSaFa/MP04/assets/110727546/5c090d28-3814-476d-891e-f47ff1bf76f7)
+
+![image](https://github.com/XaSaFa/MP04/assets/110727546/9fe62105-2af4-4ed0-b39d-b880a418cba3)
+
 
 
 
