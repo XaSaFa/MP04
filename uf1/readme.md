@@ -15,3 +15,4 @@
 ## Activitats:
 
 - [Activitat 3 - Instal·lació de Windows 2016 Server](activitat3.md)
+- [Activitat 4 - Diskpart](activitat4_diskpart.md)
