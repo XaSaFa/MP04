@@ -44,7 +44,7 @@ Mostra en tots els casos les captures de pantalla i si fa falta raona la respost
 
 9. Amplia la partició fins a 9GB.
 
-10. Redueix la partició fins a 128MB.
+10. Redueix la partició 1024MB.
 
 11. Crea una nova partició lògica que ocupi la resta del espai, lletra E, etiqueta "Cognom-2"
 
