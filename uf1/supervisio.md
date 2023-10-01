@@ -99,8 +99,19 @@ Des d'aquí podem parar o pasar en marxa un servei, identificar el procés que t
 
 ![image](https://github.com/XaSaFa/MP04/assets/110727546/5c090d28-3814-476d-891e-f47ff1bf76f7)
 
+El plafó de serveis us mostra la informació següent:
+
+- **Nom.** Identifica el servei mitjançant el nom. Per defecte, únicament hi apareixen els serveis que ja estan instal·lats.
+- **Descripció.** Es descriu de manera breu i directa el servei donat.
+- **Estat.** Mostra l’estat actual del servei. Els serveis poden estar funcionant, aturats o en pausa.
+- **Tipus d’inici.** Indica com s’iniciaran els serveis, és a dir, de manera automàtica o manual.
+- **Iniciar sessió com.** Marca el compte que s’utilitzarà en l’inici de sessió.
+
+**Tipus d'inici**
+
+- **Automàtic:** el servei es posarà en marxa quan s’iniciï el sistema operatiu.
+- **Automàtic (inici retardat):** el servei es posarà en marxa quan s’iniciï el sistema i la resta de serveis automàtics (no retardats) s’hagin iniciat.
+- **Manual:** el servei es posarà en marxa manualment.
+- **Deshabilitat:** el servei restarà desactivat.
+
 ![image](https://github.com/XaSaFa/MP04/assets/110727546/9fe62105-2af4-4ed0-b39d-b880a418cba3)
-
-
-
-
