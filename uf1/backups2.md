@@ -90,3 +90,12 @@ Seleccionem els elements a guardar:
 
 ![image](https://github.com/XaSaFa/MP04/assets/110727546/075700f5-4fe1-43d5-a622-fa03a8c8fd31)
 
+Quan finalitza una còpia de seguretat ens indica com ha anat, per a poder recuperar-se la còpia de seguretat ha d'indicar que és **Correcta**.
+
+![image](https://github.com/XaSaFa/MP04/assets/110727546/ba98ae74-8f2e-4df5-b17f-e89204bfbb36)
+
+A detalls trobem els logs del sistema amb els errors que han pogut passar.
+
+![image](https://github.com/XaSaFa/MP04/assets/110727546/1dc0e665-791f-4813-a912-f651f348c683)
+
+![image](https://github.com/XaSaFa/MP04/assets/110727546/388d2bf8-c9ea-47ca-9bf4-60fb2b5021a6)
