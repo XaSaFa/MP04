@@ -3,16 +3,21 @@
 ## Teoria:
 
 - [Introducció](uf1_teoria_1.md)
-
-- [Sistemes de fitxers](uf1_teoria_2.md)
-  
+- [Sistemes de fitxers](uf1_teoria_2.md)  
 - [Instal·lació de Windows Server](instalacio.md)
-
 - [Taules de particions](emmagatzematge.md)
-
 - [Gestió de discos i Diskpart](cmd.md)
+
+- **Còpies de seguretat:**
+  - [Tipus de còpies de seguretat](backups0.md)
+  - [Activar característica de Còpies de seguretat](backups1.md)
+  - [Fer una còpia de seguretat](backups2.md)
+  - [Restaurar Còpies de seguretat](backups3.md)
+  - [Prgramar Còpies de seguretat](backups4.md)
+
   
 ## Activitats:
 
 - [Activitat 3 - Instal·lació de Windows 2016 Server](activitat3.md)
 - [Activitat 4 - Diskpart](activitat4_diskpart.md)
+- [Activitat 5 - Còpies de seguretat](activitat5_backups.md)
