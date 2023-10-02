@@ -82,7 +82,7 @@ Seleccionem els elements a guardar:
 
 ![image](https://github.com/XaSaFa/MP04/assets/110727546/62be895b-2466-48ed-9bb2-67bfa27b42d4)
 
-![image](https://github.com/XaSaFa/MP04/assets/110727546/08c3d37f-cc06-4eb2-af8b-09f32e420a70)
+![image](https://github.com/XaSaFa/MP04/assets/110727546/2cedd494-69a1-4dbb-90ab-94bd9cc14c0d)
 
 ![image](https://github.com/XaSaFa/MP04/assets/110727546/281ffeab-9439-4cb1-93c6-f92761a067aa)
 
