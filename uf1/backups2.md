@@ -34,3 +34,59 @@ Necessitarem l'espai que ens indica Windows.
 
 ![image](https://github.com/XaSaFa/MP04/assets/110727546/ede629e2-a7d3-414a-b25d-5a52a3f7bd75)
 
+#### Afegim un disc per a fer la còpia
+
+Així que afegirem un disc per poder fer la còpia, a l'exemple he creat un disc de 16GB.
+
+![image](https://github.com/XaSaFa/MP04/assets/110727546/65248efa-a168-46ca-9164-ffa083665ec0)
+
+I crearem un volum que ocupi tot el disc en format NTFS.
+
+![image](https://github.com/XaSaFa/MP04/assets/110727546/677e7a08-08d8-4b4b-9fd3-18a24cc21a6a)
+
+![image](https://github.com/XaSaFa/MP04/assets/110727546/fe46f537-c0b3-4fc5-a215-893299a90a08)
+
+Escollim una unitat local com a destinació de la còpia de seguretat:
+
+![image](https://github.com/XaSaFa/MP04/assets/110727546/c3885401-6406-4765-8b19-c6ae87bf0821)
+
+![image](https://github.com/XaSaFa/MP04/assets/110727546/c28f63aa-d248-4b71-9e90-f6c6a23020ce)
+
+![image](https://github.com/XaSaFa/MP04/assets/110727546/6d14a672-21fb-40fd-824d-a8450a600a86)
+
+![image](https://github.com/XaSaFa/MP04/assets/110727546/0e050ea8-c1f6-44ee-b69a-7aeb0ae72c23)
+
+La còpia de seguretat està en progrés:
+
+![image](https://github.com/XaSaFa/MP04/assets/110727546/83a1d085-e4d3-4c8b-aec1-63eb772bc69c)
+
+Còpia finalitzada:
+
+![image](https://github.com/XaSaFa/MP04/assets/110727546/00d520f1-ed02-4a48-96aa-87a9a3442123)
+
+Informació de la còpia de seguretat:
+
+![image](https://github.com/XaSaFa/MP04/assets/110727546/9ad64f6c-9d2e-4e47-8c07-75b04e44d81e)
+
+Si anem a Este equipo veiem els fitxers de la còpia de seguretat:
+
+![image](https://github.com/XaSaFa/MP04/assets/110727546/ef37efbe-26fb-4444-8887-986d09aee0fc)
+
+### Opció 2 - Còpia personalitzada
+
+![image](https://github.com/XaSaFa/MP04/assets/110727546/4e274332-444c-40ed-b81f-b3b95686d135)
+
+![image](https://github.com/XaSaFa/MP04/assets/110727546/15d28573-7830-442f-b90e-8a58905b0680)
+
+Seleccionem els elements a guardar:
+
+![image](https://github.com/XaSaFa/MP04/assets/110727546/62be895b-2466-48ed-9bb2-67bfa27b42d4)
+
+![image](https://github.com/XaSaFa/MP04/assets/110727546/08c3d37f-cc06-4eb2-af8b-09f32e420a70)
+
+![image](https://github.com/XaSaFa/MP04/assets/110727546/281ffeab-9439-4cb1-93c6-f92761a067aa)
+
+![image](https://github.com/XaSaFa/MP04/assets/110727546/a756bf79-db26-4073-a7e9-90850186a4c1)
+
+![image](https://github.com/XaSaFa/MP04/assets/110727546/075700f5-4fe1-43d5-a622-fa03a8c8fd31)
+
