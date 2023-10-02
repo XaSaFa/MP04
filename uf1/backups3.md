@@ -30,4 +30,7 @@ Per recuperar una còpia de seguretat és imprescindible tenir... UNA CÒPIA DE 
 
 ![image](https://github.com/XaSaFa/MP04/assets/110727546/ab8a749d-0c3c-40fa-aafa-d3e716a914b1)
 
+## Quan ja s'ha restaurat l'aplicació ens informa de que s'ha restaurat correctament
+
+![image](https://github.com/XaSaFa/MP04/assets/110727546/13ce26d6-1fe8-4b4c-b477-280679f7913a)
 
