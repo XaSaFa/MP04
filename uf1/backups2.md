@@ -24,5 +24,13 @@ Com encara no hi ha cap còpia de seguretat creada només podem escollir la sego
 
 ### De què fem la còpia
 
+Aquí podem escollir si fer còpia sencera del servidor o només d'una part.
+
 ![image](https://github.com/XaSaFa/MP04/assets/110727546/dff5b7d9-ba44-47c4-a6df-0e476a33f191)
+
+### Opció 1 - Còpia de servidor sencer
+
+Necessitarem l'espai que ens indica Windows.
+
+![image](https://github.com/XaSaFa/MP04/assets/110727546/ede629e2-a7d3-414a-b25d-5a52a3f7bd75)
 
