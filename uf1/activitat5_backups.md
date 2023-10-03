@@ -12,7 +12,7 @@ Per a fer l'activitat:
 
 Explica i mostra tots els passos.
 
-Crea un volum amb format NTFS i el tamany màxim del disc de 20GB, la lletra d'unitat serà X. 
+Crea un volum amb format NTFS i el tamany màxim del disc de 50GB, la lletra d'unitat serà X. 
 
 ### Exercici 2 
 
