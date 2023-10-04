@@ -66,6 +66,46 @@ Aquí podem filtrar per:
   - més d'un id (separem per comes): 1, 3, 5.
   - interval: 1-5.
   - interval menys un id: 1-5, -3 ( seria igual que escriure 1,2,4,5).
-6. 
+5. Categoría de la tasca: Només si indiquem **orígenes del evento**.
+6. Paraules clau: Relacionades amb l'esdeveniment.
+7. Usuari: Podem escriure els usuaris que han provocat els esdeveniments.
+8. Equips: Podem escriure a quins equips han passat els esdeveniments.
 
+### Exemple
+
+Anem a crear una vista personalitzada sobre l'event 4625 (Login fallit).
+
+![image](https://github.com/XaSaFa/MP04/assets/110727546/02666ef1-afc7-4938-b58d-661559e4ee43)
+
+En aquest cas veiem que només hi ha un intent fallit de login.
+
+![image](https://github.com/XaSaFa/MP04/assets/110727546/45851ed5-0df1-4c05-8236-728082f1e54a)
+
+## Exportar i importar Vistes personalitzades.
+
+Les vistes personalitzades són filtres que es poden exportar en format XML amb l'opció **exportar vista personalizada**.
+
+![image](https://github.com/XaSaFa/MP04/assets/110727546/3ad62097-ddb0-4067-b490-2a924d3f71a5)
+
+Es poden importar amb l'opció **Importar vista personalizada**.
+
+![image](https://github.com/XaSaFa/MP04/assets/110727546/a05c5366-6ae7-4f93-99f3-cb80e1f8818e)
+
+## Programar una tasca quan es crea un esdeveniment
+
+De vegades és interessant programar una tasca quan un esdeveniment succeeix, pot servir per avisar a l'administrador, per exemple.
+
+Per programar una tasca primer hem de tenir una categoria d'esdeveniment o una vista personalitzada, després anem a l'opció **Adjuntar tarea a...**.
+
+![image](https://github.com/XaSaFa/MP04/assets/110727546/63eb94b2-92c7-4694-8229-d3b75e9d3644)
+
+![image](https://github.com/XaSaFa/MP04/assets/110727546/83ef2a46-9e2d-4014-b6bf-4ca382390c42)
+
+![image](https://github.com/XaSaFa/MP04/assets/110727546/72f4aafe-c758-4905-942c-90be4995c928)
+
+I li diem quin programa volem que s'executi.
+
+![image](https://github.com/XaSaFa/MP04/assets/110727546/d9fe39fe-a255-4d68-986e-5cb4a823ce70)
+
+![image](https://github.com/XaSaFa/MP04/assets/110727546/3126e0ba-6086-4c08-b7ca-fc5b17fbebfe)
 
