@@ -32,6 +32,40 @@ Aquí podem veure una sèrie d'events del SO.
 **4. Sistema.** Events del sistema i dels components relacionats.
 **5. Eventos reenviados.** Informació reenviada d'altres sistemes de la xarxa.
 
+Per veure quins esdeveniments hi ha clickem a sobre d'una de les opcions, per exemple **Instalación**.
 
+![image](https://github.com/XaSaFa/MP04/assets/110727546/bae04955-24ab-40ed-b9fd-30f76b96023f)
+
+Aquí podem veure els registres que hi ha i de cadascun d'ells podem veure la data quan es va registrar, l'origen, un identificador de l'event...
+
+A més si cliquem amb el botó dret sobre el nom dels camps mostrats es poden modificar les columnes que es veuen:
+
+![image](https://github.com/XaSaFa/MP04/assets/110727546/f90d05fa-17d8-41e8-af76-30a3eaf9e3df)
+
+### Detalls de l'event
+
+Si cliquem sobre un event s'obrirà una finestra amb informació detallada.
+
+![image](https://github.com/XaSaFa/MP04/assets/110727546/3dfd2bea-5bad-47ba-b2f1-013d0ff753d1)
+
+## Crear vistes personalitzades d'events
+
+Podem crear vistes personalitzades quan busquem un determinat tipus d'esdeveniments a l'hora de resoldre un problema.
+
+![image](https://github.com/XaSaFa/MP04/assets/110727546/2386a9da-2b5d-4d36-9985-33c633a88043)
+
+![image](https://github.com/XaSaFa/MP04/assets/110727546/db28c4e6-6c92-47a9-b543-4e5e687f1d61)
+
+Aquí podem filtrar per:
+
+1. Temps: Quan es va crear el registre de l'esdeveniment.
+2. Nivell d'event (només si coneixem exactament què busquem).
+3. Registre/Origen: Buscar per tipus d'events o per l'origen que ha provocat l'event.
+4. Identificadors: Si coneixem el id. dels events podem escriure'ls aquí de la següent forma:
+  - un id: 1.
+  - més d'un id (separem per comes): 1, 3, 5.
+  - interval: 1-5.
+  - interval menys un id: 1-5, -3 ( seria igual que escriure 1,2,4,5).
+6. 
 
 
