@@ -15,9 +15,13 @@
   - [Restaurar Còpies de seguretat](backups3.md)
   - [Prgramar Còpies de seguretat](backups4.md)
 
-  
+- [Visor d'esdevenimets](visor_esdeveniments.md)
+
+
 ## Activitats:
 
 - [Activitat 3 - Instal·lació de Windows 2016 Server](activitat3.md)
 - [Activitat 4 - Diskpart](activitat4_diskpart.md)
 - [Activitat 5 - Còpies de seguretat](activitat5_backups.md)
+- [Activitat 6 - Visor d'esdeveniments](activitat6.md.md)
+  
