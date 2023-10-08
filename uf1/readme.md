@@ -16,6 +16,7 @@
   - [Prgramar Còpies de seguretat](backups4.md)
 
 - [Visor d'esdevenimets](visor_esdeveniments.md)
+- [Tasques programades](tasques_programades.md)
 
 
 ## Activitats:
