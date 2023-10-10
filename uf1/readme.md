@@ -13,7 +13,7 @@
   - [Activar característica de Còpies de seguretat](backups1.md)
   - [Fer una còpia de seguretat](backups2.md)
   - [Restaurar Còpies de seguretat](backups3.md)
-  - [Prgramar Còpies de seguretat](backups4.md)
+  - [Programar Còpies de seguretat](backups4.md)
 
 - [Visor d'esdevenimets](visor_esdeveniments.md)
 - [Tasques programades](tasques_programades.md)
