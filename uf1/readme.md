@@ -25,4 +25,5 @@
 - [Activitat 4 - Diskpart](activitat4_diskpart.md)
 - [Activitat 5 - Còpies de seguretat](activitat5_backups.md)
 - [Activitat 6 - Visor d'esdeveniments](activitat6.md)
+- [Activitat 7 - Tasques programades](activitat7.md)
   
