@@ -73,3 +73,5 @@ Afegiu els següents contadors amb vista de **barres**:
 
 Feu operacions que facin servir el disc, la xarxa, la memòria i el processador per veure els canvis al monitor.
 
+Per a la xarxa podeu instal·lar EDGE anant des de Windows Server a [https://www.microsoft.com/es-es/edge/business](https://www.microsoft.com/es-es/edge/business)
+
