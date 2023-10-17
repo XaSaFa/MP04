@@ -19,6 +19,7 @@
 - [Tasques programades](tasques_programades.md)
 - **Monitoritzar el sistema:**
   - [Monitor d'esdeveniments](monitor.md)
+  - [Recopilador de dades del sistema](informes.md)
   - [Administrador de tasques](supervisio.md)
 
 
