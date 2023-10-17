@@ -17,7 +17,9 @@
 
 - [Visor d'esdevenimets](visor_esdeveniments.md)
 - [Tasques programades](tasques_programades.md)
-- [Administrador de tasques](supervisio.md)
+- **Monitoritzar el sistema:**
+  - [Monitor d'esdeveniments](monitor.md)
+  - [Administrador de tasques](supervisio.md)
 
 
 ## Activitats:
