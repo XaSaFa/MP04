@@ -71,5 +71,5 @@ Afegiu els següents contadors amb vista de **barres**:
 - Interfície de xarxa bytes enviats (color marró).
 - Interfície de xarxa bytes rebuts (color groc).
 
-Feu operacions que facin servir el disc, la memòria i el processador per veure els canvias al monitor.
+Feu operacions que facin servir el disc, la xarxa, la memòria i el processador per veure els canvis al monitor.
 
