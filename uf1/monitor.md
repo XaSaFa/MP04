@@ -44,6 +44,10 @@ Podem canviar els colors dels valors a pantalla, per això farem click dret sobr
 
 ![image](https://github.com/XaSaFa/MP04/assets/110727546/1576c337-f7f6-45d8-96da-b401639e2ce6)
 
+O tenim un botó de propietats també:
+
+![image](https://github.com/XaSaFa/MP04/assets/110727546/46c25076-9567-4a12-8fff-6b8c339abb07)
+
 Aquí podem personalitzar com es veu cada valor
 
 ![image](https://github.com/XaSaFa/MP04/assets/110727546/2844bf9a-a53e-421e-b5c2-02c7f71f05d9)
@@ -56,4 +60,16 @@ Si necessitem observar els valors detingudament podem parar el gràfic amb el bo
 
 ![image](https://github.com/XaSaFa/MP04/assets/110727546/1fb99be6-2a13-45d5-955c-faad332e2830)
 
+# **Activitat de classe:**
+
+Afegiu els següents contadors amb vista de **barres**:
+
+- % ús de memòria (color vermell)
+- % ús de processador per part de l'usuari (color blau).
+- % temps de lectura de disc (color taronja).
+- % temps d'escriptura de disc (color verd).
+- Interfície de xarxa bytes enviats (color marró).
+- Interfície de xarxa bytes rebuts (color groc).
+
+Feu operacions que facin servir el disc, la memòria i el processador per veure els canvias al monitor.
 
