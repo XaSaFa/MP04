@@ -27,6 +27,12 @@
 **DIA 24/10/2023 Examen pràctic de windows server (35% nota final).** <br>
 **DIA 24/10/2023 Examen teòric de windows server (15% nota final).**
 
+## Grups Kahoot:
+
+1. Dani, Ayrton, Adaya, Gabriel, Victor, Eric A., Mohammed B.
+2. Pol N., Eric M, Mohammed A., Aboubaker, David M., Miquel, 
+3. Ander, Dídac, Marc, Alex L., Youssef, Guillem, 
+4. Pol B., Alex M., Santiago, Hassan, Sarah, Ibrahim.
 
 
 ## Activitats:
