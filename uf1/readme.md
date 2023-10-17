@@ -21,6 +21,12 @@
   - [Monitor d'esdeveniments](monitor.md)
   - [Recopilador de dades del sistema](informes.md)
   - [Administrador de tasques](supervisio.md)
+ 
+# IMPORTANT:
+**DIA 19/10/2023 Confeccionareu un kahoot de repàs amb tot el que hem vist fins ara.** <br>
+**DIA 24/10/2023 Examen pràctic de windows server (35% nota final).** <br>
+**DIA 24/10/2023 Examen teòric de windows server (15% nota final).**
+
 
 
 ## Activitats:
