@@ -22,11 +22,6 @@
   - [Recopilador de dades del sistema](informes.md)
   - [Administrador de tasques](supervisio.md)
  
-# IMPORTANT:
-
-**DIA 24/10/2023 Examen pràctic de windows server (35% nota final).** <br>
-**DIA 24/10/2023 Examen teòric de windows server (15% nota final).**
-
 ## Activitats:
 
 - [Activitat 3 - Instal·lació de Windows 2016 Server](activitat3.md)
