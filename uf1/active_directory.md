@@ -122,6 +122,18 @@ Si una relació de confiança és transitiva la confiança s'hereta, en cas cont
 
 ![image](https://github.com/XaSaFa/MP04/assets/110727546/dc3a709e-4f0c-42fb-bd6e-d53dd31f66a8)
 
+## Mestre d'operacions
+
+En un domini poden coexistir diferents controladors de domini, per evitar situacions en les que dos controladors de domini alterin informació vital del domini, com per exemple l'esquema, existeix la figura del Mestre d'operacions.
+
+El mestre d'operacions és l'únic que pot fer certes accions com, per exemple:
+
+- Administrar els canvis de l'esquema del directori.
+- Inscriure els dominis al bosc.
+- Administrar la nomenclatura del domini.
+- Administrar el moviment d'objectes d'un domini a un altre
+- ...
+
 
 
 
