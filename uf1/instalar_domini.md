@@ -5,6 +5,8 @@ Per tal d'activar Active Directory a Windows Server seguirem dos passos:
 1. Instal·lem el rol Servei de dominis d'Active Directory.
 2. Promocionem el servidor en un controlador de domini.
 
+Aquí veurem només el primer.
+
 ## Instal·lar rol Servei de dominis d'Active Directory
 
 Obrim el Panell de control del servidor i Seleccionem "Agregar roles y características". 
@@ -30,6 +32,9 @@ El procés ens avisarà de que ha d'instal·lar altres serveis com un servidor D
 ![image](https://github.com/XaSaFa/MP04/assets/110727546/18c353bd-d727-4ccc-94a5-3e3fa1ede595)
 
 ![image](https://github.com/XaSaFa/MP04/assets/110727546/c8f81eea-e171-4762-bdc8-0e410792c571)
+
+![image](https://github.com/XaSaFa/MP04/assets/110727546/949a2c87-bdd0-4a32-821b-deb65f62448f)
+
 
 ![image](https://github.com/XaSaFa/MP04/assets/110727546/47d14867-0a99-4689-b966-304ce8db10e9)
 
