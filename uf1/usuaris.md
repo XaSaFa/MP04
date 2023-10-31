@@ -1,4 +1,6 @@
-# Usuaris
+# Usuaris:
+
+![image](https://github.com/XaSaFa/MP04/assets/110727546/f275d779-ba4b-4441-8ab3-eeb8b78abe0f)
 
 Els usuaris d'Active Directory no són estrictament usuaris, també poden representar accés a serveis o aplicacions de la màquina local o una màquina en remot.
 
@@ -15,5 +17,9 @@ Cada compte d'usuari està identificat per un número únic al sistema que es di
 
 Quan es crea el domini també es creen comptes noves:
 
-- Administrador: Té control total 
+- **Administrador:** Té control total sobre el domini i no es pot eliminar ni treure del grup Administradors (sí es podrà canviar el seu nom o deshabilitar).
 
+- **Convidat:** Aquest compte està deshabilitat de forma predeterminada, no es recomanda habilitar-la. Serveix per donar accés a usuaris que encara no tenen compte al sistema o la tenen deshabilitada. De forma predeterminada no requereix contrasenya (això es pot canviar).
+- **Assistent d'ajuda:** S'utilitza per iniciar sessions d'Assistència remota i té accés limitat a l'equip. Es cra automàticament quan es solicita una sessió d'assistència remota i s'elimina quan deixen d'existir solicituds.
+
+Des del punt de vista de seguretat pot ser interessant canviar el nom de l'usuari administrador.
