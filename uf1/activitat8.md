@@ -8,3 +8,8 @@ Mostra la captura de pantalla quan acabis:
 
 ![image](https://github.com/XaSaFa/MP04/assets/110727546/a8057179-da41-4164-959b-bba4b890aabf)
 
+Crea una màquina virtual per a MP04 amb sistema operatiu Windows 10 (a Moodle, secció repositori tens la ISO).
+
+Aquesta màquina virtual es dira W10-X. on X és el teu cognom.
+
+Mostra la captura de la màquina funcionant creada.
