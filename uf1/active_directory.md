@@ -50,7 +50,7 @@ La jerarquia estarà indicada amb un espai de noms DNS comú.
 
 Per exemple els dominis GONDOR.COM y OSGILIATH.GONDOR.COM forman part del mateix arbre.
 
-Per altra banda els dominis MORDOR.ES y GONDOR.COM nosón part del mateix arbre.
+Per altra banda els dominis MORDOR.ES y GONDOR.COM no són part del mateix arbre.
 
 L'objectiu de crear aquesta estructura es fragmentar les dades del Active Directory, de tal manera que es serveix només la informació de les parts necessàries, estalviant amplada de banda.
 
