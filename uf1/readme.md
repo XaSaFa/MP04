@@ -23,6 +23,7 @@
   - [Administrador de tasques](supervisio.md)
 
 - **Active Directory:**
+  - [Què és Active Directory](active_directory.md) 
   - **Controlador de domini:**
     - [Instal·lar rol Servei de domini d'Active Directory](instalar_domini.md)
     - [Promocionar el servidor a un controlador de domini](instalar_domini2.md) 
