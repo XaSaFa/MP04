@@ -2,7 +2,7 @@
 
 Canvia el nom del servidor a Win-X, on X és el teu cognom.
 Instal·la el rol de Servei de domini d'Active Directory.
-Promociona el servidor a un controlador de domini.
+Promociona el servidor a un controlador de domini, el domini serà X.com (on X és el teu cognom).
 
 Mostra la captura de pantalla quan acabis:
 
