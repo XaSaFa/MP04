@@ -1,4 +1,6 @@
-# Usuaris:
+# Usuaris i equips:
+
+## Usuaris
 
 ![image](https://github.com/XaSaFa/MP04/assets/110727546/f275d779-ba4b-4441-8ab3-eeb8b78abe0f)
 
@@ -13,7 +15,7 @@ El compte d'usuari permet:
 
 Cada compte d'usuari està identificat per un número únic al sistema que es diu SID (Security IDentifier), per seguretat cada ususari tindrà un compte diferent, no compartiran usuaris.
 
-## Comptes per defecte:
+### Comptes per defecte:
 
 Quan es crea el domini també es creen comptes noves:
 
@@ -23,3 +25,12 @@ Quan es crea el domini també es creen comptes noves:
 - **Assistent d'ajuda:** S'utilitza per iniciar sessions d'Assistència remota i té accés limitat a l'equip. Es cra automàticament quan es solicita una sessió d'assistència remota i s'elimina quan deixen d'existir solicituds.
 
 Des del punt de vista de seguretat pot ser interessant canviar el nom de l'usuari administrador.
+
+## Equips:
+
+![image](https://github.com/XaSaFa/MP04/assets/110727546/253581ca-223d-4360-8851-e92ec8f20974)
+
+Un compte d'equip serveix per autenticar els diferents equips que es connecten al domini, donant accés o denegant-lo als diferents recursos del domini.
+
+Els comptes d'equip han de ser únics pel domini.
+
