@@ -22,9 +22,10 @@
   - [Recopilador de dades del sistema](informes.md)
   - [Administrador de tasques](supervisio.md)
 
-- **Controlador de domini:**
-  - [Instal·lar rol Servei de domini d'Active Directory](instalar_domini.md)
-  - [Promocionar el servidor a un controlador de domini](instalar_domini2.md) 
+- **Active Directory:**
+  - **Controlador de domini:**
+    - [Instal·lar rol Servei de domini d'Active Directory](instalar_domini.md)
+    - [Promocionar el servidor a un controlador de domini](instalar_domini2.md) 
  
 ## Activitats:
 
