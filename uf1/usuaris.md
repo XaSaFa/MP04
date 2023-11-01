@@ -26,11 +26,38 @@ Quan es crea el domini també es creen comptes noves:
 
 Des del punt de vista de seguretat pot ser interessant canviar el nom de l'usuari administrador.
 
-## Equips:
+## Comptes d'Equips:
 
 ![image](https://github.com/XaSaFa/MP04/assets/110727546/253581ca-223d-4360-8851-e92ec8f20974)
 
 Un compte d'equip serveix per autenticar els diferents equips que es connecten al domini, donant accés o denegant-lo als diferents recursos del domini.
 
 Els comptes d'equip han de ser únics pel domini.
+
+## Comptes de Grups:
+
+Un compte de grup és un **conjunt d'objectes que s'administra com una unitat**, pot contenir comptes d'usuari, d'equip, contactes i altres grups.
+
+Un compte d'usuari o d'equip que està dins d'un grup es diu membre del grup.
+
+### Àmbit dels grups
+
+L'àmbit indica a quines parts de la xarxa funciona un grup, els àmbits poden ser:
+
+- **Àmbit Local:** Per accedir a serveis del mateix domini.
+- **Àmbit global:** Poden tenir permís a recursos d'altres dominis.
+- **Àmbit universal:** Perteneixen a qualsevol domini del bosc i poden tenir accés a recursos de qualsevol domini del bosc.
+
+### Tipus de grups
+
+Poden ser de dos tipus.
+
+- **Grups de distribució:** Serveixen només per distribució de correus electrònics.
+- **Grups de seguretat:** Permeten assignar permisos a comptes d'usuari, d'equips o grups de recursos compartits. Ens deixen:
+  - Assignar drets d'usuari.
+  - Assignar permisos per recursos als grups de seguretat.
+
+ 
+
+
 
