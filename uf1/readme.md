@@ -40,4 +40,5 @@
 - [Activitat 7 - Tasques programades](activitat7.md)
 - [Activitat 8 - Instal·lar Active Directory i MV de W10 (client)](activitat8.md)
 - [Activitat 9 - Web i formulari Consultora](activitat9.md)
+- [Activitat 10 - Administració d'usuaris](activitat10.md)
   
