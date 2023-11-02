@@ -1,6 +1,6 @@
 # Activitat 10 - Incidències d'usuari.
 
-![image](https://github.com/XaSaFa/MP04/assets/110727546/e2069e37-077a-4c96-a970-8da6da6d2d4b)
+![Uploading image.png…]()
 
 Treballem a la consultora X, on X és el nostre cognom donant suport als usuaris/es del sistema informàtic.
 
