@@ -6,7 +6,7 @@ Treballem a la consultora X, on X és el nostre cognom donant suport als usuaris
 
 Estem al cas de gestionar incidències d'usuaris però també d'administrar-los i rebem els següents mails.
 
-Respon a cada mail amb le accions empreses per solucionar-los (captures de pantalla i explicació quan convingui).
+Respon a cada mail amb le accions fetes per solucionar-los (captures de pantalla i explicació quan convingui).
 
 ## Mail 1:
 
