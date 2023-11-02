@@ -8,6 +8,8 @@ Estem al cas de gestionar incidències d'usuaris però també d'administrar-los 
 
 Respon a cada mail amb le accions fetes per solucionar-los (captures de pantalla i explicació quan convingui).
 
+**Entrega un document pdf amb les respostes.**
+
 ## Mail 1:
 
 Des de contractació ens indiquen que tindrem dos usuaris temporals que vindran a fer una suplencia temporal.
