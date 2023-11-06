@@ -37,7 +37,7 @@ Seleccionem la interfície de xarxa d'adaptador intern i canviarem els paràmetr
 
 Al camp DNS fiquem la IP de la MV del servidor.
 
-![image](https://github.com/XaSaFa/MP04/assets/110727546/a9bf11dd-c3aa-45d6-b6b7-326cd4cab69d)
+![image](https://github.com/XaSaFa/MP04/assets/110727546/abc537bd-9cd0-4e06-bd2e-aa0bf80fad92)
 
 ## Canviar el nom de domini:
 
@@ -54,6 +54,19 @@ Ara Windows ens demanarà un usuari del domini:
 ![image](https://github.com/XaSaFa/MP04/assets/110727546/2dc9d2e2-255b-4ed8-9b3f-a60c2416cabc)
 
 ![image](https://github.com/XaSaFa/MP04/assets/110727546/cbeaae3d-efd1-4110-a63a-6bea666ea582)
+
+Reiniciem l'equip i iniciem sessió amb un usuari del domini.
+
+![image](https://github.com/XaSaFa/MP04/assets/110727546/90c8d54a-df19-44d7-aa9c-51da4aa8cb82)
+
+![image](https://github.com/XaSaFa/MP04/assets/110727546/0304faf4-ff5f-47d9-912c-02ece02aab49)
+
+I ja estarem units al domini!
+
+![image](https://github.com/XaSaFa/MP04/assets/110727546/6b2d20b0-ab6e-4147-a27e-87d7e6182784)
+
+
+
 
 
 
