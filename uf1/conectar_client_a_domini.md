@@ -8,16 +8,17 @@ Per a connectar un client a domini necessitarem:
   - Aquest equip tindrà dos interfícies de xarxa: NAT i Xarxa interna.
 - Un ordinador servidor (farem servir una MV amb W2016 server).
   - Aquest equip tindrà una interfície de xarxa: Xarxa interna.
+- Si la xarxa dona problemes deshabilitarem el Firewall de Windows.
 
-Canviem la IP i comprovem que tenim IP vàlida a l'ordinador client:
+**Canviem la IP** i comprovem que tenim IP vàlida a l'ordinador client:
 
 ![image](https://github.com/XaSaFa/MP04/assets/110727546/8056fce9-9e76-4b1b-bbc0-4b38bc9700f7)
 
-Canviem la IP i comprovem que tenim IP vàlida a l'ordinador servidor:
+**Canviem la IP** i comprovem que tenim IP vàlida a l'ordinador servidor:
 
 ![image](https://github.com/XaSaFa/MP04/assets/110727546/56746269-7f0e-47a6-8e2d-eac34e56a792)
 
-Si mirem de fer ping entre les MV potser fallarà per culpa del Firewall del SO. Si el parèssim haurien de poder fer ping entre elles.
+Si mirem de fer ping entre les MV potser fallarà per culpa del Firewall del SO. Si aturèssim el Firewall haurien de poder fer ping entre elles.
 
 ## Crear un usuari a Windows Server:
 
