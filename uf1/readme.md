@@ -43,4 +43,5 @@
 - [Activitat 8 - Instal·lar Active Directory i MV de W10 (client)](activitat8.md)
 - [Activitat 9 - Web i formulari Consultora](activitat9.md)
 - [Activitat 10 - Administració d'usuaris](activitat10.md)
+- [Activitat 11 - grups i iniciar sessió a domini](activitat11.md)
   
