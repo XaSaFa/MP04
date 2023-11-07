@@ -30,6 +30,8 @@
   - [Tipus de comptes d'Usuaris, equips i grups](usuaris.md)
   - [Gestió d'usuaris](usuaris2.md)
   - [Gestió d'equips](equips.md)
+  - [Gestió de grups](grups.md)
+  - [Unir un client a un domini d'Active Directory](active_directory.md)
  
 ## Activitats:
 
