@@ -42,7 +42,7 @@ Durada: 36 hores**
   6. Documentació del procés d’instal·lació i monitoratge, de les incidències aparegudes amb les seves solucions.
   7. Interpretació de documentació tècnica.
 
-1. Gestió de dominis:
+2. Gestió de dominis:
 
    1. Identificació de la funció de servei de directori i domini. Estructura. Elements i nomenclatura. Realització de la instal·lació i configuració bàsica d’un servei de directori. Creació de dominis i establiment de relacions de confiança.
    2. Utilització d’eines gràfiques d’administració de dominis. Consoles d’administració.
