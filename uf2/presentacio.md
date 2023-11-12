@@ -33,14 +33,13 @@ Durada: 36 hores**
 **Continguts**
 
 1. Instal·lació, actualització i monitoratge de sistemes operatius en xarxa lliures:
-
-  1. Realització de l’estudi de compatibilitat del sistema informàtic. Planificació i realització de la partició del disc. Selecció i aplicació dels sistemes d’arxius i components a instal·lar.
-  2. Instal·lació i actualització del sistema. Comprovació del funcionament correcte i connectivitat del sistema.
-  3. Diferenciació dels modes i mètodes d’instal·lació. Automatització d’instal·lacions i tasques.
-  4. Interpretació de la informació de configuració del sistema. Realització de tasques de manteniment del programari instal·lat en el sistema i de configuració de l’entorn personal.
-  5. Instal·lació, configuració i descripció dels programes de monitoratge. Observació de l’activitat del sistema. Identificació de problemes de rendiment del sistema. Arrencada/aturada. Processos. Descripció de les possibles errades i solucions.
-  6. Documentació del procés d’instal·lació i monitoratge, de les incidències aparegudes amb les seves solucions.
-  7. Interpretació de documentació tècnica.
+   1. Realització de l’estudi de compatibilitat del sistema informàtic. Planificació i realització de la partició del disc. Selecció i aplicació dels sistemes d’arxius i components a instal·lar.
+   2. Instal·lació i actualització del sistema. Comprovació del funcionament correcte i connectivitat del sistema.
+   3. Diferenciació dels modes i mètodes d’instal·lació. Automatització d’instal·lacions i tasques.
+   4. Interpretació de la informació de configuració del sistema. Realització de tasques de manteniment del programari instal·lat en el sistema i de configuració de l’entorn personal.
+   5. Instal·lació, configuració i descripció dels programes de monitoratge. Observació de l’activitat del sistema. Identificació de problemes de rendiment del sistema. Arrencada/aturada. Processos. Descripció de les possibles errades i solucions.
+   6. Documentació del procés d’instal·lació i monitoratge, de les incidències aparegudes amb les seves solucions.
+   7. Interpretació de documentació tècnica.
 
 2. Gestió de dominis:
 
