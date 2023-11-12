@@ -4,7 +4,7 @@ Durada: 36 hores**
 **Resultats d’aprenentatge i criteris d’avaluació**
 
 1. Instal·la i monitora sistemes operatius en xarxa lliures, descrivint-ne les característiques i eines utilitzades.
-   1.1. Realitza l’estudi de compatibilitat del sistema informàtic.
+   1. Realitza l’estudi de compatibilitat del sistema informàtic.
 1.2. Planifica i realitza el mètode de partició del disc.
 1.3. Instal·la i actualitza el sistema.
 1.4. Comprova el funcionament correcte i la connectivitat dels sistemes operatius i programari instal·lats.
