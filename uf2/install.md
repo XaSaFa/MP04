@@ -58,4 +58,8 @@ Això ens deixa amb tot l'espai lliure.
 
 ![image](https://github.com/XaSaFa/MP04/assets/110727546/87c27c61-5748-4053-a385-cd4d8615a5c4)
 
+10. Reiniciem el SO.
 
+![image](https://github.com/XaSaFa/MP04/assets/110727546/f7b1d732-a159-4e66-9420-77caa38e557c)
+
+11. Ara podem actualitzar el SO o deixar-ho per a més endavant.
