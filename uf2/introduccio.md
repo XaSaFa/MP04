@@ -50,6 +50,25 @@ Segons les fonts consultades les distribucions més utilitzades poden variar, pe
 
 ![image](https://github.com/XaSaFa/MP04/assets/110727546/e7f5148a-9999-4805-8168-f60d5d7219b0)
 
+## Ubuntu
+
+Ubuntu és una distribució de Linux basada en Debian (una altra distribució) molt orientada a l'usuari final creada per l'empresa Canonical.
+
+Existeixen unes quantes distribucions basades en Ubuntu.
+
+![image](https://github.com/XaSaFa/MP04/assets/110727546/6d5051ea-ac8c-4bdb-9c03-32e1b005c109)
+
+Com la resta de distribucions de Linux Ubuntu és gratuïta, però inclou al seu software, drivers i part del kernel codi privatiu a més de codi obert.
+
+### Versions d'Ubuntu
+
+Ubuntu s'actualitza dues vegades a l'any, a l'abril i a l'octubre, el número de versió coincideix amb el mes de l'actualització. Així la versió 13.04 és d'abril de 2013 i la versió 13.10 és d'octubre de 2013.
+
+A més cada dos anys apareix una versió anomenada LTS (Lont Term Support), aquestes versions reben suport durant 5 anys, mentre que les versions normals reben suport de 9 mesos.
+
+![image](https://github.com/XaSaFa/MP04/assets/110727546/e1a97e3a-8d11-4049-84d9-c0a0f957a330)
+Versions d'Ubuntu
+
 ## Linux a altres dispositius:
 
 ![image](https://github.com/XaSaFa/MP04/assets/110727546/022fc95c-a560-4e2b-892c-a3aea00b8168)
