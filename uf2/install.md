@@ -1,3 +1,15 @@
+# Elecció del hardware
+
+Anem a instal·lar Ubuntu Desktop per tant hem de buscar els requisits de maquinari.
+
+![image](https://github.com/XaSaFa/MP04/assets/110727546/c0916040-9d53-4510-8e1f-e9b7ea97222e)
+
+Així al crear la MV les seves característiques seran:
+
+- RAM: 4GB
+- Disc Dur: 50GB
+- CPUs: 2
+
 # Instal·lació Ubuntu Desktop
 
 1. Triem Try or Install Ubuntu.
