@@ -12,4 +12,5 @@
 - **Distribució Ubuntu**:
   - [Ubuntu](ubuntu.md)
   - [Instal·lació Ubuntu Desktop pas a pas](install.md)
+  - [Instal·lar guest additions a Ubuntu](guest.md)
 
