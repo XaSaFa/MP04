@@ -13,4 +13,5 @@
   - [Ubuntu](ubuntu.md)
   - [Instal·lació Ubuntu Desktop pas a pas](install.md)
   - [Instal·lar guest additions a Ubuntu](guest.md)
-
+- **Usuaris i permisos**:
+  - [Usuari root](usuaris.md)
