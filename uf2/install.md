@@ -10,6 +10,8 @@ Així al crear la MV les seves característiques seran:
 - Disc Dur: 50GB
 - CPUs: 2
 
+- ![image](https://github.com/XaSaFa/MP04/assets/110727546/1a37568c-e270-4b83-a9a9-2b11ae5c34b9)
+
 # Instal·lació Ubuntu Desktop
 
 1. Triem Try or Install Ubuntu.
