@@ -6,5 +6,10 @@
 
 ## Teoria
 
-- [Introducció als SO lliures](introduccio.md)
-- [Avantatges d'utilitzar SO lliures](avantatges.md)
+- **Sistemes operatius lliures**:
+  - [Introducció als SO lliures](introduccio.md)
+  - [Avantatges d'utilitzar SO lliures](avantatges.md)
+- **Distribució Ubuntu**:
+  - [Ubuntu](ubuntu.md)
+  - [Instal·lació Ubuntu Desktop pas a pas](install.md)
+
