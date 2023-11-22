@@ -24,5 +24,26 @@ Per veure l'espai lliure escriurem F:
 
 Aquí es veu que no hi ha espai lliure.
 
+## Crear una nova partició
+
+Utilitzem un disc buit que estarà muntat a /dev/sdb i per a la nova partició escrivim **n**.
+
+![image](https://github.com/XaSaFa/MP04/assets/110727546/52b9d854-397f-4324-89a9-fa7b35185516)
+
+## Mostrar particions
+
+Amb **p** podem veure les particions creades:
+
+![image](https://github.com/XaSaFa/MP04/assets/110727546/9c8ed257-ae67-4801-ad5e-f0afd5f1ca82)
+
+## Canviar el sistema de fitxers d'una partició
+
+Amb t podem canviar el sistema de fitxers d'una partició, a l'exemple canviem a FAT16
+
+![image](https://github.com/XaSaFa/MP04/assets/110727546/3a900f3f-828e-4bf1-90f9-d090b54e9d64)
+
+Quan ho fem podem llistar els sistemes de fitxers amb L:
+
+![image](https://github.com/XaSaFa/MP04/assets/110727546/7bbb89ea-493e-43e4-a67e-201befb9f0ec)
 
 
