@@ -36,4 +36,3 @@ Podeu fer que la sortida de df sigui només dels valors demanats, a l'exemple no
 
 ![image](https://github.com/XaSaFa/MP04/assets/110727546/adfbd177-2304-4dbf-912c-057b098b5831)
 
-
