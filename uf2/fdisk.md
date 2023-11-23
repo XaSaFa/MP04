@@ -32,6 +32,10 @@ Les particions no es crearan realment fins que introduïm la comanda **w**.
 
 ![image](https://github.com/XaSaFa/MP04/assets/110727546/1fe252cc-ce23-4b61-b3dd-302f970065f8)
 
+Es pot veure la nova partició amb sudo fdisk -l:
+
+![image](https://github.com/XaSaFa/MP04/assets/110727546/ce3c74cc-2d5f-4fa6-bfed-46c92102f416)
+
 ## Mostrar particions
 
 Amb **p** podem veure les particions creades:
@@ -47,5 +51,17 @@ Amb t podem canviar el sistema de fitxers d'una partició, a l'exemple canviem a
 Quan ho fem podem llistar els sistemes de fitxers amb L:
 
 ![image](https://github.com/XaSaFa/MP04/assets/110727546/7bbb89ea-493e-43e4-a67e-201befb9f0ec)
+
+## Esborrar una partició
+
+Hem creat les següents particions al disc /dev/sdb:
+
+![image](https://github.com/XaSaFa/MP04/assets/110727546/f782c6a4-7074-47bf-bffa-0c43bad5031a)
+
+Per esborrar la segona partició, o sigui /dev/sdb2, farem servir la comanda **d** dins de fdisk:
+
+![image](https://github.com/XaSaFa/MP04/assets/110727546/df6e631a-cc39-4c29-91ea-e9bf5b500da5)
+
+
 
 
