@@ -15,3 +15,7 @@
   - [Instal·lar guest additions a Ubuntu](guest.md)
 - **Usuaris i permisos**:
   - [Usuari root](usuaris.md)
+
+## Activitats
+
+- [Activitat 0](activitat0.md)
