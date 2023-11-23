@@ -8,7 +8,7 @@ Podem fer servir fdisk per veure el tamany d'un.
 
 Per veure les particions d'un disk podem utilitzar la comanda fdisk -l nom de disc, per exemple:
 
-![image](https://github.com/XaSaFa/MP04/assets/110727546/f6e2de5e-db3d-4223-9134-7c7783e4d6f5)
+![image](https://github.com/XaSaFa/MP04/assets/110727546/b23566cb-ed90-45c9-9082-294d3d0af309)
 
 Per manipular un disc concret escrivim la comanda sudo fdisk nom de disc, per exemple:
 
@@ -28,7 +28,9 @@ Aquí es veu que no hi ha espai lliure.
 
 Utilitzem un disc buit que estarà muntat a /dev/sdb i per a la nova partició escrivim **n**.
 
-![image](https://github.com/XaSaFa/MP04/assets/110727546/52b9d854-397f-4324-89a9-fa7b35185516)
+Les particions no es crearan realment fins que introduïm la comanda **w**.
+
+![image](https://github.com/XaSaFa/MP04/assets/110727546/1fe252cc-ce23-4b61-b3dd-302f970065f8)
 
 ## Mostrar particions
 
