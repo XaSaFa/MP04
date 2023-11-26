@@ -18,7 +18,7 @@
   - [Crear particions - fdisk i gdisk](fdisk.md)
   - [Formatejar i muntar particions](formatejar.md)
 - **Usuaris i permisos**:
-  - [Usuari root](usuaris.md)
+  - [Superusuaris](usuaris.md)
 
 ## Activitats
 
