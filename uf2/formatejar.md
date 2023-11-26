@@ -34,5 +34,10 @@ I el muntem a /disc1.
 
 ![image](https://github.com/XaSaFa/MP04/assets/110727546/acfb3bd2-df1f-49cf-8533-9081c5f3311b)
 
+# Mostrar particions i punt de muntatge
+
+Per mostrar les particions i el seu punt de muntatge podem utilitzar la comanda lsblk (List Block Devices).
+
+![image](https://github.com/XaSaFa/MP04/assets/110727546/e1913971-1ace-49ab-974c-1325c1eb5024)
 
 
