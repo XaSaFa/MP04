@@ -13,6 +13,9 @@
   - [Ubuntu](ubuntu.md)
   - [Instal·lació Ubuntu Desktop pas a pas](install.md)
   - [Instal·lar guest additions a Ubuntu](guest.md)
+- **Comandes per gestionar el disc dur**:
+  - [df](df.md)
+  - [fdisk i gdisk](fdisk.md)
 - **Usuaris i permisos**:
   - [Usuari root](usuaris.md)
 
