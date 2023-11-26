@@ -1,3 +1,9 @@
+# fdisk i gdisk
+
+Són comandes similars, fdisk es fa servir per discos amb taules de particions MBR, gdisk per discos amb taules de particions GPT.
+
+Només veurem fdisk.
+
 ## fdisk
 
 fdisk (Format Disk) és una comanda que ens permet manipular particions dels nostres discs durs.
