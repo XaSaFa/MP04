@@ -19,6 +19,7 @@
   - [Formatejar i muntar particions](formatejar.md)
 - **Usuaris i permisos**:
   - [Superusuaris](usuaris.md)
+  - [Usuari root a Ubuntu](root.md)
 
 ## Activitats
 
