@@ -14,7 +14,7 @@ Aquí podem canviar la forma en que Ubuntu ens mostra i instal·la les actualitz
 
 ## Comanda update-manager
 
-També podem actualitzar Ubuntu per terminal amb la comanda **update-manager -r**.
+També podem actualitzar Ubuntu per terminal amb la comanda **update-manager -d**.
 
 ![image](https://github.com/XaSaFa/MP04/assets/110727546/02950f61-d202-454a-b1ec-5a0cc4b0799f)
 
