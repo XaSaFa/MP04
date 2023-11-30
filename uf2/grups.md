@@ -25,3 +25,14 @@ Utilitzem la comanda deluser.
 **IMPORTANT**: Vigileu amb la comanda deluser per què podem esborrar un usuari si no afegim el nom del grup.
 
 ![image](https://github.com/XaSaFa/MP04/assets/110727546/c5e3745b-ae63-40ab-b18b-4170ad6280ac)
+
+## Mostrar usuaris d'un grup
+
+Ho podem fer amb getent:
+
+![image](https://github.com/XaSaFa/MP04/assets/110727546/e8438f7c-a4c9-45b7-ab60-3f98ae055c06)
+
+També consultant /etc/group:
+
+![image](https://github.com/XaSaFa/MP04/assets/110727546/389f8d3f-150d-4301-9de2-f823f6a4ad65)
+
