@@ -24,6 +24,8 @@
 - **Usuaris i permisos**:
   - [Superusuaris](usuaris.md)
   - [Usuari root a Ubuntu](root.md)
+  - [Gestionar usuaris](usuaris_linux.md)
+  - [Gestionar grups](grups.md)
 
 ## Activitats
 
