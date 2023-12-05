@@ -61,6 +61,10 @@ Aquesta secció mostra l'estat de càrrega del sistema sobre un, 5 i 15 minuts.
 
 Indica el temps que has d'esperar per a que un programa s'executi, quant més alt és el número més has d'esperar.
 
+El número, per exemple 0.5, indica que el processador està al 50% de funcionament. Si estigués al 1.0 indica que va al 100% de càrrega, al 1.2 va al 120% i està deixant de fer processos...
+
+
+
 ### Ordenar processos
 
 Si presionem h durant l'execució de top ens surten les opcions que té el programa, per exemple ens deixa ordenar els processos per la càrrega de CPU o la memòria que ocupen.
@@ -94,4 +98,11 @@ Si tinc un procés que vull parar, com el de l'exemple següent (Firefox), simpl
 ![image](https://github.com/XaSaFa/MP04/assets/110727546/439645bc-8885-42e8-9b4f-8b896c67b778)
 
 Això envia una senyal al procés per a tancar-ho.
+
+### Conèixer la ruta d'un procés
+
+Si volem saber on està un fitxer que s'està executant podem utilitzar la lletra c.
+
+![image](https://github.com/XaSaFa/MP04/assets/110727546/6fb840b2-bd07-40e5-8e25-dd202efa19ef)
+
 
