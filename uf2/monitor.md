@@ -49,12 +49,27 @@ L'estat dels processadors també es mostra amb top:
 
 ![image](https://github.com/XaSaFa/MP04/assets/110727546/e242d410-d601-4e24-bf18-bb5b348f722d)
 
-us mostra el temps emprat amb processos dels usuaris, sy mostra temps emprat amb processos del sistema.
+us mostra el temps emprat amb processos dels usuaris, sy mostra temps emprat amb processos del sistema, ni és el valor "nice" que indica la prioritat de processos.
 
+id (iddle) indica el temps que el processador està parat, wa (waiting) indica el temps que la CPU està parada esperant I/O entrada/sortida per completar un procés.
+
+#### Load average
+
+![image](https://github.com/XaSaFa/MP04/assets/110727546/e6b42bcc-70f4-411b-b93a-7d59d280e6f9)
+
+Aquesta secció mostra l'estat de càrrega del sistema sobre un, 5 i 15 minuts.
+
+Indica el temps que has d'esperar per a que un programa s'executi, quant més alt és el número més has d'esperar.
 
 ### Ordenar processos
 
 Si presionem h durant l'execució de top ens surten les opcions que té el programa, per exemple ens deixa ordenar els processos per la càrrega de CPU o la memòria que ocupen.
+
+Hi i si indiquen el temps que el processador està gestionant operacions d'interrupció de hardware (hi) o de software (si).
+
+St (steal) indica el temps que la CPU està esperant a executar un procés però no pot per què una màquina virtual està utilitzant-lo.
+
+
 
 ![image](https://github.com/XaSaFa/MP04/assets/110727546/3177575e-9a20-478f-ab26-67d2f16e17a0)
 
