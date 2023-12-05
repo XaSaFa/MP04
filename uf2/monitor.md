@@ -25,11 +25,15 @@ La comanda top és una comanda que normalment va integrada a les distribucions L
 
 ![image](https://github.com/XaSaFa/MP04/assets/110727546/383af85a-7967-4d72-b7b6-a9e7d7d3749c)
 
-el primer número ens mostra el temps (la hora), up ens indica quan temps fa que està funcionant el SO i user és la quantitat d'usuaris connectats.
+El primer número ens mostra el temps (la hora), up ens indica quan temps fa que està funcionant el SO i user és la quantitat d'usuaris connectats.
+
+#### Memòria
 
 ![image](https://github.com/XaSaFa/MP04/assets/110727546/44b0e959-f737-43cd-a10b-fb13cf032eaf)
 
 Aquest quadre ens indica la memòria del sistema: total, lliure, utilitzada i en búfer).
+
+#### Processos
 
 Els processos es mostren en aquesta secció:
 
@@ -39,9 +43,13 @@ Els processos running són els que estan en execució, sleeping són els que est
 
 Els processos stopped són processos que s'han aturat (per exemple amb un control+Z), els processos zombie són processos fills que estan pendents de que el procés que els ha creat els recuperi en algun moment.
 
+#### Estat dels processadors
+
 L'estat dels processadors també es mostra amb top:
 
+![image](https://github.com/XaSaFa/MP04/assets/110727546/e242d410-d601-4e24-bf18-bb5b348f722d)
 
+us mostra el temps emprat amb processos dels usuaris, sy mostra temps emprat amb processos del sistema.
 
 
 ### Ordenar processos
