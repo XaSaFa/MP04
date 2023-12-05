@@ -44,24 +44,41 @@ Per a fer les activitats següents mostra a cada sortida el prompt on es veu que
     
 11. Esborra la partició amb fdisk.
 
+![image](https://github.com/XaSaFa/MP04/assets/110727546/99115004-b566-4d36-880c-978479ae976d)
 
-
-13. Crea les següents particions al segon disc.
+12. Crea les següents particions al segon disc.
   - Primària 100MB.
   - Primària 400MB.
   - Estesa de tot el tamany restant (uns 500MB).
   - Lògica de 250MB.
   - Lògica de la resta del tamany de disc.
 13. Mostra les particions creades i escriu-les amb la comanda w.
+
+![image](https://github.com/XaSaFa/MP04/assets/110727546/9bf1443b-03ca-491c-a125-9dc36fe56081)
+
 ![image](https://github.com/XaSaFa/MP04/assets/110727546/c2f168d2-2d73-4680-9319-6d8d3ade9123)
 
 14. Formateja les particions primàries com ext4.
+
+![image](https://github.com/XaSaFa/MP04/assets/110727546/fc691047-e8c4-42f8-b03c-e8bbf69e163b)
+
 15. Formateja les particions esteses com NTFS.
+
+![image](https://github.com/XaSaFa/MP04/assets/110727546/39937633-fb40-4f50-9436-4c6115f00a54)
+
 16. Munta les particions a les carpetes següents:
   - /dev/sda1 a /disc1-X (on X és el teu cognom)
   - /dev/sda2 a /disc2-X (on X és el teu cognom)
   - /dev/sda5 a /disc3-X (on X és el teu cognom)
   - /dev/sda6 a /disc4-X (on X és el teu cognom)
+![image](https://github.com/XaSaFa/MP04/assets/110727546/c2823125-2ea7-4133-ac4a-99a7f532ed78)
+![image](https://github.com/XaSaFa/MP04/assets/110727546/4e5a2121-124d-482d-b187-82749b2eac94)
+![image](https://github.com/XaSaFa/MP04/assets/110727546/053d8b6f-57df-4e84-ab3a-9e837663b9a1)
 17. Prova que pots accedir als discos (accedeix i utilitza la comanda pwd).
+ 
+    ![image](https://github.com/XaSaFa/MP04/assets/110727546/3963a4da-f4a9-4c3b-a490-878f61e868fb)
+
 18. Mostra les particions i punt de muntatge amb la comanda lsblk
+
+![image](https://github.com/XaSaFa/MP04/assets/110727546/0ffa9db6-de63-4cbf-bb78-98694e1c7a33)
 
