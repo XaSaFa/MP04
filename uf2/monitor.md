@@ -105,4 +105,9 @@ Si volem saber on està un fitxer que s'està executant podem utilitzar la lletr
 
 ![image](https://github.com/XaSaFa/MP04/assets/110727546/6fb840b2-bd07-40e5-8e25-dd202efa19ef)
 
+## htop
+
+Htop és molt semblant a top però amb un menú d'opcions.
+
+![image](https://github.com/XaSaFa/MP04/assets/110727546/41b1bcf8-7b14-4c8a-a53b-7ee664bc3bfd)
 
