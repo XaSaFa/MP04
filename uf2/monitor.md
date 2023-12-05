@@ -41,7 +41,7 @@ Els processos es mostren en aquesta secció:
 
 Els processos running són els que estan en execució, sleeping són els que estan esperant una informació d'un procés d'entrada/sortida o un event per seguir executant-se.
 
-Els processos stopped són processos que s'han aturat (per exemple amb un control+Z), els processos zombie són processos fills que estan pendents de que el procés que els ha creat els recuperi en algun moment.
+Els processos stopped són processos que s'han aturat (per exemple amb un control+c), els processos zombie són processos fills que estan pendents de que el procés que els ha creat els recuperi en algun moment.
 
 #### Estat dels processadors
 
