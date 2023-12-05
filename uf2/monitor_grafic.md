@@ -15,3 +15,12 @@ Podem utilitzar el monitor del sistema a Ubuntu anomenat ``` gnome-system-monito
 ## Sistema d'arxius
 
 ![image](https://github.com/XaSaFa/MP04/assets/110727546/1364a046-7b98-48bf-822e-95d4a54a1ed4)
+
+## Canviar opcions del monitor
+
+El monitor es pot personalitzar:
+
+![image](https://github.com/XaSaFa/MP04/assets/110727546/0c844802-295b-4f75-8224-206096ebc6af)
+
+![image](https://github.com/XaSaFa/MP04/assets/110727546/22520b36-66be-4c8f-8d2f-f8b993ad0336)
+
