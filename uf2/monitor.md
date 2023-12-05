@@ -13,6 +13,18 @@ Normalment es busca trobar si hi ha algun problema de rendiment a:
 
 Hi ha una serie de comandes que ens serveixen per a fer-ho:
 
+## free
+
+La comanda free mostra la memòria RAM i d'intercanvi utilitzada.
+
+![image](https://github.com/XaSaFa/MP04/assets/110727546/1bc81e36-c64a-4db7-98a5-8e587a10ef16)
+
+## mpstat
+
+Mostra informació de la càrrega de treball de la CPU.
+
+![image](https://github.com/XaSaFa/MP04/assets/110727546/3e4dd455-d93a-4a3e-b589-a09b86d49dbd)
+
 ## top
 
 La comanda top és una comanda que normalment va integrada a les distribucions Linux, ens mostra el grau d'ocupació de la CPU, la memòria RAM, la memòria d'intercanvi (SWAP) i els processos que s'estan executant.
