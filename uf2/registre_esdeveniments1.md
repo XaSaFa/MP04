@@ -33,7 +33,32 @@ Proveu a iniciar sessió a un altre terminal mentre funciona la comanda per veur
 
 ```sudo tail -f /var/log/auth.log```
 
+Podeu mirar els esdeveniments de sistema mirant e fitxer /var/log/syslog.
 
+![image](https://github.com/XaSaFa/MP04/assets/110727546/4512601b-1838-4480-9243-8d9ea6adec36)
+
+```sudo tail -f -n4 /var/log/syslog```
+
+Podeu buscar paraules clau al fitxer:
+
+![image](https://github.com/XaSaFa/MP04/assets/110727546/6e401eac-3ca2-4bf1-85d7-45353fb8d357)
+
+```sudo tail /var/log/syslog | grep firefox```
+
+A Linux també existeix la comanda dmesg que mostra informació del sistema.
+
+La comanda mostra informació d'aquestes categories:
+
+- emerg: The system is unusable.
+- alert: Action must be taken immediately.
+- crit: Critical conditions.
+- err: Error conditions.
+- warn: Warning conditions.
+- notice: Normal but significant condition.
+- info: Informational.
+- debug: Debug-level messages.
+
+![image](https://github.com/XaSaFa/MP04/assets/110727546/11c89a3a-b984-4ea8-b8b3-8eb9a878585b)
 
 ## Veure els registres en entorn gràfic
 
