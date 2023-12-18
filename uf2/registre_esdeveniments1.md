@@ -21,6 +21,18 @@ Si només volem buscar línies amb un text determinat utilitzem ```cat nomFitxer
 
 ## Veure els registres per terminal
 
+Els registres de sistema són al directori /var/log
+
+Per exemple el fitxer auth.log tindrà els intents d'inici de sessió o autoritzacions de comandes com usuari root.
+
+Podem observar totes les operacions que es van fent amb la següent comanda:
+
+![image](https://github.com/XaSaFa/MP04/assets/110727546/3d18f1c3-d797-456d-943b-d33024920b8d)
+
+Proveu a iniciar sessió a un altre terminal mentre funciona la comanda per veure en viu els intents d'accés.
+
+```sudo tail -f /var/log/auth.log```
+
 
 
 ## Veure els registres en entorn gràfic
