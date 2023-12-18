@@ -17,4 +17,4 @@ Exemple:
 
 Si només volem veure les últimes 10 línies d'un fitxer utilitzem ```tail -f nomFitxer```.
 
-Si només volem buscar  fitxer utilitzem ```tail -f nomFitxer```.
+Si només volem buscar línies amb un text determinat utilitzem ```cat nomFitxer | grep textABuscar```.
