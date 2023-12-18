@@ -45,7 +45,15 @@ Podeu buscar paraules clau al fitxer:
 
 ```sudo tail /var/log/syslog | grep firefox```
 
-A Linux també existeix la comanda dmesg que mostra informació del sistema.
+## Escriure un registre amb logger
+
+Linux té una instrucció anomenada logger que permet crear registres a /var/log/syslog per terminal, com a l'exemple següent:
+
+![image](https://github.com/XaSaFa/MP04/assets/110727546/eb577230-4fca-4f1f-a194-c352d2b840e8)
+
+## Mostrar missatges de sistema amb dmesg
+
+A Linux també existeix la comanda **dmesg** que mostra informació del sistema.
 
 La comanda mostra informació d'aquestes categories:
 
