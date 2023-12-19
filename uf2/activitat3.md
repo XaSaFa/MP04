@@ -34,3 +34,13 @@
   - Mostra els registres d'error de dmesg.
   - Mostra de forma gràfica els registres d'aplicacions del sistema.
   - Obre una aplicació i mostra el registre a l'aplicació gràfica.
+8. Quotes:
+  - Activa les quotes al sistema per al directori /home
+  - Crea un usuari anomenat Xquota on X és el teu cognom.
+  - Activa la quota rígida d'espai de disc per a l'usuari i mostra que no pots sobrepassar-la.
+  - Mostra l'estat de quotes d'usuari.
+  - Treu la quota.
+  - Activa la quota rígida de i-nodes de l'usuari i mostra que no pots sobrepassar-la.
+  - Mostra l'estat de quotes d'usuari.
+  - Treu la quota.
+  - Mostra l'estat de quotes d'usuari.
