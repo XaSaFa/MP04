@@ -30,7 +30,9 @@
   - [Mode text](monitor.md)
   - [Mode gràfic](monitor_grafic.md)
 - **Esdeveniments del sistema**:
-  - [Registre d'esdeveniments](registre_esdeveniments1.md) 
+  - [Registre d'esdeveniments](registre_esdeveniments1.md)
+- **Quotes de disc**:
+  - [Quotes de disc](quotes.md) 
 
 ## Activitats
 
