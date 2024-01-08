@@ -65,7 +65,7 @@ Quan guardem el fitxer el sistema comprova que sigui correcte, si es així es gu
 
 - Si una tasca s'ha d'executar però l¡ordinador està apagat LA TASCA NO S'EXECUTARÀ.
 - Es recomana ficar sempre la ruta sencera de la comanda per si no estigués disponible a la variable $PATH.
-- 
+- La comanda s'executarà amb els privilegis del compte d'usuari que l'ha creat, si ha de tenir privilegis de root per executar-se i no els té... No s'executarà.
 
 🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎
 
