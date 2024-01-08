@@ -48,11 +48,11 @@ Els primers 5 valors es poden expressar com:
 - Llista de valors: Separats per comes, per exemple minuts 1,3 i 5: -> 1,3,5.
 - Tots els valors possibles: Un asterisc -> *.
 
-Exemple: Programem l'apagat de l'ordinador a les 20:00 de cada dia.
+Exemple: Programem l'apagat diari de l'ordinador a les 20:15.
 
 | Minut | Hora | Dia del mes | Mes | Dia de setmana | Ordre |
 |----------|----------|----------|----------|----------|----------|
-| Row 1    | Cell 2   | Cell 3   | Row 1    | Cell 2   | Cell 3   |
+| 15    | 20   | *   | *    | *   | /sbin/poweroff   |
 
 
 
