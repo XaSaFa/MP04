@@ -56,6 +56,16 @@ Exemple: Programem l'apagat diari de l'ordinador a les 20:15.
 
 ![image](https://github.com/XaSaFa/MP04/assets/110727546/e158755f-c9ef-486a-b5c1-cbf2f87c13fe)
 
+🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎
+
+**Activitat:**
+
+1. Fes una tasca programada que faci un reinici de l'equip (reboot) els dilluns i dimarts a les 12:45.
+2. Fes una tasca programada que faci 
+
+
+🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎
+
 
 
 
