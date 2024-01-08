@@ -56,13 +56,24 @@ Exemple: Programem l'apagat diari de l'ordinador a les 20:15.
 
 ![image](https://github.com/XaSaFa/MP04/assets/110727546/e158755f-c9ef-486a-b5c1-cbf2f87c13fe)
 
+Quan guardem el fitxer el sistema comprova que sigui correcte, si es així es guardarà dins la carpeta **/var/spool/cron/crontabs** a un fitxer amb el nom de l'usuari.
+
+![image](https://github.com/XaSaFa/MP04/assets/110727546/3fa0de89-9980-4cb9-a954-46a51a268e24)
+
+
+## Observacions
+
+- Si una tasca s'ha d'executar però l¡ordinador està apagat LA TASCA NO S'EXECUTARÀ.
+- Es recomana ficar sempre la ruta sencera de la comanda per si no estigués disponible a la variable $PATH.
+- 
+
 🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎
 
 **Activitat:**
 
 1. Fes una tasca programada que faci un reinici de l'equip (reboot) els dilluns i dimarts a les 12:45.
-2. Fes una tasca programada que faci 
-
+2. Fes una tasca programada que faci una còpia de seguretat d'una carpeta (amb pocs fitxers) d'un usuari a un fitxer anomenat backup.bak de la carpeta /tmp els dies 1 i 15 de cada mes a les 15:45.
+3. Fes una tasca que obri firefox el dia 1 de gener a les 12:11.
 
 🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎
 
