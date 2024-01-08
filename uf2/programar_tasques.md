@@ -67,6 +67,29 @@ Quan guardem el fitxer el sistema comprova que sigui correcte, si es així es gu
 - Es recomana ficar sempre la ruta sencera de la comanda per si no estigués disponible a la variable $PATH.
 - La comanda s'executarà amb els privilegis del compte d'usuari que l'ha creat, si ha de tenir privilegis de root per executar-se i no els té... No s'executarà.
 
+
+## Eliminar tasques 
+
+Per eliminar les tasuqes programades podem executar crontab -e i editar totes les tasques.
+
+Si el que volem és eliminar totes les tasques programades utilitzem la comanda:
+
+```
+crontab -r
+```
+
+Tenint en compte que si hem utilitzat sudo per crear una tasca també haurem d'utilitzar sudo al esborrar-la.
+
+## Consultar les tasques
+
+Per consultar les tasques fem servir la comanda:
+
+```
+crontab -l
+```
+
+Tenint en compte que si hem utilitzat sudo per crear una tasca també haurem d'utilitzar sudo al consultar-la.
+
 🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎
 
 **Activitat:**
@@ -74,6 +97,8 @@ Quan guardem el fitxer el sistema comprova que sigui correcte, si es així es gu
 1. Fes una tasca programada que faci un reinici de l'equip (reboot) els dilluns i dimarts a les 12:45.
 2. Fes una tasca programada que faci una còpia de seguretat d'una carpeta (amb pocs fitxers) d'un usuari a un fitxer anomenat backup.bak de la carpeta /tmp els dies 1 i 15 de cada mes a les 15:45.
 3. Fes una tasca que obri firefox el dia 1 de gener a les 12:11.
+4. consulta les tasques.
+5. Elimina les tasques.
 
 🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎
 
