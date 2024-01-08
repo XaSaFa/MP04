@@ -37,7 +37,9 @@
   - [Backup per terminal](backup1.md)
   - [Backup gràfic](backup2.md)
 - **Programar tasques**:
-  - [Programar tasques](programar_tasques.md)
+  - [Programar tasques amb cron](programar_tasques.md)
+  - [Tasques asíncrones]
+  - [Tasques en un moment determinat]
 
 ## Activitats
 
