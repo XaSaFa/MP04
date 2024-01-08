@@ -41,7 +41,20 @@ Les línies es composen de sis dades:
   - Valors en text: sun, mon, tue, wed, thu, fri i sat.    
 6. Ordre a executar-se al shell: Qualsevol cosa entre el dia de la setmana i el final de la línia s'envia a la shell, si hi ha un símbol de percentatge % es talla la línia, així que si hem d'enviar un símbol de percentatge haurem d'escriure'l amb un caràcter de barra inversa davant (\%).
 
- 
+Els primers 5 valors es poden expressar com:
+
+- Valors individuals: Per exemple minut 5 -> 5.
+- Rang de valors: Per exemple minuts 5 a 10 -> 5-10.
+- Llista de valors: Separats per comes, per exemple minuts 1,3 i 5: -> 1,3,5.
+- Tots els valors possibles: Un asterisc -> *.
+
+Exemple: Programem l'apagat de l'ordinador a les 20:00 de cada dia.
+
+| Minut | Hora | Dia del mes | Mes | Dia de setmana | Ordre |
+|----------|----------|----------|----------|----------|----------|
+| Row 1    | Cell 2   | Cell 3   | Row 1    | Cell 2   | Cell 3   |
+
+
 
 
 
