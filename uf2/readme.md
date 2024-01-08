@@ -32,7 +32,12 @@
 - **Esdeveniments del sistema**:
   - [Registre d'esdeveniments](registre_esdeveniments1.md)
 - **Quotes de disc**:
-  - [Quotes de disc](quotes.md) 
+  - [Quotes de disc](quotes.md)
+- **Còpies de seguretat**:
+  - [Backup per terminal](backup1.md)
+  - [Backup gràfic](backup2.md)
+- **Programar tasques**:
+  - [Programar tasques](programar_tasques.md)
 
 ## Activitats
 
