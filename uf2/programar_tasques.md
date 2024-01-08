@@ -102,6 +102,24 @@ sudo crontab -u kerrigan -l
 
 ![image](https://github.com/XaSaFa/MP04/assets/110727546/b25c1def-f74d-4c8d-a6b0-9def2128f2d0)
 
+## Permetre o denegar cron a usuaris
+
+Per defecte tots els usuaris del sistema poden programar tasques, si volem que això no sigui així podem crear dos fitxers:
+
+### /etc/cron.deny
+
+Tots els usuaris que no volem que puguin programar tasques els escriurem dins d'aquest fitxer, un usuari per línia, per exemple:
+
+![image](https://github.com/XaSaFa/MP04/assets/110727546/7cc67f43-4e2b-4d5d-a5c4-73168574c919)
+
+I comprovem que l'usuari kerrigan ja no podrà programar tasques:
+
+![image](https://github.com/XaSaFa/MP04/assets/110727546/f46ba791-16be-42a3-b8f1-20793fd990e2)
+
+### /etc/cron.allow
+
+Si creem aquest fitxer només els usuaris que estiguin escrits en ell podran programar tasques.
+
 🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎
 
 **Activitat:**
