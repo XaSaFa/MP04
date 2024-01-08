@@ -54,6 +54,7 @@ Exemple: Programem l'apagat diari de l'ordinador a les 20:15.
 |----------|----------|----------|----------|----------|----------|
 | 15    | 20   | *   | *    | *   | /sbin/poweroff   |
 
+![image](https://github.com/XaSaFa/MP04/assets/110727546/e158755f-c9ef-486a-b5c1-cbf2f87c13fe)
 
 
 
