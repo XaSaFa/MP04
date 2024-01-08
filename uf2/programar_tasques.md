@@ -90,6 +90,18 @@ crontab -l
 
 Tenint en compte que si hem utilitzat sudo per crear una tasca també haurem d'utilitzar sudo al consultar-la.
 
+## Comanda crontab d'altre usuari
+
+Podem crear tasques, consultar-les i eliminar-les per a qualsevol usuari del sistema utilitzant el paràmetre -u seguit del nom d'usuari.
+
+Per exemple si vull llistar les tasques d'un usuari anomenat kerrigan utilitzaré la comanda:
+
+```
+sudo crontab -u kerrigan -l
+```
+
+![image](https://github.com/XaSaFa/MP04/assets/110727546/b25c1def-f74d-4c8d-a6b0-9def2128f2d0)
+
 🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎
 
 **Activitat:**
