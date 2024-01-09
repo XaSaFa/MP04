@@ -67,7 +67,11 @@ Existeixen altres comandes per fer backups com per exemple tar o rsync. També l
 **Activitat:**
 
 1. Crea i explica les comandes per fer còpia de seguretat i restaurar el directori /var/www amb la comanda tar.
-2. Crea i explica les comandes per fer còpia de seguretat i restaurar el directori /var/www amb la comanda rsync.
+
+- sudo tar -czvf /home/xavi/mohaguapo.tar /var/www
+- sudo tar -xzvf /home/xavi/mohaguapo.tar -C /
+   
+4. Crea i explica les comandes per fer còpia de seguretat i restaurar el directori /var/www amb la comanda rsync.
 
 🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎
 
