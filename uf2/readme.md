@@ -39,7 +39,7 @@
 - **Programar tasques**:
   - [Programar tasques amb cron](programar_tasques.md)
   - [Tasques asíncrones](tasques_asincrones.md)
-  - [Tasques en un moment determinat]
+  - [Tasques en un moment determinat](tasques_moment_determinat.md)
 
 ## Activitats
 
