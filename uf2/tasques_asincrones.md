@@ -98,5 +98,14 @@ Aquests fitxers contenen la marca de temps de quan es va executar la tasca per �
 
 D'aquesta manera es controla quan s'ha de tornar a executar.
 
+🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎
 
+**Activitat:**
+
+1. Crea un script que generi un fitxer anomenat espaiDIA.txt (on DIA és el dia actual del sistema) al teu home amb el resultat d'executar la comanda "df -h". Aquest script s'ha d'executar una vegada cada dia, amb un retard de 5 minuts i es dirà Xespai on X és el teu cognom.
+2. Crea un script que comprimeixi el tots els fitxers espai.txt en format tar a un nou fitxer anomenat espaiDIA.tar (on dia és el dia actual del sistema). Aquest script s'executarà una vegada cada setmana, amb un retard d'un minut i es dirà Xespai_comprimir on X és el teu cognom. 
+
+Per veure com funciona tar poeu consultar [aqui](https://www.mundiserver.com/documentacion/descomprimir-tar-tar-gz-tgz-gz-zip-otras-linux/).
+
+🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎
 
