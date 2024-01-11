@@ -53,6 +53,7 @@ El paràmetre f indica que la còpia es farà a un fitxer i s'ha d'indicar el no
 La comanda restore serveix per recuperar un backup, la següent comanda recuperarà la còpia de l'exemple anterior.
 
 ```
+cd /
 sudo restore -xf /tmp/backup_web.bak
 ```
 
