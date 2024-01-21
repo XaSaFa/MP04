@@ -1,6 +1,6 @@
 # Passos
 
-# 1.- Servidor IP fixa
+## 1.- Servidor IP fixa
 
 Establim IP fixa amb netplan a la màquina servidor.
 
@@ -16,7 +16,7 @@ I comprovem que tenim la IP escollida:
 
 ![image](https://github.com/XaSaFa/MP04/assets/110727546/0fb4e3d3-7ba0-4cd2-918b-e8d2f11d397f)
 
-# 2.- Nom del servidor
+## 2.- Nom del servidor
 
 Primer canviem el nom de la màquina:
 
@@ -32,7 +32,7 @@ sudo nano /etc/hosts
 
 ![image](https://github.com/XaSaFa/MP04/assets/110727546/cbd1e4a7-d52e-4572-8c75-50e8007f7108)
 
-# 3.- Actualitzem software
+## 3.- Actualitzem software
 
 Actualitzarem els repositoris de software de l'equip amb la comanda següent:
 
@@ -40,7 +40,7 @@ Actualitzarem els repositoris de software de l'equip amb la comanda següent:
 sudo apt update
 ```
 
-# 4.- Instal·la slapd i ldap-utils
+## 4.- Instal·la slapd i ldap-utils
 
 Instal·lem el software necessari amb la comanda:
 
@@ -52,7 +52,7 @@ Ens demanarà la contrasenya d'administrador:
 
 ![image](https://github.com/XaSaFa/MP04/assets/110727546/43c0e5f4-29ef-4e99-9dc8-904cf3da978f)
 
-# 5.- Configuració:
+## 5.- Configuració:
 
 Introduïm la comanda:
 
@@ -88,7 +88,7 @@ Ja estaria:
 
 ![image](https://github.com/XaSaFa/MP04/assets/110727546/90246437-56e8-459b-8336-1816638e98bc)
 
-# 6.- Comprovem la instal·lació:
+## 6.- Comprovem la instal·lació:
 
 Comprovem que s'ha instal·lat bé amb la comanda:
 
