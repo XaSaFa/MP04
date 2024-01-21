@@ -21,7 +21,7 @@ I comprovem que tenim la IP escollida:
 Primer canviem el nom de la màquina:
 
 ```
-sudo hostnamectl set-hostname ldapserver.iaballester.cat
+sudo hostnamectl set-hostname ldapserver.dungeonofbits.com
 ```
 
 Després afegim a /etc/hosts les modificacions necessàries:
@@ -30,7 +30,7 @@ Després afegim a /etc/hosts les modificacions necessàries:
 sudo nano /etc/hosts
 ```
 
-![image](https://github.com/XaSaFa/MP04/assets/110727546/6bd18a5c-a168-42e0-ad9b-2c60585d205b)
+![image](https://github.com/XaSaFa/MP04/assets/110727546/cbd1e4a7-d52e-4572-8c75-50e8007f7108)
 
 # 3.- Actualitzem software
 
