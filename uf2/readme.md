@@ -40,6 +40,12 @@
   - [Programar tasques amb cron](programar_tasques.md)
   - [Tasques asíncrones](tasques_asincrones.md)
   - [Tasques en un moment determinat](tasques_moment_determinat.md)
+- **Servei de Directori LDAP**:
+  - [Instal·lar LDAP](install_openldap.md)
+  - [Crear una Unitat Organitzativa](unitat_organitzativa.md)
+  - [Crear usuaris](usuaris_ldap.md)
+  - [Crear grups](grups_ldap.md)
+  - [Editar elements](editar_ldap.md)  
 
 ## Activitats
 
