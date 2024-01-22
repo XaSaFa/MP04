@@ -1,3 +1,5 @@
+En aquest apartat veurem com consultar, editar i esborrar elements del directori.
+
 # Consultar elements al directori
 
 Si volem buscar informació d'elements dins del directori tenim la comanda **ldapsearch** disponible.
@@ -41,5 +43,17 @@ Després del canvi el mail de l'usuari és:
 ![image](https://github.com/XaSaFa/MP04/assets/110727546/c056c009-a004-4355-b146-19e4bbb1362d)
 
 Com veiem hem modificat el mail de l'usuari però podem modificar la resta de camps també.
+
+# Eliminar elements del directori
+
+Per a eliminar elements utilitzem la comanda **ldapdelete**.
+
+Per exemple anem a eliminar un usuari anomenat kerrigan, amb uid=kerrigan:
+
+![image](https://github.com/XaSaFa/MP04/assets/110727546/3de7a890-fc4d-4eeb-868d-5ad0760c73cd)
+
+Per esborrar el grup grupoDOS fem:
+
+![image](https://github.com/XaSaFa/MP04/assets/110727546/9c739c02-f6a7-43dc-bc4c-e89dd0b2e803)
 
 
