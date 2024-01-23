@@ -44,7 +44,6 @@
   - [Instal·lar LDAP](install_openldap.md)
   - [Crear una Unitat Organitzativa](unitat_organitzativa.md)
   - [Com funciona LDAP](directori_ldap.md)
-  - [Crear unitat organitzativa](unitat_organitzativa.md)
   - [Crear grups](grups_ldap.md)
   - [Crear usuaris](usuaris_ldap.md)
   - [Editar elements](editar_ldap.md)
