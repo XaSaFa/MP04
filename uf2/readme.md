@@ -43,6 +43,7 @@
 - **Servei de Directori LDAP**:
   - [Instal·lar LDAP](install_openldap.md)
   - [Crear una Unitat Organitzativa](unitat_organitzativa.md)
+  - [Com funciona LDAP](directori_ldap.md)
   - [Crear usuaris](usuaris_ldap.md)
   - [Crear grups](grups_ldap.md)
   - [Editar elements](editar_ldap.md)
