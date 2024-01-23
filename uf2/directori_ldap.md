@@ -12,30 +12,22 @@ Els objectes poden ser reals com persona o moble. També poden ser abstractes co
 
 Els objectes tindran atributs en forma atribut/valor. Els atributs poden ser:
 
-Atributs normals: Identifiquen l'objecte (nom, cognoms, etc.).
-
-Atributs operatius: Son atributs que utilitza el servidor per administrar el directori (data de creació, tamany, etc.).
+- Atributs normals: Identifiquen l'objecte (nom, cognoms, etc.).
+- Atributs operatius: Son atributs que utilitza el servidor per administrar el directori (data de creació, tamany, etc.).
 
 Les entrades s'indexen mitjançant el nom complert (dn), que facilita la identificació singular a cada element de l'arbre. 
 El nom complert es formarà amb una serie de pars atribut/valor, separats per comes, que reflexen la ruta des de la posició de l'objecte fins l'arrel de l'arbre.
 
 Entre els atributs que poden emplear-se habitualment tenim els següents, tot i que poden haver molts més:
 
-uid (user id): Identificació única de l'entrada a l'arbre.
-
-objectClass: Indica el tipus d'objecte al que pertany l'entrada.
-
-cn (common name): Nom de la persona representada per l'objecte.
-
-givenname: Nom de pila.
-
-sn (surname): Cognom de la persona.
-
-o (organization): Entitat a la que pertany la persona.
-
-u (organizational unit): El departament on treballa la persona.
-
-mail: direcció de correu electrònic de la persona.
+- uid (user id): Identificació única de l'entrada a l'arbre.
+- objectClass: Indica el tipus d'objecte al que pertany l'entrada.
+- cn (common name): Nom de la persona representada per l'objecte.
+- givenname: Nom de pila.
+- sn (surname): Cognom de la persona.
+- o (organization): Entitat a la que pertany la persona.
+- u (organizational unit): El departament on treballa la persona.
+- mail: direcció de correu electrònic de la persona.
 
 Aquests atributs són propis d'una persona, per a altres objectes poden canviar.
 
@@ -57,4 +49,14 @@ mail: jraynor@starcraft.com|
 Les entrades estan organitzades jeràrquicament, amb una estructura en forma d'arbre.
 
 ![image](https://github.com/XaSaFa/MP04/assets/110727546/0b7e5442-5629-4838-b34e-3c994c2e5c91)
+
+Les implementacions actuals de LDAP utilitzen DNS per a les capes superiors de la jerarquia.
+
+L'atribut objectClass especifica quins atributs són vàlids i imprescindibles per cada tipus d'objectes.
+
+[Tipus d'objectes](https://www.zytrax.com/books/ldap/ape/)
+
+LDAP té comandes per crear, modificar i eliminar entrades del directori.
+
+
 
