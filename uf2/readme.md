@@ -56,3 +56,4 @@
 - [ Activitat 2 - Usuaris i grups](activitat2.md)
 - [ Activitat 3 - Monitoratge i gestió d'esdeveniments](activitat3.md)
 - [ Activitat 4 - backup i programar tasques](activitat4.md)
+- [ Activitat 5 - Crear grups i usuaris a LDAP](activitat_ldap_1.md)
