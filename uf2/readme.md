@@ -45,7 +45,7 @@
   - [Crear una Unitat Organitzativa](unitat_organitzativa.md)
   - [Crear grups](grups_ldap.md)
   - [Crear usuaris](usuaris_ldap.md)
-  - [Editar elements](editar_ldap.md)
+  - [Buscar, modificar i esborrar elements](editar_ldap.md)
   - [LDAP a l'ordinador client](ldap_client.md)
   - [Instal·lar LDAP al server](install_openldap.md)
 
