@@ -46,6 +46,7 @@
   - [Crear grups](grups_ldap.md)
   - [Crear usuaris](usuaris_ldap.md)
   - [Buscar, modificar i esborrar elements](editar_ldap.md)
+  - [Preparar xarxa](preparar_xarxa_ldap.md)
   - [LDAP a l'ordinador client](ldap_client.md)
   - [Instal·lar LDAP al server](install_openldap.md)
 
