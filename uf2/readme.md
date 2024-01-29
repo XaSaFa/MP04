@@ -41,13 +41,13 @@
   - [Tasques asíncrones](tasques_asincrones.md)
   - [Tasques en un moment determinat](tasques_moment_determinat.md)
 - **Servei de Directori LDAP**:
-  - [Instal·lar LDAP](install_openldap.md)
-  - [Crear una Unitat Organitzativa](unitat_organitzativa.md)
   - [Com funciona LDAP](directori_ldap.md)
+  - [Crear una Unitat Organitzativa](unitat_organitzativa.md)
   - [Crear grups](grups_ldap.md)
   - [Crear usuaris](usuaris_ldap.md)
   - [Editar elements](editar_ldap.md)
   - [LDAP a l'ordinador client](ldap_client.md)
+  - [Instal·lar LDAP al server](install_openldap.md)
 
 ## Activitats
 
