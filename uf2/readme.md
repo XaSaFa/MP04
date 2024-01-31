@@ -45,7 +45,7 @@
   - [Crear una Unitat Organitzativa](unitat_organitzativa.md)
   - [Crear grups](grups_ldap.md)
   - [Crear usuaris](usuaris_ldap.md)
-    - [Atributs de LDAP de persones](https://ftpdocs.broadcom.com/cadocs/0/CA%20Process%20Automation%2004%202%2002-ENU/Bookshelf_Files/HTML/Content%20Designer%20Reference/1187917.html)
+    - [Llista d'atributs de LDAP](https://ftpdocs.broadcom.com/cadocs/0/CA%20Process%20Automation%2004%202%2002-ENU/Bookshelf_Files/HTML/Content%20Designer%20Reference/1187917.html)
   - [Buscar, modificar i esborrar elements](editar_ldap.md)
   - [Preparar xarxa](preparar_xarxa_ldap.md)
   - [LDAP a l'ordinador client](ldap_client.md)
