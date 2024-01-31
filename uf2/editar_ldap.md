@@ -20,6 +20,14 @@ Amb els paràmetres:
 - Després va la condició a cumplir pels objectes cercats. Podem utilitzar * com a comodí.
 - Per últim posem el nom dels atributs que volem que es mostrin com a resultat.
 
+Si volem fer una consulta amb més d'una condició utilitzem un AND representat pel símbol "&", al següent exemple mostrem l'usuari que té givenname xavi i el seu cognom conté "cho".
+
+```
+ldapsearch -xLLL -b "dc=dungeonofbits,dc=com" "(&(givenName=xavi)(sn=*cho*))"
+```
+
+![image](https://github.com/XaSaFa/MP04/assets/110727546/2655e559-75f7-4f2d-8268-08babd7ff659)
+
 # Modificar elements del directori
 
 Per modificar elements dispossem de la comanda **ldapmodify**.
@@ -43,6 +51,12 @@ Després del canvi el mail de l'usuari és:
 ![image](https://github.com/XaSaFa/MP04/assets/110727546/c056c009-a004-4355-b146-19e4bbb1362d)
 
 Com veiem hem modificat el mail de l'usuari però podem modificar la resta de camps també.
+
+En aquest altre exemple modifiquem el cognom de Sancho a Molina:
+
+![image](https://github.com/XaSaFa/MP04/assets/110727546/2cdcd0da-22b5-4597-97d7-1ef1cf0a9f15)
+
+![image](https://github.com/XaSaFa/MP04/assets/110727546/af631869-1b94-482a-abdb-c71b013a8610)
 
 # Eliminar elements del directori
 
