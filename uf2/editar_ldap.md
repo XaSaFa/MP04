@@ -32,6 +32,8 @@ ldapsearch -xLLL -b "dc=dungeonofbits,dc=com" "(&(givenName=xavi)(sn=*cho*))"
 
 Per modificar elements dispossem de la comanda **ldapmodify**.
 
+## Modificar atributs d'un element:
+
 Per exemple anem a modificar el mail de l'usuari creat anteriorment xavi, per a fer-ho crearem un fitxer de text com aquest:
 
 ![image](https://github.com/XaSaFa/MP04/assets/110727546/2ab0709c-7219-4034-84e2-536a2fc3f6c3)
@@ -57,6 +59,46 @@ En aquest altre exemple modifiquem el cognom de Sancho a Molina:
 ![image](https://github.com/XaSaFa/MP04/assets/110727546/2cdcd0da-22b5-4597-97d7-1ef1cf0a9f15)
 
 ![image](https://github.com/XaSaFa/MP04/assets/110727546/af631869-1b94-482a-abdb-c71b013a8610)
+
+## Modificar el nom d'un element
+
+Si el que volem és canviar l'identificar d'un element:
+
+- Camp ou a una Unitat Organitzativa.
+- Camp cn a un Grup.
+- Camp uid a un usuari.
+
+# Modificar nom d'una uo:
+
+Per modificar el nom d'una uo escrivim la ruta sencera amb el changetype modrdn i indiquem quin serà el nou valor, a més esborrem el valor anterior.
+
+![image](https://github.com/XaSaFa/MP04/assets/110727546/95749197-34f1-46c5-abd6-61d606e2e272)
+
+Després apliquem els canvis normalment:
+
+```
+ldapmodify -x -D cn=admin,dc=dungeonofbits,dc=com -W -f modificacio.ldif
+```
+# Modificar nom d'un grup:
+
+Igual que per una uo però amb el nom sencer del grup.
+
+![image](https://github.com/XaSaFa/MP04/assets/110727546/d467da6c-805a-49f9-b390-6d3d34d810e8)
+
+Després apliquem els canvis normalment:
+
+```
+ldapmodify -x -D cn=admin,dc=dungeonofbits,dc=com -W -f modificacio.ldif
+```
+# Modificar nom d'una persona:
+
+![image](https://github.com/XaSaFa/MP04/assets/110727546/a76873dd-b958-408b-81b0-4b8d1867fa41)
+
+Després apliquem els canvis normalment:
+
+```
+ldapmodify -x -D cn=admin,dc=dungeonofbits,dc=com -W -f modificacio.ldif
+```
 
 # Eliminar elements del directori
 
