@@ -1,9 +1,21 @@
 # Activitat 
 
 1. Crea una nova unitat organitzativa anomenada **clients**.
+
+![image](https://github.com/XaSaFa/MP04/assets/110727546/8845effe-a762-42cd-86b5-d5d388e64e9e)
+
 2. Crea un grup anomenat **catalunya**.
+
+![image](https://github.com/XaSaFa/MP04/assets/110727546/33f0e16d-b5cd-459e-8bfa-71489dd7a956)
+
 3. Dona d'alta els usuaris de la secció següent al grup catalunya de la uo clients.
+
+![image](https://github.com/XaSaFa/MP04/assets/110727546/42de0f0d-270e-4564-a0a2-6f21bab8d873)
+
 4. Fes una cerca i mostra tots els usuaris que són de Lleida.
+
+
+
 5. Fes una cerca i mostra només adreça, cp i localitat dels usuaris que viuen a Barcelona.
 6. Fes una cerca i mostra el mail dels usuaris que viuen a Tarragona i el seu nom conté la paraula Sabrina.
 7. Modifica el mail de la persona anterior a s.wilson@iaballester.cat.
