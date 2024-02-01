@@ -1,14 +1,13 @@
 # 1 Crea una nova unitat organitzativa anomenada clients.
 
-![image](https://github.com/XaSaFa/MP04/assets/110727546/e817cba3-e9bc-4ffb-af34-4af519c7c4ae)
+![image](https://github.com/XaSaFa/MP04/assets/110727546/ec431b30-c05a-4fe5-806f-ebcd254b8c4c)
 
 ![image](https://github.com/XaSaFa/MP04/assets/110727546/a148178e-ea0e-4328-8e37-a11f5bc75c97)
 
 ```
 dn: ou=clients,dc=dungeonofbits,dc=com
 objectClass: top
-objectClass: organizationalUnit
-ou: clients 
+objectClass: organizationalUnit 
 ```
 
 # 2 Crea un grup anomenat catalunya.
@@ -22,7 +21,6 @@ dn: cn=catalunya,ou=clients,dc=dungeonofbits,dc=com
 objectClass: top
 objectClass: posixGroup
 gidNumber: 10003
-cn: clients
 ```
 
 # 3 Dona d'alta els usuaris de la secció següent al grup catalunya de la uo clients.
@@ -41,7 +39,6 @@ uidNumber: 2005
 gidNumber: 10003
 ou: clients
 cn: Joseph
-uid: jmoyer
 givenName: Joseph
 sn: Moyer
 homeDirectory: /home/jmoyer
