@@ -1,5 +1,7 @@
 # UF3 - Compartició de recursos i seguretat
 
+![image](https://github.com/XaSaFa/MP04/assets/110727546/1dcee92e-e0ca-46a9-9115-3c300955b547)
+
 ## Programació
 
 - [Programació UF3](programacio.md)
