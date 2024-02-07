@@ -7,4 +7,5 @@
 ## Permisos i drets
 
 - [Permisos i drets](permisos_i_drets.md)
-- [Permisos a Linux](permisos_linux.md)
+  - [Permisos a Linux](permisos_linux.md)
+  - [umask](umask.md)
