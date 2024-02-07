@@ -1,5 +1,7 @@
 # Els permisos a Linux
 
+![image](https://github.com/XaSaFa/MP04/assets/110727546/1e655b60-c973-48cf-9640-ab623e8f6067)
+
 A Linux els permisos es refereixen a les capacitats que té un usuari de manipular un fitxer o directori.
 
 Els fitxers i directoris tenen tres tipus de permisos:
@@ -115,5 +117,13 @@ sudo chmod -R 755 cliente/
 
 ![image](https://github.com/XaSaFa/MP04/assets/110727546/ce386a65-27b3-412d-bab2-710ee96c2514)
 
+En el cas actual, com volem que els usuaris del grup "editors" puguin modificar els continguts de la carpeta cliente els donarem permisos plens:
 
+```
+sudo chmod -R 775 cliente/
+```
+
+![image](https://github.com/XaSaFa/MP04/assets/110727546/9e24740a-5a89-43aa-a4e8-532c732a4274)
+
+Així un usuari del grup editors podrà crear, modificar i esborrar fitxers dins de la carpeta cliente.
 
