@@ -1,18 +1,55 @@
 # Activitat 1 - Permisos a Linux
 
 1. Ves al teu directori personal i crea una carpeta anomenada "Exercici-X" on X és el teu cognom.
+  mkdir exercici-sancho
 2. Canvia els permisos del directori perquè només el propietari tingui tots els permisos.
+  chmod 700 exercici-sancho/
 3. Crea un arxiu anomenat "arxiu1.txt" dins del directori anterior i verifica els permisos.
+  cd exercici-sancho
+  touch arxiu1.txt
+  ls -l
 4. Crea un grup anomenat "proves".
-5. Dona-li permisos  de lectura i escriptura sobre "arxiu1.txt" al grup.
+
+  sudo addgroup proves
+  
+5. Dona-li permisos de lectura i escriptura sobre "arxiu1.txt" al grup.
+
+  sudo chown kal:proves arxiu1.txt
+
 6. Crea un subdirectori anomenat "sub-X" on X és el teu cognom.
+
+mkdir sub-sancho
+  
 7. Deixa el subdirectori anterior amb permisos només per al propietari (rwx).
+
+  chmod -R 700 sub-sancho/
+  
 8. Concedeix permisos d'execució al grup "proves" sobre "sub-X".
+
+sudo chown kal:proves sub-sancho/
+chmod 710 sub-sancho/
+
 9. Crea un usuari anomenat "convidat".
+
+sudo adduser convidat
+
 10. Canvia els permisos del directori "Exercici-X" perquè l'usuari "convidat" pugui accedir.
-11. Canvia els permisos de l'arxiu "arxiu1.txt" perquè tots els usuaristinguin només permís de lectura.
+
+chmod 701 exercici-sancho/
+
+11. Canvia els permisos de l'arxiu "arxiu1.txt" perquè tots els usuaris tinguin només permís de lectura.
+
+chmod 444 arxiu1.txt
+
 12.  Comprova que l'usuari "convidat" no pot accedir al subdirectori "sub-X".
+
+  su convidat
+  ls -l
+
 13.  Afegeix convidat al grup "proves" i comprova que sí té accés a "sub-X". (POTSER NECESSITES REINICIAR EL SISTEMA).
+  sudo addgroup convidat proves
+  chmod 750 sub-sancho/
+
 
 # Activitat 2 - umask
 
