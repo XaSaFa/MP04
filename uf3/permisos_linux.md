@@ -33,9 +33,9 @@ Esquema de permisos sobre fitxers:
 
 - Seguint aquest esquema quins són el propietari, el grup propietari i els permisos per al fitxer "wgetrc"?
 
-- Usuari ______ :
-- Grup ________ :
-- Altres: 
+- Usuari root : Llegir i escriure
+- Grup root : Llegir
+- Altres: Llegir
 
 🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎
 
