@@ -22,6 +22,12 @@ Per compartir recursos a Windows necessitem dues MV:
 - Windows Server 2016 (teniu la OVA a Moodle).
 - Windows 10 (teniu la OVA a Moodle).
 
+- A Windows Server heu d'instal·lar active directory i crear un domini anomenat COGNOM.COM:
+  - [Instal·lar rol AD](https://github.com/XaSaFa/MP04/blob/main/uf1/instalar_domini.md).
+  - [Promocionar el controlador de domini](https://github.com/XaSaFa/MP04/blob/main/uf1/instalar_domini2.md)
+  - [Després heu d'unir el client al servidor](https://github.com/XaSaFa/MP04/blob/main/uf1/conectar_client_a_domini.md)
+
+
 ## Activitats
 
 - [Activitat 1 - Permisos Linux](activitat1.md)
