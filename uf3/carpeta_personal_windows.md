@@ -67,3 +67,82 @@ Anem a canviar-ho per a que només els usuaris del domini tinguin permisos.
 ## Configurar les carpetes personals
 
 Ara que ja tenim configurada la carpeta contenidora hem de configurar l'accés dels usuaris.
+
+Anem a "Administrador del Servidor->Herramientas->Usuarios y Equipos de Active Directory"
+
+![image](https://github.com/XaSaFa/MP04/assets/110727546/5be8da9b-cc68-481e-a07d-53055a081215)
+
+![image](https://github.com/XaSaFa/MP04/assets/110727546/e366b417-f4ca-466d-91dd-4077724ac8d6)
+
+Seleccionem amb SHIFT els usuaris que volem que tinguin carpeta personal.
+
+![image](https://github.com/XaSaFa/MP04/assets/110727546/e72151fb-7893-462d-9a0a-9edbc69ae6ea)
+
+Fem click dret i seleccionem "Propiedades".
+
+![image](https://github.com/XaSaFa/MP04/assets/110727546/d3e3df61-6efd-49d0-ae1e-1b98816ceb10)
+
+Seleccionem "Perfil":
+
+![image](https://github.com/XaSaFa/MP04/assets/110727546/fd1ebea6-727a-456d-a85a-0a576ffa27f1)
+
+![image](https://github.com/XaSaFa/MP04/assets/110727546/8074e196-fd25-4584-a9e4-f2e3a3663f15)
+
+Aquí tenim dues opcions, podem seleccionar una ruta i llavors la carpeta compartida es veuria com una carpeta del sistema.
+
+Si seleccionem conectar veurem la carpeta com una unitat de xarxa.
+
+![image](https://github.com/XaSaFa/MP04/assets/110727546/bb2baf99-1534-4d31-a295-c0f2c88e5cce)
+
+Seleccionem conectar com unitat de xarxa:
+
+![image](https://github.com/XaSaFa/MP04/assets/110727546/89dcedf5-ea5f-40cd-bf92-82a0efdf0f28)
+
+Una unitat de xarxa té dues dades:
+
+- Lletra de la unitat. Es crearà una unitat nova al sistema amb la lletra assignada.
+- Ruta al recurs: És la ruta a la carpeta compartida.
+
+### Establir la ruta:
+
+La ruta té el format següent:
+
+\\servidor\carpeta_contenidora\carpeta_compartida
+
+- Servidor és el nom de l'ordinador servidor. En aquest cas: 
+- carpeta_contenidora és el nom de la carpeta que hem creat al server.
+- carpeta_compartida és el nom que tindrà la carpeta personal de l'usuari.
+
+En el nostre exemple els dos primers valors els podem agafar de la carpeta que hem creat al server, botó dret:
+
+![image](https://github.com/XaSaFa/MP04/assets/110727546/eac22a4a-c6c6-48ce-af36-4026050e75f2)
+
+I per al tercer valor utilitzarem la variable d'entorn **%username%** que és el nom d'usuari.
+
+Per tal en l'exemple quedarà així:
+
+\\WIN-DPMGFEH4FMF\Personal\%username%
+
+![image](https://github.com/XaSaFa/MP04/assets/110727546/c1ad571b-4a46-4540-a3bc-44c7a7f118f8)
+
+## Obrir carpeta personal des de l'ordinador del client.
+
+Ara podem accedir des d'un usuari de Windows 10 i veure que té una carpeta personal a la unitat Z:.
+
+![image](https://github.com/XaSaFa/MP04/assets/110727546/2394311f-3ade-41b8-b00d-73ed7f3c4f25)
+
+![image](https://github.com/XaSaFa/MP04/assets/110727546/077b4d5c-a805-40d2-b7a8-5f53770c98a5)
+
+![image](https://github.com/XaSaFa/MP04/assets/110727546/915a1e47-7379-4fd7-a1cc-2916ff862961)
+
+![image](https://github.com/XaSaFa/MP04/assets/110727546/75ecd621-e759-4ca6-bbe4-1c99748b98bd)
+
+Podem crear un fitxer:
+
+![image](https://github.com/XaSaFa/MP04/assets/110727546/b8e462f1-002f-4b14-99f5-30cd74c4a3da)
+
+### Al server es veuen les modificacions
+
+![image](https://github.com/XaSaFa/MP04/assets/110727546/0b01c101-1fa1-4b4d-bc96-8ca9ec3368c1)
+
+![image](https://github.com/XaSaFa/MP04/assets/110727546/0b4a6b6c-3cb1-46e4-97e1-226a747e0654)
