@@ -14,14 +14,40 @@ La comanda net use té els següents paràmetres:
 
 net use <lletra unitat> <\\nom servidor\nom recurs compartit> </usuari>
 
-## Connectar a una unitat de xarxa una vegada:
+El nom del servidor pot ser també la seva IP. Exemple:
+
+![image](https://github.com/XaSaFa/MP04/assets/110727546/9f4af515-ae41-4543-bced-b5c3239adcb9)
+
+## Connectar a una unitat de xarxa una única vegada:
 
 Podem connectar a un recurs compartit així:
 
 ```
-net use f: \\WIN-DPMGFEH4FMF\public
+net use f: \\WIN-DPMGFEH4FMF\public /PERSISTENT: NO
 ```
 
 ![image](https://github.com/XaSaFa/MP04/assets/110727546/d6a22411-e966-45c4-a80d-6c48d6556316)
 
-Una vegada es reinicii l'ordinador és desconnectarà la unitat.
+Una vegada es reiniciï l'ordinador és desconnectarà la unitat.
+
+## Connectar a una unitat de xarxa de forma permanent:
+
+Si volem que la unitat es connecti sempre que iniciem sessió utilitzarem el paràmetre permanent mb valor YES.
+
+```
+net use f: \\WIN-DPMGFEH4FMF\public /PERSISTENT:YES
+```
+
+## Desconnectar unitat de xarxa:
+
+Per desconnectar una unitat de xarxa utilitzem el paràmetre DELETE.
+
+Per desconnectar la unitat F: fem:
+
+```
+net use f: /delete
+```
+
+![image](https://github.com/XaSaFa/MP04/assets/110727546/f3c63e39-d806-4e0f-8237-bd42ee99d528)
+
+
