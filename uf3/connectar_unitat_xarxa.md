@@ -50,4 +50,16 @@ net use f: /delete
 
 ![image](https://github.com/XaSaFa/MP04/assets/110727546/f3c63e39-d806-4e0f-8237-bd42ee99d528)
 
+## Connectar a un recurs utilitzant nom d'usuari i contrasenya:
+
+Si estem utilitzant un recurs al qual només podem accedir mitjançant permisos d'usuari utilitzarem el parèmetre user.
+
+A l'exemple següent tenim la carpeta public a la qual volem accedir amb l'usuari pere del domini 2SMX i que té la contrasenya Admin1234, per això fem servir la comanda:
+
+```
+net use f: /delete
+net use f: \\WIN-DPMGFEH4FMF\public /user:pere@2SMX "Admin1234"
+```
+
+![image](https://github.com/XaSaFa/MP04/assets/110727546/c13a4785-ebc1-483f-ade7-8182970837aa)
 
