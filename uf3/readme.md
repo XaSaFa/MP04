@@ -35,4 +35,5 @@ Per compartir recursos a Windows necessitem dues MV:
 ## Activitats
 
 - [Activitat 1 - Permisos Linux](activitat1.md)
+- [Activitat 2 - net use](activitat2.md)
   
