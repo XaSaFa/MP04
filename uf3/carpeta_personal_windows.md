@@ -26,7 +26,7 @@ Seleccionem "Uso compartido avanzado":
 
 ![image](https://github.com/XaSaFa/MP04/assets/110727546/f306b557-c345-4203-af5d-6f8b495c6754)
 
-"Compartir esta carpeta":ç
+"Compartir esta carpeta":
 
 ![image](https://github.com/XaSaFa/MP04/assets/110727546/cf6523e0-e954-4233-a35f-a5190016deb6)
 
