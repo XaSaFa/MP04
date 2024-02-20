@@ -121,7 +121,7 @@ I per al tercer valor utilitzarem la variable d'entorn **%username%** que és el
 
 Per tal en l'exemple quedarà així:
 
-\\WIN-DPMGFEH4FMF\Personal\%username%
+```\\WIN-DPMGFEH4FMF\Personal\%username%```
 
 ![image](https://github.com/XaSaFa/MP04/assets/110727546/c1ad571b-4a46-4540-a3bc-44c7a7f118f8)
 
