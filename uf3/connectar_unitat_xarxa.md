@@ -23,7 +23,7 @@ El nom del servidor pot ser també la seva IP. Exemple:
 Podem connectar a un recurs compartit així:
 
 ```
-net use f: \\WIN-DPMGFEH4FMF\public /PERSISTENT: NO
+net use f: \\WIN-DPMGFEH4FMF\public /PERSISTENT:NO
 ```
 
 ![image](https://github.com/XaSaFa/MP04/assets/110727546/d6a22411-e966-45c4-a80d-6c48d6556316)
