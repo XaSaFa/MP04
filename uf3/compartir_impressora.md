@@ -67,3 +67,9 @@ Afegim algun usuari.
 ![image](https://github.com/XaSaFa/MP04/assets/110727546/95a9643b-490c-46f8-83be-8a92c61bbd29)
 
 ![image](https://github.com/XaSaFa/MP04/assets/110727546/43225996-9b7e-4b1d-94c0-58bac4c1c0ac)
+
+## Pas 4. Compartir impressora
+
+
+
+
