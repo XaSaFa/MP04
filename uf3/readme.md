@@ -36,4 +36,5 @@ Per compartir recursos a Windows necessitem dues MV:
 
 - [Activitat 1 - Permisos Linux](activitat1.md)
 - [Activitat 2 - net use](activitat2.md)
+- [Activitat 3 - Crea una carpeta personal per als usuaris d'un domini seguint el tutorial](carpeta_personal_windows.md)
   
