@@ -1,5 +1,7 @@
 # Compartir impressora a un domini de Windows
 
+# Configuració a la MV Windows Server:
+
 ## Pas 1. Instal·lar impressora
 
 Anem a la web [https://download.pdfforge.org/download/pdfcreator/PDFCreator-stable](https://download.pdfforge.org/download/pdfcreator/PDFCreator-stable) des de windows server com usuari administrador.
@@ -112,4 +114,41 @@ Treiem Todos i afegim el grup usuaris d'impressora que havíem creat anteriormen
 
 ![image](https://github.com/XaSaFa/MP04/assets/110727546/4829775e-d658-41c8-9a80-9eaaa18efe06)
 
+![image](https://github.com/XaSaFa/MP04/assets/110727546/ce1869ce-3f1d-44cc-9165-ed7532be0d0d)
+
 ![image](https://github.com/XaSaFa/MP04/assets/110727546/558b28ff-bd47-4032-86f7-2198117ff2d6)
+
+# Configuració a la MV Client Windows
+
+## Pas 1. Iniciar sessió amb un usuari correcte
+
+Hem d'iniciar sessió amb un usuari del grup usuaris d'impressió que hem creat abans.
+
+## Pas 2. Panell de control
+
+Obrim panell de control->Anem a "dispositivos e impresoras":
+
+![image](https://github.com/XaSaFa/MP04/assets/110727546/a738a8f2-4cca-46c5-847c-54e7229dd269)
+
+![image](https://github.com/XaSaFa/MP04/assets/110727546/af8deaa0-26d6-4b6e-8795-e2c4851f754a)
+
+Ens sortiran les impressores disponibles:
+
+![image](https://github.com/XaSaFa/MP04/assets/110727546/037c543f-b417-46c9-ba32-19c83706d494)
+
+![image](https://github.com/XaSaFa/MP04/assets/110727546/64bba22f-4807-4a76-954b-fef1f6705d18)
+
+Ens demana autorització d'un usuari administrador:
+
+![image](https://github.com/XaSaFa/MP04/assets/110727546/bfc510d7-4fba-45fc-9ca4-c4872c3168b5)
+
+![image](https://github.com/XaSaFa/MP04/assets/110727546/770bc735-7aa9-4018-a0ac-e4ae7c817f85)
+
+![image](https://github.com/XaSaFa/MP04/assets/110727546/5c16ac6b-bbf8-4e2e-a244-0677ffadd9a7)
+
+![image](https://github.com/XaSaFa/MP04/assets/110727546/a42295fd-f2d0-4036-ad77-2223cb3c8b7c)
+
+![image](https://github.com/XaSaFa/MP04/assets/110727546/70e63285-ac4f-4d0c-ade4-0a4e0afae470)
+
+![image](https://github.com/XaSaFa/MP04/assets/110727546/44566d62-c6a5-4eda-8c51-f6dcd6c8e175)
+
