@@ -26,6 +26,14 @@ El programa ens convida a reiniciar l'equip.
 
 ![image](https://github.com/XaSaFa/MP04/assets/110727546/d2023206-dc51-42b4-b4cd-96f1c3777339)
 
+Un cop reiniciat tornem a executar pdfcreator:
+
+![image](https://github.com/XaSaFa/MP04/assets/110727546/350883ee-9dfe-4991-84ec-3cb38c79fbf9)
+
+Aquí ja el veiem en funcionament:
+
+![image](https://github.com/XaSaFa/MP04/assets/110727546/68eb700b-25d3-4fd7-a0d7-e3fa69fba1c6)
+
 ## Pas 2. Creau un grup d'impressió
 
 Anem a usuaris:
@@ -70,6 +78,38 @@ Afegim algun usuari.
 
 ## Pas 4. Compartir impressora
 
+![image](https://github.com/XaSaFa/MP04/assets/110727546/75dc47b8-ad0e-4576-a73c-55c53934ac78)
 
+Escollim el nom del nostre servidor:
 
+![image](https://github.com/XaSaFa/MP04/assets/110727546/6f215200-db51-4ac7-990f-586386ee210e)
 
+**IMPORTANT**
+
+Si tenim que instal·lar una impressora de veritat i no volem haver de portar els drivers a cada equip on hagio de funcionar la impressora seguim els següents passos:
+
+A "controladores" fem click dret i escollim "Agregar controlador":
+
+![image](https://github.com/XaSaFa/MP04/assets/110727546/360a3814-7ae3-4a5b-858e-c740b7f06a31)
+
+![image](https://github.com/XaSaFa/MP04/assets/110727546/ca16c80c-2f50-401f-8b76-a846b453757d)
+
+![image](https://github.com/XaSaFa/MP04/assets/110727546/cfd8cfd8-2c21-4c93-ab3a-4bf7185ac8a4)
+
+I escollim la impressora que volem compartir.
+
+![image](https://github.com/XaSaFa/MP04/assets/110727546/174b8440-7cf6-43df-8e30-015576ad9bba)
+
+![image](https://github.com/XaSaFa/MP04/assets/110727546/caeb5bad-4d8c-444d-a410-aeecb01e7ce6)
+
+![image](https://github.com/XaSaFa/MP04/assets/110727546/220bb8f6-9ed4-4926-8668-f6986cff8531)
+
+![image](https://github.com/XaSaFa/MP04/assets/110727546/096544ba-8cec-45d0-a0b5-6bb7da1740b3)
+
+![image](https://github.com/XaSaFa/MP04/assets/110727546/0463b93c-5051-44a4-bcfb-4b63dd769219)
+
+Treiem Todos i afegim el grup usuaris d'impressora que havíem creat anteriorment:
+
+![image](https://github.com/XaSaFa/MP04/assets/110727546/4829775e-d658-41c8-9a80-9eaaa18efe06)
+
+![image](https://github.com/XaSaFa/MP04/assets/110727546/558b28ff-bd47-4032-86f7-2198117ff2d6)
