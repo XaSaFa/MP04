@@ -42,4 +42,5 @@ Per compartir recursos a Windows necessitem dues MV:
 - [Activitat 2 - net use](activitat2.md)
 - [Activitat 3 - Crea una carpeta personal per als usuaris d'un domini seguint el tutorial](carpeta_personal_windows.md)
 - [Activitat 4 - Comparteix impressora a Windows](activitat4.md)
+- [Activitat 5 - Crear una directiva de grup](activitat5.md)
   
