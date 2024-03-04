@@ -1,4 +1,4 @@
-# Directives de grup (GOP - Group Policy Object)
+# Directives de grup (GPO - Group Policy Object)
 
 Les directives de grup són objectes de Windows que emmagatzemen informació de configuració per a usuaris i grups d'un domini Active Directory.
 
