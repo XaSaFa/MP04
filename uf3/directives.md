@@ -50,6 +50,12 @@ Arrosseguem els usuaris des de usuaris fins la uo.
 
 ![image](https://github.com/XaSaFa/MP04/assets/110727546/59e17c82-408b-40e3-9e7a-2c2e018762c1)
 
+Per fer que una directiva de grup s'actualitzi immediatament podem utilitzar la comanda:
+
+```
+gpupdate /force
+```
+
 ## Pas 5.- Intentar accedir al Panell de Control des d'un ordinador client
 
 Ara comprovarem que la directiva funciona, per això anem a un ordinador client, accedim amb un usuari dels que hem afegit a la UO.
