@@ -25,4 +25,5 @@ Podeu consultar les opcions de forma més exhaustiva [aquí](https://manpages.ub
 
 Caldrà reiniciar per comprovar que el volum queda muntat correctament.
 
+![image](https://github.com/XaSaFa/MP04/assets/110727546/a754ea5e-2932-4ab8-9c1f-1694d137ff03)
 
