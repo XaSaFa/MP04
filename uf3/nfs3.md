@@ -57,3 +57,29 @@ En el nostre cas utilitzarem aquestes opcions:
 
 /shared *(rw,sync,no_subtree_check)
 
+I el fitxer quedarà així:
+
+![image](https://github.com/XaSaFa/MP04/assets/110727546/0473d086-5d37-4c2b-a772-201dd7dc9ad3)
+
+# Pas 3.- Reiniciar el servidor NFS
+
+Un cop fets els canvis hem de reiniciar el servidor NFS:
+
+```
+sudo service nfs-kernel-server restart
+```
+
+![image](https://github.com/XaSaFa/MP04/assets/110727546/eaf73264-9f63-46e3-bf69-840eba799012)
+
+# Pas 4.- Creem algun fitxer a la carpeta compartida
+
+Per comprovar que podem accedir a la carpeta compartida i el seu contingut anem a crear un fitxer de text dincs de /shared
+
+```
+cd /shared
+touch hola.txt
+```
+
+![image](https://github.com/XaSaFa/MP04/assets/110727546/d96bebdd-3187-4ad1-80a0-1707b6410134)
+
+
