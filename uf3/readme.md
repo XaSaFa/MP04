@@ -49,6 +49,7 @@ Per compartir recursos a Linux necessitem dues MV:
   - [Crear el recurs compartit](nfs3.md)
   - [Accedir a la carpeta compartida des d'un client](nfs4.md)
   - [Muntar automàticament les carpetes compartides](nfs5.md)
+  - [Muntar la carpeta home del servidor per cada usuari client](nfs6.md)
 
 ## Activitats
 
