@@ -10,10 +10,6 @@
 
 - [Permisos i drets](permisos_i_drets.md)
 
-### Permisos a Linux
-- [Permisos a Linux](permisos_linux.md)
-- [umask](umask.md)
-
 ## Compartir recursos
 
 ### Windows
@@ -50,7 +46,12 @@ Per compartir recursos a Linux necessitem dues MV:
   - [Accedir a la carpeta compartida des d'un client](nfs4.md)
   - [Muntar automàticament les carpetes compartides](nfs5.md)
   - [Muntar la carpeta home del servidor per cada usuari client](nfs6.md)
+  -
 
+### Permisos a Linux
+- [Permisos a Linux](permisos_linux.md)
+- [umask](umask.md)
+  
 ## Activitats
 
 - [Activitat 1 - Permisos Linux](activitat1.md)
