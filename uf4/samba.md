@@ -18,7 +18,7 @@ La documentació oficial de Microsoft sobre el protocol la podeu trobar [aquí](
 
 Samba neix de la necessitat de l'enginyer australià Andrew Tridgell qui un dia es va veure en la obligació de compartir un recurs d'un ordinador amb sistema UNIX amb el seu PC amb DOS, cosa que va aconseguir fer amb NFS...
 
-Però el problema és que necessitaba utilitzar un programa que feia servir el protocol NetBIOS entre els ordinadores UNIX i DOS, així que agafant les especificacions del protocol SMB, va començar a desenvolupar SAMBA, una alternativa de codi lliure per compartir recursos entre ordinadors amb Linux i Windows.
+Però el problema és que necessitaba utilitzar un programa que feia servir el protocol [NetBIOS](https://es.wikipedia.org/wiki/NetBIOS) entre els ordinadores UNIX i DOS, així que agafant les especificacions del protocol SMB, va començar a desenvolupar SAMBA, una alternativa de codi lliure per compartir recursos entre ordinadors amb Linux i Windows.
 
 Un parell d'anys després va necessitar compartir la impressora que tenia connectada al seu PC amb Linux amb el PC de la seva dona que tenia DOS i va utilitzar SAMBA.
 
