@@ -18,6 +18,8 @@ Després "Ethernet":
 
 ![image](https://github.com/XaSaFa/MP04/assets/110727546/bd397644-55a5-4539-a28a-afcdeb99f371)
 
+![image](https://github.com/XaSaFa/MP04/assets/110727546/0cc382e2-2760-49d5-a570-843f0cbcf2aa)
+
 ## Pas 2.- Donar nom al grup de treball
 
 Tots els equips del grup de treball hauran de tenir el mateix nom de grup
