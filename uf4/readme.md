@@ -10,4 +10,4 @@
 
 ## SAMBA
 
-- [Què és SAMBA?]
+- [Què és SAMBA?](samba.md)
