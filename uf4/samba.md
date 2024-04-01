@@ -24,6 +24,8 @@ Un parell d'anys després va necessitar compartir la impressora que tenia connec
 
 A dia d'avui el protocol és molt utilitzat quan es volen compartir recursos a xarxes d'ordinadors amb diferents sistemes operatius.
 
+[Web oficial de Samba.](https://www.samba.org/samba/)
+
 ![image](https://github.com/XaSaFa/MP04/assets/110727546/64261277-9858-41e6-96b2-649353ffd81f)
 
 
