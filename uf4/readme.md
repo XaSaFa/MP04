@@ -17,3 +17,4 @@
 - [Accedir a carpeta desde Windows](accedir_carpeta_desde_windows.md)
   - [Activitat 2 - Compartir una carpeta a un grup de treball](activitat2.md)
 - [Accedir a carpeta desde Linux](accedir_carpeta_desde_linux.md)
+  - [Activitat 3 - Compartir una carpeta a un grup de treball i un ordinador amb Linux](activitat3.md)
