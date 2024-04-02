@@ -15,4 +15,5 @@
 - [Crear grup de treball a Windows](crear_grup_de_treball.md)
 - [Compartir carpeta a grup de treball](compartir_carpeta_grup_de_treball.md)
 - [Accedir a carpeta desde Windows](accedir_carpeta_desde_windows.md)
+  - [Activitat 2 - Compartir una carpeta a un grup de treball](activitat2.md)
 - [Accedir a carpeta desde Linux](accedir_carpeta_desde_linux.md)
