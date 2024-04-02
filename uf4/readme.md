@@ -11,6 +11,7 @@
 ## SAMBA
 
 - [Què és SAMBA?](samba.md)
+- [Grups de treball](grups_de_treball.md)
 - [Crear grup de treball a Windows](crear_grup_de_treball.md)
 - [Compartir carpeta a grup de treball](compartir_carpeta_grup_de_treball.md)
 - [Accedir a carpeta desde Windows](accedir_carpeta_desde_windows.md)
