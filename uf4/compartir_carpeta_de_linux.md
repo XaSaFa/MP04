@@ -56,8 +56,6 @@ Si obrim un terminal veurem com han quedat els permisos de la carpeta.
 
 ![image](https://github.com/XaSaFa/MP04/assets/110727546/927ab900-0c29-41f1-a1fd-c79c8fa154f5)
 
-# Comprovar que es pot accedir des de Windows
-
 A Linux afegim un fitxer dins la carpeta compartida.
 
 ![image](https://github.com/XaSaFa/MP04/assets/110727546/c9a84a30-e781-4812-8392-b1e74c4d4c62)
