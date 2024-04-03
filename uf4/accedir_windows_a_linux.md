@@ -18,4 +18,6 @@ Ja apareix el recurs compartit i l'equip a la xarxa.
 
 ![image](https://github.com/XaSaFa/MP04/assets/110727546/547efe33-4778-4b7c-a149-6afc2f2733df)
 
-Dins de la carpeta veiem el aaa
+Ens demanarà el nom d'usuari i contrasenya de SAMBA i dins de la carpeta veiem el arxiu que hem creat abans.
+
+![image](https://github.com/XaSaFa/MP04/assets/110727546/eb13524e-e54b-40be-a85a-b7c0ae0d02e8)
