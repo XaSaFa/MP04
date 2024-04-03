@@ -8,53 +8,49 @@ Com exemple a la carpeta personal de l'usuari de Linux creem una carpeta anomena
 
 ![image](https://github.com/XaSaFa/MP04/assets/110727546/c88e5b35-de99-4c26-8d77-0e2b8e9c73ed)
 
-## Pas 2.- Compartir la carpeta
+## Pas 2.- Configurar SAMBA
 
-Pressionem botó dret i seleccionem "Propiedades".
+Per compartir la carpeta hem de modificar el fitxer de SAMBA  ```/etc/samba/smb.cnf```.
 
-![image](https://github.com/XaSaFa/MP04/assets/110727546/53e3c5c1-71e2-43a5-842d-0b3cd57a8b10)
+Canviarem el nom del grup de treball que està per defecte a "WORKGROUP" per el que necessitem, en aquest exemple "SMX2"
 
-Anem a la pestanya "Recurso compartido de red local".
+![image](https://github.com/XaSaFa/MP04/assets/110727546/12a01b97-49f1-495f-87a5-7b2477b31d71)
 
-![image](https://github.com/XaSaFa/MP04/assets/110727546/385de1f8-f611-42cf-984a-593835e33375)
+![image](https://github.com/XaSaFa/MP04/assets/110727546/9f686a5e-a2e1-4cb1-9df2-08c5ab380604)
 
-Seleccionem la casella "Compartir esta carpeta", si és la primera vegada que ho fem Linux ens avisa que ha d'instal·lar software addicional.
+Sense sortir del fitxer anem a la part inferior i creem un text que defineix el nostre recurs compartit.
 
-![image](https://github.com/XaSaFa/MP04/assets/110727546/3c4e8aad-d684-4697-8856-a7bf9025e71f)
+![image](https://github.com/XaSaFa/MP04/assets/110727546/89e6f47e-0618-4d67-91bb-035fa5792729)
 
-Instal·lem el servei SAMBA com ens proposa Linux.
+Aquest text significa:
 
-![image](https://github.com/XaSaFa/MP04/assets/110727546/eec0e522-3736-4d08-b98a-77ac05523acc)
+- [doc_grup] -> Nom del recurs compartit.
+- path -> Ruta al recurs que compartim.
+- guest ok = no -> No admetre usuaris no identificats.
+- writeable = yes -> Els ususaris poden modificar els continguts.
+- write list = xavi -> Usuaris que poden modificar (en aquest cas l'usuari xavi).
+- browseable = yes -> El recurs té permís de lectura.
+- create mask = 0775 -> Permisos dels fitxers que es crein dins la carpeta compartida.
+- force create mode = 0775 -> Necessari per a que funcioni create mask.
+- directory mask = 0755 -> Permisos de les carpetes que es crein dins la carpeta compartida.
 
-![image](https://github.com/XaSaFa/MP04/assets/110727546/7a35410e-06e9-4e47-ad47-ba1cb314ecb9)
+## Pas 3.- Afegir usuari de SAMBA
 
-Ens demanarà credencials d'admin i començarà a instal·lar-se el servei.
+Al fitxer de configuració hem dit que l'usuari xavi pot accedir als continguts de la carpeta, tot i que xavi és un usuari local hem d'afegirlo com usuari de SAMBA.
 
-## Pas 3.- Seleccionar accés de només lectura o lectura i modificació
+**IMPORTANT:** Només podem afegir a SAMBA a usuaris que ja existeixen.
 
-Quan compartim la carpeta Linux hem d'escollir si la compartim només amb permisos de lectura o amb permisos per llegir i modificar, per això hem de seleccionar següent la casella en el segon cas.
+Farem servir la instrucció ```smbpasswd```.
 
-![image](https://github.com/XaSaFa/MP04/assets/110727546/3f6aa992-e6ee-463d-a10e-7ca9098c735c)
+![image](https://github.com/XaSaFa/MP04/assets/110727546/83de6b2c-2d9b-4f96-9a4e-ae2a82caabef)
 
-Seleccionem "Crear compartición".
+## Pas 4.- Reiniciar el servei SAMBA
 
-![image](https://github.com/XaSaFa/MP04/assets/110727546/68bbff78-793e-4d0b-8900-8a33c1b8b695)
+Reiniciem el servei smbd.
 
-El sistema ens avisa que el nom del recurs a compartir és massa llarg així que el fem més curt.
+![image](https://github.com/XaSaFa/MP04/assets/110727546/b440be51-bbf0-4010-91ac-511b4a786d66)
 
-![image](https://github.com/XaSaFa/MP04/assets/110727546/7a573e7f-59d7-4d7d-bddb-19f3120f62e8)
-
-Si hem modificat els permisos per a que els usuaris puguin modificar fitxers Linux ens avisarà de que ha de fer modificacions als permisos de la carpeta.
-
-![image](https://github.com/XaSaFa/MP04/assets/110727546/621ee5eb-72f5-4a41-b52b-c26fa7536271)
-
-Com veiem l'icona de la carpeta compartida ha canviat.
-
-![image](https://github.com/XaSaFa/MP04/assets/110727546/fa89abdd-d8a0-4a9b-a3d4-dd972cc7a775)
-
-Si obrim un terminal veurem com han quedat els permisos de la carpeta.
-
-![image](https://github.com/XaSaFa/MP04/assets/110727546/927ab900-0c29-41f1-a1fd-c79c8fa154f5)
+## Pas 5.- Afegim algun fitxer a la carpeta
 
 A Linux afegim un fitxer dins la carpeta compartida.
 
