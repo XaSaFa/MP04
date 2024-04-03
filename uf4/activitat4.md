@@ -1,0 +1,3 @@
+- Accedir des d'un altre ordinador Linux.
+- Crear recursos amb diferents paràmetres.
+- Investigar com utilitzar System-config-samba.
