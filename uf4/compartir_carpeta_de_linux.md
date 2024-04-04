@@ -6,6 +6,8 @@ Ja hem vist com compartir una carpeta des de Windows al grup de treball, però a
 
 Com exemple a la carpeta personal de l'usuari de Linux creem una carpeta anomenada "documents_de_grup".
 
+**Li canvieu els permisos a la carpeta a 777 (Tothom té accés).**
+
 ![image](https://github.com/XaSaFa/MP04/assets/110727546/c88e5b35-de99-4c26-8d77-0e2b8e9c73ed)
 
 ## Pas 2.- Instal·lar i Configurar SAMBA
