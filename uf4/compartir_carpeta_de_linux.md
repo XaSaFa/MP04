@@ -8,7 +8,13 @@ Com exemple a la carpeta personal de l'usuari de Linux creem una carpeta anomena
 
 ![image](https://github.com/XaSaFa/MP04/assets/110727546/c88e5b35-de99-4c26-8d77-0e2b8e9c73ed)
 
-## Pas 2.- Configurar SAMBA
+## Pas 2.- Instal·lar i Configurar SAMBA
+
+Per instal·lar SAMBA escriurem la següent comanda:
+
+```
+sudo apt install samba
+```
 
 Per compartir la carpeta hem de modificar el fitxer de SAMBA  ```/etc/samba/smb.cnf```.
 
