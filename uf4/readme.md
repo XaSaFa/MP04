@@ -21,3 +21,4 @@
   - [Activitat 3 - Compartir una carpeta a un grup de treball i un ordinador amb Linux](activitat3.md)
 - [Compartir carpeta des de Linux a grup de treball](compartir_carpeta_de_linux.md)
 - [Accedir a carpeta Linux des de Windows](accedir_windows_a_linux.md)
+  - [Activitat 4 - Compartir recursos des de Linux utilitzant SAMBA](activitat4.md)
