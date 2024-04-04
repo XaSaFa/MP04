@@ -32,6 +32,8 @@ Aquí accedim a recursos per als quals no tenim permís, els recursos que el seu
 
 ![image](https://github.com/XaSaFa/MP04/assets/110727546/5c05168d-3ebf-4476-8bbd-60e9b83e5e7c)
 
+**Al connectar inventem un nom d'usuari i contrasenya i possem el grup de treball correcte al camp "dominio".**
+
 ![image](https://github.com/XaSaFa/MP04/assets/110727546/199d650f-afaf-4496-a62e-ddc2240974d3)
 
 ![image](https://github.com/XaSaFa/MP04/assets/110727546/0624c10e-b9bd-4ff0-9309-f541b1b993ef)
