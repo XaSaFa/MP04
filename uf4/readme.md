@@ -22,3 +22,4 @@
 - [Compartir carpeta des de Linux a grup de treball](compartir_carpeta_de_linux.md)
 - [Accedir a carpeta Linux des de Windows](accedir_windows_a_linux.md)
   - [Activitat 4 - Compartir recursos des de Linux utilitzant SAMBA](activitat4.md)
+- [Accedir a carpeta home de cada usuari Linux des de Windows i a una carpeta pública per usuaris anònims](samberos.md)
