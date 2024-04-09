@@ -20,7 +20,7 @@
 - Crea algun fitxer a la carpeta.
 - Comprova que s'ha creat a Linux i té els permisos 755.
 
-# 3.- System-config-samba
+# 3.- System-config-samba [NO EL FEU, farem una altra activitat]
 
 - System-config-samba és una interfície gràfica per configurar recursos compartits utilitzant SAMBA.
 - Investigar com instal·lar i utilitzar System-config-samba.
