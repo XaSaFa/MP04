@@ -61,4 +61,5 @@ sudo apt install quota quotatool
 
 - Crea un recurs a webmin que, utilitzant samba comparteixi una carpeta anomenada "dejaneiro_public_X" per a usuaris sense autenticar en forma de lectura i escriptura.
 - Crea un recurs a webmin que, utilitzant samba comparteixi una carpeta anomenada "dejaneiro_privat_X" per a usuaris user1_X i user2_X només de lectura.
+- Comprovar des de Windows que aquests recursos funcionen.
 
