@@ -1,7 +1,7 @@
 # Utilitzant webmin per administrar el servidor
 
 - Entregueu un document pdf on feu les següents tasques.
-- Espliqueu el que feu amb text i captures.
+- Expliqueu el que feu amb text i captures.
 
 
 ## 1.- Crear i modificar usuaris
