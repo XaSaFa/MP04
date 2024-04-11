@@ -14,9 +14,9 @@
 ## 2.- Programa tasques
 
 - Programa una tasca que neteja els paquets de Linux que ja no s'utilitzen una vegada al mes.
-- Programa una còpia de seguretat diària del directori home dels usuaris a /srv/backup.
-- Crea fitxers, fes que s'executi la tasca programada i comprova que es pot recuperar la informació (fora de webmin). 
-
+- Programa una tasca diaria que apaga l'ordinador a les 14:00.
+- Comprova que funcionen (canvia dia i hora del sistema mitjançant webmin).
+  
 ## 3.- Instal·lació de software
 
 - Utilitza webmin per mostrar quins paquets de software es podrien actualitzar.
@@ -44,6 +44,21 @@ sudo apt install quota quotatool
 ```
 
 - Utilitza webmin perquè l'usuari user1_X no pugui tenir més de 2 MB d'informació al disc.
-- Comprova que la quota funciona.
+- Comprova que el límit de la quota funciona.
 - Utilitza webmin perquè l'usuari user2_X no pugui tenir més de 10 fitxers al disc.
-- Comprova que la quota funciona.
+- Comprova que el límit de la quota funciona.
+
+## 6.- Còpies de seguretat
+
+- Utilitzant el mòdul de Webmin Filesystem Backup fes una còpia de seguretat del directori /home al directori /backups (l'haureu de crear si no existeix).
+- Modifica alguns fitxers de /home.
+- Recupera la còpia de seguretat.
+- Comprova que els fitxers de /home són els correctes.
+- Programa una còpia de seguretat de /home/user1_X per els divendres a les 21:00.
+- Esborra la còpia de seguretat programada anterior.
+
+## 7.- Compartició
+
+- Crea un recurs a webmin que, utilitzant samba comparteixi una carpeta anomenada "dejaneiro_public_X" per a usuaris sense autenticar en forma de lectura i escriptura.
+- Crea un recurs a webmin que, utilitzant samba comparteixi una carpeta anomenada "dejaneiro_privat_X" per a usuaris user1_X i user2_X només de lectura.
+
