@@ -11,7 +11,7 @@
 - Comproveu que els usuaris poden iniciar sessió.
 - Canvia la data del sistema (utilitzant webmin) i comprova que user2_X no pot iniciar sessió si estem a dia 22-04-2024.
 
-## 2.- Programa tasques
+## 2.- Programar tasques
 
 - Programa una tasca que neteja els paquets de Linux que ja no s'utilitzen una vegada al mes.
 - Programa una tasca diaria que apaga l'ordinador a les 14:00.
