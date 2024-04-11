@@ -1,5 +1,9 @@
 # Utilitzant webmin per administrar el servidor
 
+- Entregueu un document pdf on feu les següents tasques.
+- Espliqueu el que feu amb text i captures.
+
+
 ## 1.- Crear i modificar usuaris
 
 - Has de crear dos usuaris user1_X i user2_X on (X és el vostre cognom).
