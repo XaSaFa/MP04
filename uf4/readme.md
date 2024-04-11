@@ -24,6 +24,11 @@
   - [Activitat 4 - Compartir recursos des de Linux utilitzant SAMBA](activitat4.md)
 - [Accedir a carpeta home de cada usuari Linux des de Windows i a una carpeta pública per usuaris anònims](samberos.md)
 
+## WEBMIN
+
+- [Tutorial d'instal·lació](webmin.md)
+  - [Activitat PUNTUABLE per parelles ús webmin](activitat_webmin.md)
+
 ## Recursos
 
 - [Web oficial de Samba](https://www.samba.org/)
