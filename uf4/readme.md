@@ -26,8 +26,10 @@
 
 ## WEBMIN
 
-- [Tutorial d'instal·lació](webmin.md)
+- [Tutorial d'instal·lació](webmin.md)    
   - [Activitat PUNTUABLE per parelles ús webmin](activitat_webmin.md)
+  - Data límit 21/04/2024
+    
 
 ## Recursos
 
