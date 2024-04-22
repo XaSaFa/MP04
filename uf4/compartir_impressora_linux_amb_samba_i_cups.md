@@ -60,20 +60,10 @@ A la barra d'adreces escrivim la ip de la MV Linux seguida de ":" i el número d
 ![image](https://github.com/XaSaFa/MP04/assets/110727546/eb6625d7-ed3f-4af5-9d61-1f6890e825e0)
 
 ![image](https://github.com/XaSaFa/MP04/assets/110727546/3216947c-83b6-4196-adeb-79cd1344247a)
-
-![image](https://github.com/XaSaFa/MP04/assets/110727546/9c4f4942-c59f-4ebe-b86d-e16f5dde4fcb)
-
-![image](https://github.com/XaSaFa/MP04/assets/110727546/708bde0a-8237-4a0c-b90e-22de613eb3e3)
-
-![image](https://github.com/XaSaFa/MP04/assets/110727546/3a1bb54b-2ee9-4b07-8a43-c8bc7251ee02)
-
-![image](https://github.com/XaSaFa/MP04/assets/110727546/a71da6aa-fd4e-4f4f-89f0-79922c0b4a43)
-
-![image](https://github.com/XaSaFa/MP04/assets/110727546/81caf35e-8310-408b-8d01-5f6e4715d04d)
-
-![image](https://github.com/XaSaFa/MP04/assets/110727546/1b4c05e1-aa5d-471b-bf79-99a336e17039)
-
-![image](https://github.com/XaSaFa/MP04/assets/110727546/d862ca6f-27c7-430f-8084-7cdfda8251af)
+![image](https://github.com/XaSaFa/MP04/assets/110727546/ab54f22d-9297-40ca-9c2b-e5d62da53d03)
+![image](https://github.com/XaSaFa/MP04/assets/110727546/1a712fec-53e5-416f-9f6d-4c4d80f9759d)
+![image](https://github.com/XaSaFa/MP04/assets/110727546/7f8d106d-e4bd-4fe6-a54e-367f716b513b)
+![image](https://github.com/XaSaFa/MP04/assets/110727546/afdf02cc-e9d8-42f4-89c5-64f98d43d91f)
 
 # Pas 7.- Afegir la impressora a Windows
 
@@ -106,7 +96,9 @@ Anem a Impressores i escàners i cliquem a afegir.
 
 ![image](https://github.com/XaSaFa/MP04/assets/110727546/0b4dba83-4100-4ae6-b52a-5291edd752c4)
 ![image](https://github.com/XaSaFa/MP04/assets/110727546/0d2e86b0-bc30-49fb-a7d0-824ad283dc56)
-![image](https://github.com/XaSaFa/MP04/assets/110727546/7a446090-167d-4718-8590-fb1df80c63b9)
+![image](https://github.com/XaSaFa/MP04/assets/110727546/9335fccf-bf32-428b-abdb-6bd76dd06f7b)
+
+
 ![image](https://github.com/XaSaFa/MP04/assets/110727546/fb479e74-d9d3-4500-a4ad-f32bfcf95f33)
 ![image](https://github.com/XaSaFa/MP04/assets/110727546/7d622d94-d4c8-4a8c-adc6-a712739c3d72)
 
