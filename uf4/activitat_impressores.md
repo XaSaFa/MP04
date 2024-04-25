@@ -25,3 +25,17 @@ La xarxa de l'oficina fa servir aquestes adreces IP. On X és el número assigna
 
 ![image](https://github.com/XaSaFa/MP04/assets/110727546/1dd6f371-1038-4f82-82cc-35fe39793671)
 
+# Assignació de grups 
+Heu de fer servir el número de grup per l'adreça de xarxa de les pràctiques.
+
+1. Eric M. i Pol Núñez.
+2. Sarah.
+3. Alex Morales i Guillem.
+4. Pol B. i Dani.
+5. Ibrahim i Mohammed A.
+6. Dídac i Ander,.
+7. Mohammed B.
+8. Víctor i Alex López.
+9. Santi i Eric A.
+
+
