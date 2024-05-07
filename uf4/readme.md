@@ -17,14 +17,16 @@
 - [Compartir carpeta des de Windows a grup de treball](compartir_carpeta_grup_de_treball.md)
 - [Accedir a carpeta Windows des de Windows](accedir_carpeta_desde_windows.md)
   - [Activitat 2 - Compartir una carpeta a un grup de treball](activitat2.md)
+  - [Vídeo solució - Daniel.](https://drive.google.com/file/d/1S10QP--CpdUJyTNhibnGJgAp47UW6_PS/view?usp=drive_link)
 - [Accedir a carpeta desde Linux](accedir_carpeta_desde_linux.md)
   - [Activitat 3 - Compartir una carpeta a un grup de treball i un ordinador amb Linux](activitat3.md)
+  - [Vídeo solució - Pol N.](https://drive.google.com/file/d/1innSInvTavrsd7KwmfB_wEKButXFRJjZ/view?usp=drive_link)
 - [Compartir carpeta des de Linux a grup de treball](compartir_carpeta_de_linux.md)
 - [Accedir a carpeta Linux des de Windows](accedir_windows_a_linux.md)
   - [Activitat 4 - Compartir recursos des de Linux utilitzant SAMBA](activitat4.md)
 - [Accedir a carpeta home de cada usuari Linux des de Windows i a una carpeta pública per usuaris anònims](samberos.md)
-- [Vídeo solució - Pol N.](https://drive.google.com/file/d/1innSInvTavrsd7KwmfB_wEKButXFRJjZ/view?usp=drive_link)
-- [Vídeo solució - Daniel.](https://drive.google.com/file/d/1S10QP--CpdUJyTNhibnGJgAp47UW6_PS/view?usp=drive_link)
+
+
 
 ## WEBMIN
 
