@@ -2,6 +2,12 @@
 
 ## Pas 1.- Preparar el servidor
 
+Quan un equip amb Windows server actúa de controlador de domini Active Directory es configura el rol AD de forma automàtica a Linux hem d'instal·lar una serie de programes de forma manual:
+
+- Samba: Necessitarem Samba amb versió 4 com a mínim.
+- DNS: permet obtenir informació sobre els objectes del domini a partir del seu nom dins del domini (per exemple, l'adreça IP d'una màquina a partir del seu nom). En un cas senzill com el nostre, el mateix Samba farà de servidor DNS.
+- Servei Kerberos: és un protocol d'autenticació entre ordinadors d'una xarxa perquè tant el client com el servidor puguin comprovar de forma fiable la identitat de l'altre.
+
 ## Pas 1.1.- Actualitzem els repositoris
 
 ```
