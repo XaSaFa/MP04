@@ -171,7 +171,7 @@ host -t SRV _kerberos._udp.NEOTOKYO.LOCAL
 
 ![image](https://github.com/XaSaFa/MP04/assets/110727546/12bd300d-281d-4c4f-aeca-20f8089a295c)
 
-Comprovem que el nom del server es ressol correctament.
+Comprovem que el nom del server es resol correctament.
 
 ```
 host -t A AKIRA.NEOTOKYO.LOCAL
