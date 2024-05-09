@@ -151,6 +151,8 @@ Crearem un usuari del domini anomenat kaneda.
 sudo samba-tool user create kaneda
 ```
 
+Reiniciem l'equip.
+
 [Aquí teniu més opcions de la comanda samba-tool.](https://samba.tranquil.it/doc/en/samba_config_server/samba_commands_utils.html)
 
 ![image](https://github.com/XaSaFa/MP04/assets/110727546/0676ce45-18f1-422b-8dd6-4c27e4873d43)
