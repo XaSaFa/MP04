@@ -27,7 +27,7 @@ També modifiquem el nom del servidor al fitxer /etc/hosts editant-lo.
 
 ![image](https://github.com/XaSaFa/MP04/assets/110727546/9ba93fc8-1174-4fef-898d-77126a3b89e4)
 
-També afegirem el nom AKIRA.neotokyo.local
+També afegirem el nom AKIRA.neotokyo.local ja que el domini serà NEOTOKYO.LOCAL.
 
 ![image](https://github.com/XaSaFa/MP04/assets/110727546/d25f7db2-1c08-454b-926b-d379403a5f75)
 
