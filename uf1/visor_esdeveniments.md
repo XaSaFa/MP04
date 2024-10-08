@@ -26,11 +26,11 @@ El visor d'events és un visor dels fitxers de registre o log del sistema.
 
 Aquí podem veure una sèrie d'events del SO.
 
-**1. Aplicación.** Aquí queden els events de les aplicacions i serveis que no són del SO.
-**2. Seguridad.** Events relatius a la seguretat del sistema.
-**3. Instalación.** Eventos relatius a la configuració de rols i característiques.
-**4. Sistema.** Events del sistema i dels components relacionats.
-**5. Eventos reenviados.** Informació reenviada d'altres sistemes de la xarxa.
+1. **Aplicación.** Aquí queden els events de les aplicacions i serveis que no són del SO.
+2. **Seguridad.** Events relatius a la seguretat del sistema.
+3. **Instalación.** Eventos relatius a la configuració de rols i característiques.
+4. **Sistema.** Events del sistema i dels components relacionats.
+5. **Eventos reenviados.** Informació reenviada d'altres sistemes de la xarxa.
 
 Per veure quins esdeveniments hi ha clickem a sobre d'una de les opcions, per exemple **Instalación**.
 
