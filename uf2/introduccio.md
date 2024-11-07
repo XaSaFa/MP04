@@ -18,7 +18,7 @@ Minix va ser una distribució de Linux que va influenciar a un jove estudiant d'
 ![image](https://github.com/XaSaFa/MP04/assets/110727546/30f9dd94-9c40-4f29-b3c8-7490be021f81)
 Linus Torvalds
 
-El nucli de Linux va ser desenvolupat per Linux Torvalds, però la interacció entre el nucli i l'usuari i moltes aplicacions com la interfície gràfica es van agafar del projecte de Richard Stallman GNU (GNU is Not Unix). 
+El nucli de Linux va ser desenvolupat per Linus Torvalds, però la interacció entre el nucli i l'usuari i moltes aplicacions com la interfície gràfica es van agafar del projecte de Richard Stallman GNU (GNU is Not Unix). 
 
 ![image](https://github.com/XaSaFa/MP04/assets/110727546/887371c4-32ed-4f92-b16b-9712ac9ab194)
 
