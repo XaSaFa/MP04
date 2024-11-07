@@ -69,6 +69,8 @@ A més cada dos anys apareix una versió anomenada LTS (Long Term Support), aque
 ![image](https://github.com/XaSaFa/MP04/assets/110727546/e1a97e3a-8d11-4049-84d9-c0a0f957a330)
 Versions d'Ubuntu
 
+![image](https://github.com/user-attachments/assets/86dd68cc-b2ff-46b6-8168-95f565fcee64)
+
 ## Linux a altres dispositius:
 
 ![image](https://github.com/XaSaFa/MP04/assets/110727546/022fc95c-a560-4e2b-892c-a3aea00b8168)
