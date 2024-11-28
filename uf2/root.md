@@ -1,6 +1,6 @@
 # Usuari root
 
-A Ubuntu, per defecte, root és un superusuari deshabilitat. Això es far per evitar problemes de seguretat.
+A Ubuntu, per defecte, root és un superusuari deshabilitat. Això es fa per evitar problemes de seguretat.
 
 ## Habilitar root
 
