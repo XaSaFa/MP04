@@ -57,17 +57,17 @@ Podem canviar el nom d'un usuari de Linux, però a Linux hi ha altres aspectes a
 
 Si volem canviar del tot un nom d'usuari per un altre farem:
 
-1. Canviar el nom d'usuari.
-<br>
+1.- Canviar el nom d'usuari.<BR>
+
 ![image](https://github.com/XaSaFa/MP04/assets/110727546/2e31dcd6-3b34-458e-b745-8f3984699f1a)
 
-2. Canviar el directori home de l'usuari.
-<br>
+2.- Canviar el directori home de l'usuari.<BR>
+
 ![image](https://github.com/XaSaFa/MP04/assets/110727546/74a448a3-d5fe-4a85-ad65-1cf05ca42687)
-<br>
+
 ![image](https://github.com/XaSaFa/MP04/assets/110727546/9687ad05-f821-4edf-8f51-40314f37749c)
-<br>
-4. Canviem el grup.
-<br>
+  
+3.-Canviem el grup.<BR>
+
 ![image](https://github.com/XaSaFa/MP04/assets/110727546/c8a986b0-ce9d-4f3c-87ab-ad81dca5986e)
-<br>
+
