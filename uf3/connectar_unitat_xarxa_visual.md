@@ -14,7 +14,7 @@ Hem d'omplir la informació pertinent:
 
 ![image](https://github.com/XaSaFa/MP04/assets/110727546/896744de-e30e-44e7-9cbf-4321072f4e9a)
 
-- Carpeta: Direcció al recurs en la forma \\servidor\recurs
+- Carpeta: Direcció al recurs en la forma \\\servidor\recurs
 
 ![image](https://github.com/XaSaFa/MP04/assets/110727546/ddbbe016-a326-414a-b65e-c7184d6e01f5)
 
