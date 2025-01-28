@@ -33,9 +33,11 @@ Esquema de permisos sobre fitxers:
 
 - Seguint aquest esquema quins són el propietari, el grup propietari i els permisos per al fitxer "wgetrc"?
 
-- Usuari root : Llegir i escriure
-- Grup root : Llegir
-- Altres: Llegir
+![image](https://github.com/XaSaFa/MP04/assets/110727546/29f1f3f8-e179-45a8-bbd3-360432160dc5)
+
+- Usuari root : 
+- Grup root : 
+- Altres: 
 
 🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎
 
