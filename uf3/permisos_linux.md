@@ -36,8 +36,8 @@ Esquema de permisos sobre fitxers:
 ![image](https://github.com/XaSaFa/MP04/assets/110727546/29f1f3f8-e179-45a8-bbd3-360432160dc5)
 
 - Usuari root : rw
-- Grup root : 
-- Altres: 
+- Grup root : r
+- Altres: r
 
 🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎
 
