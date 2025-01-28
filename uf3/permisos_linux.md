@@ -59,7 +59,7 @@ sudo chown -R elvis:elvis cliente/
 
 ![image](https://github.com/XaSaFa/MP04/assets/110727546/7d1a53c9-0a0b-48bd-a412-f19f7cd172b3)
 
-IMPORTANT: El paràmetre -R fa que el canvi afecti a tots els elements dins de la carpeta clientes també.
+IMPORTANT: El paràmetre -R fa que el canvi afecti a tots els elements dins de la carpeta cliente també.
 
 Imaginem que enlloc d'un únic usuari ens interessa que més d'un usuari pugui editar el contingut, llavors enlloc d'un usuari el que farem serà crear un grup d'usuaris i afegir els usuaris editors al grup.
 
