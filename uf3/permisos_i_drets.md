@@ -19,6 +19,6 @@ Els drets es refereixen a **accions que pot fer un usuari dins el sistema operat
 - Executar un programa.
 - Instal·lar software.
 - Canviar la configuració del sistema.
-- Gestiopnar usuaris.
+- Gestionar usuaris.
 - ...
 
