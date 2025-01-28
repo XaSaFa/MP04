@@ -12,7 +12,7 @@ Partim de la base de que tenim una carpeta compartida anomenada **public** al se
 
 La comanda net use té els següents paràmetres:
 
-net use <lletra unitat> <\\nom servidor\nom recurs compartit> </usuari>
+net use (lletra unitat) (\\nom servidor\nom recurs compartit) (/usuari)
 
 El nom del servidor pot ser també la seva IP. Exemple:
 
