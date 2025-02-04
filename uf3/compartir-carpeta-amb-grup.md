@@ -2,7 +2,7 @@
 
 # Pas 1 - Creació del grup
 
-Crearem un grup d'usuaris que puguin tenir accés a la carpeta compartida.
+Crearem un grup d'usuaris anomenat "enfermeria" que puguin tenir accés a la carpeta compartida.
 
 ![image](https://github.com/user-attachments/assets/c5e692fa-5c04-4f5c-95ca-ce8049a5f4c4)
 
@@ -16,7 +16,7 @@ Crearem un grup d'usuaris que puguin tenir accés a la carpeta compartida.
 
 # Pas 2 - Creació de la carpeta compartida
 
-Creem la carpeta compartida i 
+Creem la carpeta compartida anomenada "enfermeria" i li donem accés al grup anterior. 
 
 ![image](https://github.com/user-attachments/assets/60a5c444-4d7a-443b-97e9-4b99a9b78545)
 
@@ -27,6 +27,8 @@ Creem la carpeta compartida i
 ![image](https://github.com/user-attachments/assets/6479f20a-ae91-43d1-be98-59875c269f3d)
 
 # Pas 3 - Creació de Script connexió usuaris
+
+Crearem un script (un fitxer amb extensió .bat) dins la carpeta NETLOGON del servidor.
 
 ![image](https://github.com/user-attachments/assets/6e342681-9da2-4184-b7d5-74db4d5f22a8)
 
@@ -44,6 +46,8 @@ Creem la carpeta compartida i
 
 # Pas 4 Afegir l'script a l'inici dels usuaris
 
+Al perfil dels usuaris del grup direm que executin l'script anterior, d'aquesta manera quan iniciïn sessió a un ordinador de l'Active Directory automàticament s'executarà l'script que connecta la unitat de xarxa.
+
 ![image](https://github.com/user-attachments/assets/b7276ae6-c914-429c-a72c-2b1b69c93907)
 
 ![image](https://github.com/user-attachments/assets/15764f11-27d0-44e5-9fa4-b27a4c850bba)
@@ -51,5 +55,7 @@ Creem la carpeta compartida i
 ![image](https://github.com/user-attachments/assets/2ddde777-d110-4ec4-99fe-0a004fdb21c6)
 
 # Pas 5 Inicia sessió al client
+
+Iniciem sessió a un ordinador client amb un usuari del grup amb l'script inicial anterior i comprovem que té accés a la unitat de xarxa. 
 
 ![image](https://github.com/user-attachments/assets/6103dd16-ba75-47bd-9c0f-c8c9d6b9f77b)
