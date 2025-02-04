@@ -24,4 +24,28 @@
 
 # Pas 3 - Creació de Script connexió usuaris
 
+![image](https://github.com/user-attachments/assets/6e342681-9da2-4184-b7d5-74db4d5f22a8)
 
+![image](https://github.com/user-attachments/assets/74f1ff81-6877-44ab-9f1e-b528eb67e745)
+
+![image](https://github.com/user-attachments/assets/1f96842e-a4cd-457b-97ae-593da359ca9a)
+
+![image](https://github.com/user-attachments/assets/f156cb06-820a-4c9f-b066-065f08b6dbbb)
+
+![image](https://github.com/user-attachments/assets/6bbd3dd5-6d05-44e0-a266-673cefae7db9)
+
+![image](https://github.com/user-attachments/assets/8117a0ad-3f0a-4b5b-9db8-f29f56c48a2d)
+
+![image](https://github.com/user-attachments/assets/0bc40282-1a41-4518-8ee0-beba46bca7d2)
+
+# Pas 4 Afegir l'script a l'inici dels usuaris
+
+![image](https://github.com/user-attachments/assets/b7276ae6-c914-429c-a72c-2b1b69c93907)
+
+![image](https://github.com/user-attachments/assets/15764f11-27d0-44e5-9fa4-b27a4c850bba)
+
+![image](https://github.com/user-attachments/assets/2ddde777-d110-4ec4-99fe-0a004fdb21c6)
+
+# Pas 5 Inicia sessió al client
+
+![image](https://github.com/user-attachments/assets/6103dd16-ba75-47bd-9c0f-c8c9d6b9f77b)
