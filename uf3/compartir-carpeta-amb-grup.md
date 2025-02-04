@@ -2,6 +2,8 @@
 
 # Pas 1 - Creació del grup
 
+Crearem un grup d'usuaris que puguin tenir accés a la carpeta compartida.
+
 ![image](https://github.com/user-attachments/assets/c5e692fa-5c04-4f5c-95ca-ce8049a5f4c4)
 
 ![image](https://github.com/user-attachments/assets/6bb2c607-620e-4803-8407-23e266569736)
@@ -13,6 +15,8 @@
 ![image](https://github.com/user-attachments/assets/fd1bdd86-d076-40bb-936d-60fda2064314)
 
 # Pas 2 - Creació de la carpeta compartida
+
+Creem la carpeta compartida i 
 
 ![image](https://github.com/user-attachments/assets/60a5c444-4d7a-443b-97e9-4b99a9b78545)
 
