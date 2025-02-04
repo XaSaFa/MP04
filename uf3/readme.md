@@ -28,6 +28,7 @@ Per compartir recursos a Windows necessitem dues MV:
   - [Connectar a unitat de xarxa i recurs de xarxa de forma gràfica](connectar_unitat_xarxa_visual.md)
   - [Crear una carpeta personal per als usuaris del domini](carpeta_personal_windows.md)
   - [Compartir impressora](compartir_impressora.md)
+  - [Crear un Script per compartir una unitat de xarxa als membres d'un grup](compartir-carpeta-amb-grup.md)
 
 - Directives de grup
   - [Crear una directiva de grup per una unitat organitzativa](directives.md)
