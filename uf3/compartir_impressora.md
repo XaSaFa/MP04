@@ -88,7 +88,7 @@ Escollim el nom del nostre servidor:
 
 **IMPORTANT**
 
-Si tenim que instal·lar una impressora de veritat i no volem haver de portar els drivers a cada equip on hagio de funcionar la impressora seguim els següents passos:
+Si tenim que instal·lar una impressora de veritat i no volem haver de portar els drivers a cada equip on hagi de funcionar la impressora seguim els següents passos:
 
 A "controladores" fem click dret i escollim "Agregar controlador":
 
