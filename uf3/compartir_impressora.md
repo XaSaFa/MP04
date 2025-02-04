@@ -36,7 +36,7 @@ Aquí ja el veiem en funcionament:
 
 ![image](https://github.com/XaSaFa/MP04/assets/110727546/68eb700b-25d3-4fd7-a0d7-e3fa69fba1c6)
 
-## Pas 2. Creau un grup d'impressió
+## Pas 2. Creeu un grup d'impressió
 
 Anem a usuaris:
 
