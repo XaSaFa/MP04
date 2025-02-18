@@ -36,7 +36,7 @@ Per a descriure el nom de client podem utilitzar:
   -  '?' - Per representar un únic caràcter qualsevol.
   -  '*' - Per representar un conjunt de caràcters qualsevols.
 - Intervals d'adreces IP: Per exemple 192.168.1.0/30 permet l'accés a les 30 primeres adreces de la xarxa 192.168.1.0 començant per 192.168.1.0.
-- Netgropus - Si dispossem d'un servidor NIS.
+- Netgroups - Si dispossem d'un servidor NIS.
 
 ## Opcions:
 
