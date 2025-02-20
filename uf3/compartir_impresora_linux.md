@@ -1,21 +1,27 @@
 # Compartir impressora a Linux 
 
-## Instal·lem CUPS
+![image](https://github.com/user-attachments/assets/e6bb3464-6716-4165-98ef-e250dfa7038d)
+
+Compartir una impressora entre diferents equips amb Linux permet economitzar recursos, una de les formes d'aconseguir que una impressora pugui ser utilitzada des d'un equip diferent al que està instal·lada és utilitzant CUPS (Common UNIX Printing System) que permet utilitzar un ordinador com a servidor d'impressió. 
+
+En aquest tutorial instal·larem una impressora PDF virtual a un ordinador que farà de servidor i la afegirem a un equip que farà de client. 
+
+## 1.- Instal·lem CUPS
 
 ```
 sudo apt update
 sudo apt install cups
 ```
 
-## Instal·lem impressora PDF
+## 2.- Instal·lem impressora PDF virtual
 
 ```
 sudo apt install printer-driver-cups-pdf
 ```
 
-## Compartim la impressora per CUPS
+## 3.- Compartim la impressora per CUPS
 
-Obrim el navegador i anem a l'adreça  ```http://localhost:631```.
+Obrim el **navegador** i anem a l'adreça  ```http://localhost:631```.
 
 ![image](https://github.com/user-attachments/assets/74db4eb0-cd4c-4a49-9527-16202cf53a1f)
 
@@ -33,7 +39,7 @@ Obrim el navegador i anem a l'adreça  ```http://localhost:631```.
 
 ![image](https://github.com/user-attachments/assets/54cdee2d-e86b-4c42-b063-421bc00cec8f)
 
-## Canviar el fitxer de configuració de CUPS
+## 4.- Canviar el fitxer de configuració de CUPS
 
 Afegir, si no està ja, aquestes línies al fitxer de configuració ```/etc/cups/cupsd.conf```
 
@@ -60,13 +66,13 @@ Listen [::]:631
 
 ```
 
-## Reiniciar el servei CUPS
+## 5.- Reiniciar el servei CUPS
 
 ```
 sudo systemctl restart cups
 ```
 
-## Afegir impressora al CLIENT
+## 6.- Afegir impressora a l'ordinador CLIENT
 
 ![image](https://github.com/user-attachments/assets/4385ec6c-4012-4546-9746-202e81394bff)
 
