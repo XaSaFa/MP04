@@ -80,4 +80,12 @@ Ja està detectada
 
 ![image](https://github.com/user-attachments/assets/bc97b7f8-2458-4c02-963d-6b6504aad196)
 
+Els fitxers PDFs queden guardats a l'ordinador servidor:
+
+![image](https://github.com/user-attachments/assets/6eafc33b-d8d9-4ca4-9e7a-21d15a2ba452)
+
+# Ampliació:
+
+1. Fes que la carpeta del server on estan els PDFs es comparteixi mitjançant NFS a la carpeta /PDF de l'ordinador client.
+2. Munta la carpeta /PDF del client a la carpeta /home/usuari/Documents/PDF de l'usuari actual.
 
