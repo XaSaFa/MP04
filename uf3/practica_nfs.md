@@ -24,6 +24,10 @@ Hem de preparar al servidor un directori compartit anomenat /zoo que utilitzarem
 
 El compartim per lectura i escriptura.
 
+Crearem una carpeta per cada usuari (granota i ornitorinc dins de zoo) les quals seran propietat del seu respectiu usuari.
+
+![image](https://github.com/user-attachments/assets/0cef9ed2-a46c-4998-9358-286cc9740c85)
+
 ## Muntar la carpeta compartida al client
 
 Crearem a l'ordinador client una carpeta a /mnt anomenada zoo, aquesta carpeta no tindrà propietari i tendrà tots els permisos habilitats
@@ -36,18 +40,47 @@ Aqui muntarem la carpeta /zoo del servidor i farem que es munti automàticament 
 
 ![image](https://github.com/user-attachments/assets/46ce8992-93b8-4f3c-94ac-3b037aaf4b1e)
 
+## Canviar el directori home dels usuaris a un directori del servidor.
+
+Ara farem que el directori home dels usuaris creats granota i ornitorinc canviï, de /home/granota passarem a /mnt/zoo/granota i farem el mateix amb els directoris necessaris per a l'altre usuari.
+
+Això ho aconseguim amb la comanda usermod i el paràmetre -d.
+
+![image](https://github.com/user-attachments/assets/2798d3c7-95f1-4925-b3a2-105d0d5421b1)
+
+Per tal de provar si funciona iniciarem sessió amb l'usuari granota a l'ordinador client.
+
+Al fer-ho veurem que estem fent servir com a home de l'usuari la carpeta compartida per NFS.
+
+![image](https://github.com/user-attachments/assets/63dec708-decb-41e7-b2ac-78deeaaeca96)
+
+A més al servidor s'hauran creat les carpetes de l'usuari a /zoo/granota.
+
+![image](https://github.com/user-attachments/assets/75912690-e3c9-41d7-9fbf-e49706822f24)
+
+## Quina utilitat té aquesta utilització de NFS.
+## Podria ser contraproduent en algun sentit?
+
+## Ampliació
+
+Feu la mateixa pràctica per a l'usuari cocodril, però feu que al server tingui un uid d'usuari de 1070 i al client de 1080.
+
+Com afecta això al funcionament de NFS? Perquè deu ser?
+
 ## Còpies de seguretat
 
 Per tal de guardar la informació dels usuaris creareu còpies de seguretat que es guardaran al server.
 
-Heu de crear una carpeta compartida al server amb cada usuari. Les carpetes estaran dins del directori /zoo i cada usuari tindrà un subdirectori propi, per exemple l'usuari granota tindrà un directori anomenat /zoo/granota.
+A efectes de la pràctica heu de tenir 10 documents pdf (amb tamany superior a 0) dins la carpeta Documents de l'usuari granota. 
 
-Programareu les còpies de seguretat per que es facin diariament per terminal ([apunts UF2](https://github.com/XaSaFa/MP04/blob/main/uf2/readme.md)).
+Heu de crear una carpeta compartida al server per a l'usuari granota, la carpeta estarà a /alcatraz/granota i la muntareu al client com a /backup/granota.
+
+Les còpies de seguretat guardaran tot el contingut de Documents dins de la carpeta anterior.
+
+Programareu les còpies de seguretat per que es facin diariament per terminal ([podeu fer servir crontab, apunts UF2](https://github.com/XaSaFa/MP04/blob/main/uf2/readme.md)).
 
 Les còpies es guardaran en un format de compressió a la vostra elecció.
 
 El nom de cada fitxer de còpia de seguretat tindrà la forma backup-nomusuari-dd-mm-aaaa-hh-mm seguit del punt i el format de fitxer.
 
-## Directori home
-
-Els usuaris fan servir 
+Proveu que les còpies de seguretat funcionen.
