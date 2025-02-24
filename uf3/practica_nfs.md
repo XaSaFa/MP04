@@ -30,11 +30,11 @@ Crearem a l'ordinador client una carpeta a /mnt anomenada zoo, aquesta carpeta n
 
 ![image](https://github.com/user-attachments/assets/2835fd14-748a-41bb-877c-4313bb4eb883)
 
-Aqui muntarem la carpeta /zoo del servidor.
+Aqui muntarem la carpeta /zoo del servidor i farem que es munti automàticament en encendre l'equip.
 
 ![image](https://github.com/user-attachments/assets/e59d5915-3df8-4864-b670-39b64b6aeaee)
 
-També farem que la carpeta es munti automàticament en encendre l'equip.
+![image](https://github.com/user-attachments/assets/46ce8992-93b8-4f3c-94ac-3b037aaf4b1e)
 
 ## Còpies de seguretat
 
