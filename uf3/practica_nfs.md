@@ -4,7 +4,7 @@ L'objectiu d'aquesta pràctica és aplicar la compartició de fitxers NFS sobre 
 
 ## Usuaris
 
-Tenim dos usuaris anomenats granota i jaguar, amb la següent informació:
+Tenim dos usuaris anomenats granota i ornitorinc, amb la següent informació:
 
 - Nom usuari: granota.
 - UID: 1050
