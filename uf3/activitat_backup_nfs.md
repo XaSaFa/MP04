@@ -12,6 +12,6 @@ Programareu les còpies de seguretat per que es facin diariament per terminal ([
 
 Les còpies es guardaran en un format de compressió a la vostra elecció.
 
-El nom de cada fitxer de còpia de seguretat tindrà la forma backup-nomusuari-dd-mm-aaaa-hh-mm seguit del punt i el format de fitxer.
+El nom de cada fitxer de còpia de seguretat tindrà la forma backup-nomusuari-dd-mm-aaaa-hh-mm seguit del punt i el format de fitxer i els ha de crear automàticament el sistema operatiu.
 
 Proveu que les còpies de seguretat funcionen.
