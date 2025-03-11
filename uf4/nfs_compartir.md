@@ -1,6 +1,6 @@
 # Compartir recursos de Linux a Windows amb NFS
 
-Per comprobvar que tenim accés als recursos del servidor des de Windows fem el següent:
+Per comprovar que tenim accés als recursos del servidor des de Windows fem el següent:
 
 ## Pas 1.- Mostrar els recursos compartits del servidor
 
