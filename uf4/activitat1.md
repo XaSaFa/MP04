@@ -1,6 +1,8 @@
 # Activitat 1 - Compartir recursos entre servidor Linux i Windows 10 utilitzant NFS
 
-Per a fer aquesta activitat utilitzaràs un Servidor Linux i un client Windows 10 a la mateixa xarxa.
+Entregueu un pdf amb el resultat de la següent activitat.
+
+Per a fer aquesta activitat utilitzaràs un Servidor Linux i un client Windows 10 a la mateixa xarxa (ISARD).
 - IP Linux: 192.168.1.100
 - IP Windows: 192.168.1.200
 
