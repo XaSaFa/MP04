@@ -16,8 +16,6 @@ Primer hem de saber quina carpeta compartir, per exemple anem a compartir una ca
 
 ![image](https://github.com/XaSaFa/MP04/assets/110727546/af51a73c-2973-4943-af76-75b7e4456f84)
 
-![image](https://github.com/XaSaFa/MP04/assets/110727546/a14e5ac6-e0ac-4d65-b535-177e3447e23f)
-
 ![image](https://github.com/user-attachments/assets/dca02b66-a059-4c17-8433-3e422f0ac9e2)
 
 ![image](https://github.com/XaSaFa/MP04/assets/110727546/390de2e7-6b58-45d6-8f63-a15059aaf5b8)
