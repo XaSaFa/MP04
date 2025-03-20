@@ -109,7 +109,7 @@ sudo nano /etc/samba/smb.conf
   browsable =yes
   create mask = 0660
   directory mask = 0771
-  writable = yes
+  writeable = yes
   guest ok = yes
 ```
 
