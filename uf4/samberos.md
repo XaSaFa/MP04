@@ -106,7 +106,7 @@ sudo nano /etc/samba/smb.conf
 [public]
   comment = public anonymous access
   path = /var/samba/
-  browsable =yes
+  browseable =yes
   create mask = 0660
   directory mask = 0771
   writeable = yes
