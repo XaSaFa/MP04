@@ -56,6 +56,15 @@ touch /home/xavi/fitxer-home
 
 ### Pas 6.- Accedir des de Windows 
 
+Hem d'activar la compartició anònima a Windows 10.
+
+Entrem a gpedit.msc
+
+![image](https://github.com/user-attachments/assets/3af2d9db-e654-4627-ac5d-77a5c3de4f4e)
+
+Activem la compartició anònima.
+![image](https://github.com/user-attachments/assets/747f2ba9-f74c-42be-baa1-9011e87779de)
+
 Comprovem l'adreça IP de l'ordinador Linux.
 
 ![image](https://github.com/XaSaFa/MP04/assets/110727546/fc3d3d37-b31f-4683-b470-5bb8604ba69a)
