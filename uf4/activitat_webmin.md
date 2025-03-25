@@ -78,3 +78,20 @@ sudo apt install quota quotatool
 - Crea un recurs a webmin que, utilitzant samba, comparteixi una carpeta anomenada "pontaeri_privat_X" per a usuaris _X i techno només de lectura.
 - Comprovar des de Windows que aquests recursos funcionen.
 
+# Grups:
+
+1
+Kristopher
+Eric
+2
+Oscar
+Nil
+3
+Oriol
+Ayoub
+4
+Arno
+Daniel
+5
+Sebastian
+Biel
