@@ -2,6 +2,7 @@
 
 - Entregueu un document pdf on feu les següents tasques.
 - Expliqueu el que feu amb text i captures.
+- **Fer tot des de webmin**
 - Rúbrica:
   - 2 punts - Estructura del document (portada, índex, capçalera, peu de pàgina, pàgines numerades, captures correctes, text ben formatat...).
   - 1 punt - Exercici 1.
@@ -14,14 +15,16 @@
 
 ## 1.- Crear i modificar usuaris
 
-- Has de crear dos usuaris user1_X i user2_X on (X és el vostre cognom).
+**Fer tot des de webmin**
+
+- Has de crear dos usuaris bakalao_X i techno_X on (X és el vostre cognom).
 - Els usuaris et passaran el hash de la seva contrasenya, no la contrasenya real. (podeu fer servir openssl).
-- Cada usuari tindrè un directori a home igual al seu nom d'usuari.
+- Cada usuari tindrà un directori a home igual al seu nom d'usuari.
 - Utilitzaran bash com a shell.
 - Els usuaris estaran dins del grup que tingui el seu mateix nom i dins del grup usuaris_empresa.
-- L'usuari user2_X no podrà fer login després del dia 21-04-2024.
+- L'usuari techno no podrà fer login després del dia 31-03-2025.
 - Comproveu que els usuaris poden iniciar sessió.
-- Canvia la data del sistema (utilitzant webmin) i comprova que user2_X no pot iniciar sessió si estem a dia 22-04-2024.
+- Canvia la data del sistema (utilitzant webmin) i comprova que techno no pot iniciar sessió si estem a dia 01-04-2025.
 
 ## 2.- Programar tasques
 
@@ -43,21 +46,21 @@
 - Utilitza webmin per mostrar els serveis que estan actius.
 - Utilitza webmin per mostrar l'estat del servidor Apache.
 - Utilitza webmin per aturar Apache.
-- Utilitza webmin per mostrar l'estat del servidor Apache.
+- Utilitza webmin per mostrar l'estat del servidor Apache apagat.
 - Utilitza webmin per reiniciar Apache.
-- Utilitza webmin per mostrar l'estat del servidor Apache.
+- Utilitza webmin per mostrar l'estat del servidor Apache reiniciat.
 
 ## 5.- Quotes de disc
 
-Activa les quotes de disc pels usuaris ammb la comanda: 
+Activa les quotes de disc pels usuaris amb la comanda: 
 
 ```
 sudo apt install quota quotatool
 ```
 
-- Utilitza webmin perquè l'usuari user1_X no pugui tenir més de 2 MB d'informació al disc.
+- Utilitza webmin perquè l'usuari bakalao_X no pugui tenir més de 2 MB d'informació al disc.
 - Comprova que el límit de la quota funciona.
-- Utilitza webmin perquè l'usuari user2_X no pugui tenir més de 10 fitxers al disc.
+- Utilitza webmin perquè l'usuari techno no pugui tenir més de 10 fitxers al disc.
 - Comprova que el límit de la quota funciona.
 
 ## 6.- Còpies de seguretat
@@ -66,12 +69,12 @@ sudo apt install quota quotatool
 - Modifica alguns fitxers de /home.
 - Recupera la còpia de seguretat.
 - Comprova que els fitxers de /home són els correctes.
-- Programa una còpia de seguretat de /home/user1_X per els divendres a les 21:00.
-- Esborra la còpia de seguretat programada anterior.
+- Programa una còpia de seguretat de /home/bakalao_X per els divendres a les 21:00.
+- Esborra la còpia de seguretat programada anteriorment.
 
 ## 7.- Compartició
 
-- Crea un recurs a webmin que, utilitzant samba comparteixi una carpeta anomenada "dejaneiro_public_X" per a usuaris sense autenticar en forma de lectura i escriptura.
-- Crea un recurs a webmin que, utilitzant samba comparteixi una carpeta anomenada "dejaneiro_privat_X" per a usuaris user1_X i user2_X només de lectura.
+- Crea un recurs a webmin que, utilitzant samba, comparteixi una carpeta anomenada "area_public_X" per a usuaris sense autenticar en forma de lectura i escriptura.
+- Crea un recurs a webmin que, utilitzant samba, comparteixi una carpeta anomenada "pontaeri_privat_X" per a usuaris _X i techno només de lectura.
 - Comprovar des de Windows que aquests recursos funcionen.
 
