@@ -80,18 +80,8 @@ sudo apt install quota quotatool
 
 # Grups:
 
-1
-Kristopher
-Eric
-2
-Oscar
-Nil
-3
-Oriol
-Ayoub
-4
-Arno
-Daniel
-5
-Sebastian
-Biel
+1. Kristopher i Eric
+2. Oscar i Nil
+3. Oriol i Ayoub
+4. Arno i Daniel
+5. Sebastian i Biel
