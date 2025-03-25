@@ -4,7 +4,7 @@
 - Expliqueu el que feu amb text i captures.
 - **Fer tot des de webmin**
 - Rúbrica:
-  - 2 punts - Estructura del document (portada, índex, capçalera, peu de pàgina, pàgines numerades, captures correctes, text ben formatat...).
+  - 2 punts - Estructura del document (portada, índex, captures correctes, text ben formatat...).
   - 1 punt - Exercici 1.
   - 1 punt - Exercici 2.
   - 1 punt - Exercici 3.
