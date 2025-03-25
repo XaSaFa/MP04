@@ -3,6 +3,8 @@ Webmin és un programa administrador per a servidors de forma visual i a navegad
 
 # Instal·lar Webmin:
 
+**Podeu anar a la web de webmin.com i seguir el tutorial o seguir els següents passos...**
+
 ## Pas 1.- Instal·lar Apache.
 
 ```
