@@ -85,3 +85,4 @@ sudo apt install quota quotatool
 3. Oriol i Ayoub
 4. Arno i Daniel
 5. Sebastian i Biel
+6. Mohammed
