@@ -5,7 +5,7 @@ Aquesta activitat es pot fer per parelles o de forma individual.
 L'activitat consta de dues activitats i el treball final és fer un tutorial i una presentació per cada part.
 
 - Tutorial: Pàgina web amb explicació pas a pas de com s'ha resolt la situació proposada. Pots utilitzar qualsevol plataforma que sigui on line i gratuïta con Github, Gitlab, Google Sites...
-- Presentació: Amb el ordinador fareu una demostració a classe de com ho heu resolt.
+- Presentació: Amb  l´ordinador fareu una demostració a classe de com ho heu resolt.
 
 # Activitat 1 - Compartir una impressora de Linux a Windows
 
