@@ -7,6 +7,11 @@ L'activitat consta de dues activitats i el treball final és fer un tutorial i u
 - Tutorial: Pàgina web amb explicació pas a pas de com s'ha resolt la situació proposada. Pots utilitzar qualsevol plataforma que sigui on line i gratuïta con Github, Gitlab, Google Sites...
 - Presentació: Amb  l´ordinador fareu una demostració a classe de com ho heu resolt.
 
+# IPs
+
+Linux: 192.168.X.100
+Windows: 192.168.X.10
+
 # Activitat 1 - Compartir una impressora de Linux a Windows
 
 La vostra oficina disposa d'una impressora centralitzada que està connectada a un equip amb Linux. 
