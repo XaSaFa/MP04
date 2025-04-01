@@ -28,6 +28,11 @@ La xarxa de l'oficina fa servir aquestes adreces IP. On X és el número assigna
 # Assignació de grups 
 Heu de fer servir el número de grup per l'adreça de xarxa de les pràctiques.
 
-1. 
+1. Kristopher i Eric
+2. Oscar i Nil
+3. Oriol i Ayoub
+4. Arno i Daniel
+5. Sebastian i Biel
+6. Mohammed
 
 
