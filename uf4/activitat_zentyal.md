@@ -32,7 +32,7 @@ El nom del domini serà el vostre cognom punt local. Per exemple "sancho.local".
 El nom netbios serà el vostre cognom. Per exemple "sancho".
 Recordeu canviar el password al compte Administrator.
 
-Per últim feu que l'idioma del panell de control de Zentyal sigui català.
+Per últim feu que l'idioma del panell de control de Zentyal sigui català i actualitzeu la zona horària.
 
 ## Client Windows 10
 
