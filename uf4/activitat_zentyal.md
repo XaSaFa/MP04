@@ -32,6 +32,8 @@ El nom del domini serà el vostre cognom punt local. Per exemple "sancho.local".
 El nom netbios serà el vostre cognom. Per exemple "sancho".
 Recordeu canviar el password al compte Administrator.
 
+Per últim feu que l'idioma del panell de control de Zentyal sigui català.
+
 ## Client Windows 10
 
 Utilitzareu la plantilla Windows 10 - Client Zentyal per a crear un escriptori que serveixi per entrar en domini amb el server Zentyal.
