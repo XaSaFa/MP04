@@ -1,6 +1,12 @@
 # Configurar Zentyal com Controlador de domini
 
+En aquesta pràctica tenim una MV amb Zentyal ja instal·lat i configurarem el servei de directori.
+
+L'eina d'administració de Zentyal és via web a l'adreça _localhost:8443_
+
 ## 1.- Afegir components
+
+Afegirem els components de Controlador de Domini i DNS.
 
 ![image](https://github.com/user-attachments/assets/11019a7a-3bde-49cb-a07e-002472633fd7)
 
@@ -8,19 +14,25 @@
 
 ![image](https://github.com/user-attachments/assets/d9cda03f-973f-409b-b555-1a638ee2a7cf)
 
-## 2.- Habilitem el mòdul de xarxa
+## 2.- Habilitar el mòdul de xarxa
+
+Activem el mòdul de xarxa i configurem l'adreça de la tercera interfície de xarxa que és una xarxa privada de centre.
 
 ![image](https://github.com/user-attachments/assets/cd2b87c0-3ee4-4b50-ac46-12aca7551284)
 
 ![image](https://github.com/user-attachments/assets/6e283ab6-87b7-4c63-a952-3e33ca8ad7ec)
 
-## 3.- Canviem el nom de domini
+## 3.- Canviar el nom de domini
+
+Canviarem el nom de domini, el vostre domini serà X.local on X és el vostre cognom, el nom del server serà el vostre nom.
 
 ![image](https://github.com/user-attachments/assets/932375c0-6314-4f64-841d-0f36ef40ddb5)
 
 ![image](https://github.com/user-attachments/assets/0b8848d8-4ea6-4ddb-ae18-0a3c6f102ec8)
 
-## 4.- Habilitem el mòdul de controlador de domini
+## 4.- Habilitar el mòdul de controlador de domini
+
+Habilitem el mòdul i a nom netbios ficarem el nostre cognom.
 
 ![image](https://github.com/user-attachments/assets/480d37ed-3e6c-42b4-a798-c08c0737abbb)
 
@@ -28,7 +40,9 @@
 
 ![image](https://github.com/user-attachments/assets/d9909296-a713-4df8-bd9d-c54ddbc74870)
 
-## 5.- Canviem el password de l'usuari Administrator
+## 5.- Canviar el password de l'usuari Administrator
+
+L'usuari Administrator és l'administrador del domini, li ficarem una contrasenya vàlida a més d'un nom i cognom.
 
 ![image](https://github.com/user-attachments/assets/06845445-b404-44b0-8fd7-37bcf2a4ee43)
 
@@ -40,12 +54,18 @@
 
 # 6.- Afegir un usuari del domini
 
+Afegim un usuari al domini per a provar-lo.
+
 ![image](https://github.com/user-attachments/assets/96ceb014-b259-42c1-a0d2-3bf16d49f0be)
 
 ![image](https://github.com/user-attachments/assets/30660a93-b309-4209-837e-4a38fe1cf7b4)
 
 
-## 6.- Canviem la configuració del client Windows
+## 6.- Canviar la configuració del client Windows
+
+A l'adaptador de xarxa de Windows fiquem una IP vàlida a la mateixa xarxa que el server i com a DNS la IP del server Zentyal.
+
+A més unirem Windows al domini.
 
 ![image](https://github.com/user-attachments/assets/45372640-e69f-492c-a1ad-559b77c3e5e0)
 
