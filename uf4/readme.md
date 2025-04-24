@@ -40,6 +40,11 @@
 - [Preparar el servidor](linux_controlador_domini.md)
 - [Connectar un client Windows](linux_controlador_de_domini2.md)
 
+## Servidor Zentyal
+
+- [Què és Zentyal?](zentyal0.md)
+- [Iniciar Zentyal com a controlador de domini](zentyal1.md)
+
 ## Recursos
 
 - [Web oficial de Samba](https://www.samba.org/)
