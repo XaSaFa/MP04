@@ -40,3 +40,15 @@ Podem connectar-la a la unitat Z:.
 
 ![image](https://github.com/user-attachments/assets/a62076b9-7485-462a-8a2b-e6ba59471983)
 
+## Canvi de contrasenya per part d'un client
+
+Un client del domini pot canviar la seva contrasenya pressionant Ctrl + Alt + Supr a Windows i seleccionant Canviar Contrasenya.
+
+![image](https://github.com/user-attachments/assets/5f3d4219-34c9-4f2c-9fad-00fc9e9f941f)
+
+![image](https://github.com/user-attachments/assets/efb1d3bd-aa92-4f73-8562-f0696f3e3f73)
+
+![image](https://github.com/user-attachments/assets/68806a50-78a8-47eb-b8de-f54acd4dd6ac)
+
+
+
