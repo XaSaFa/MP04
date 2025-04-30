@@ -72,3 +72,39 @@ Ens han proporcionat una llista de personal:
 
 ## Administració
 
+ - Lucía Álvarez Fernández
+ - Iker Etxebarria Zubizarreta
+ - Sofía Morales Medina
+ - Raúl Sánchez Del Río
+ - Aitana García Benítez
+ - Manuel Romero Pacheco
+ - Elena Costa Fontán
+ - Carlos Jiménez Ortiz
+ - Amira El Haddad Youssef
+ - Luka Petrović Novak
+
+# Creació de grups i usuaris
+
+Per començar crearem els següents grups:
+
+![image](https://github.com/user-attachments/assets/3f8cdf13-b36c-4b89-8d73-3dd73249dc99)
+
+Després afegirem un parell d'usuaris a cada grup:
+
+![image](https://github.com/user-attachments/assets/225d6a86-c3dd-4d5f-833b-c6d03075b941)
+
+![image](https://github.com/user-attachments/assets/5588fe88-e4fe-44a6-b90f-bbb26f63d759)
+
+# Creació de recurs compartit amb els membres del grup
+
+Cada grup tindrà un recurs compartit diferent, administració tindrà una carpeta accessible només per als seus membres que es dirà admin_files.
+
+![image](https://github.com/user-attachments/assets/71154252-965d-4b55-a816-364d3ca425f0)
+
+![image](https://github.com/user-attachments/assets/d3e34ec0-d3bc-41d9-87af-6e74e8a5cf3f)
+
+![image](https://github.com/user-attachments/assets/0fdaa69c-f5a0-4879-bc70-3331d0879934)
+
+I guardarem els canvis:
+
+![image](https://github.com/user-attachments/assets/745cfd87-8d0b-4c7a-b353-874bfa2a0a13)
