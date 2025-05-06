@@ -46,7 +46,7 @@
 - [Iniciar Zentyal com a controlador de domini](zentyal1.md)
 - [Activitat 1 - Instal·lar Zentyal](activitat_zentyal.md)
 - [Activitat 2 - Configurar aspectes de Zentyal](activitat_zentyal1.md)
-- [Activitat 3 - Gestió d'usuaris, grups i recursos compartits](activitat_zentyal1.md)
+- [Activitat 3 - Gestió d'usuaris, grups i recursos compartits](activitat_zentyal2.md)
   
 ## Recursos
 
