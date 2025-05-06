@@ -97,7 +97,13 @@ Després afegirem un parell d'usuaris a cada grup:
 
 # Creació de recurs compartit amb els membres del grup
 
-Cada grup tindrà un recurs compartit diferent, administració tindrà una carpeta accessible només per als seus membres que es dirà admin_files.
+Cada grup tindrà un recurs compartit diferent.
+
+- Administració tindrà una carpeta accessible només per als seus membres que es dirà admin_files.
+- Infermeria tindrà una carpeta anomenada docs_enfermeria.
+- IT tindrà una carpeta anomenada IT_crow.
+- Medicina tindrà una carpeta anomenada historiales_medicos.
+- Recursos humanos tindrà una carpeta anomenada curriculums.
 
 ![image](https://github.com/user-attachments/assets/71154252-965d-4b55-a816-364d3ca425f0)
 
